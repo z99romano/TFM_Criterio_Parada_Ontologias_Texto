@@ -1,0 +1,42 @@
+- df_text -> Contiene los textos que se han cargado del csv InformacionAutores10%.csv. La dupla id - Anyo es la clave única. 
+
+Fichero PKL: df_text_InformacionAutores10_20260528.pkl
+
+Columnas: ['id', 'Nombre', 'Anyo', 'Informacion']
+
+Tamaño: 2375 registros
+
+- df_sentences -> Los texto de df_text se han parseado para extraer frases y se han añadido al dataframe df_sentences. Cada frase se ha procesado con mrebel para obtener sus tripletas.
+
+Fichero PKL: df_sentences_mrebel_InformacionAutores10_20260528.pkl
+
+Columnas: ['id', 'Nombre', 'Anyo', 'Frase', 'mrebel_outputs']
+
+Tamaño: 8782 registros
+
+
+- df_triplets -> Este databra contiene las tripletas únicas (head - relation - tail) asociadas a cada frase (id - Anyo - Frase). Para cada tripleta se ha obtenido su embedding así como la traducción al español de la relación.
+
+Fichero PKL: df_triplets__InformacionAutores10_20260528.pkl
+
+Columnas: ['id', 'Nombre', 'Anyo', 'Frase', 'head', 'head_type', 'tail', 'tail_type', 'relation', 'head_type_full', 'tail_type_full', 'texto_embedding', 'embedding', 'translation_relation']
+
+Tamaño: 27838
+
+
+Información adicional:
+
+Estos ficheros se pueden cargar a un dataframe con este código:
+
+df_sentences = pd.read_pickle(
+    f"{OUTPUT_DIR}/df_sentences_mrebel_exp08_20260526_151058.pkl"
+)
+
+Los 27838 embeddings de df_triplets se ha clusterizado con estos resultados:
+
+Número de textos: 2375
+Número de frases: 8782
+Relaciones analizadas: 27838
+Clusters detectados: 616
+Relaciones clasificadas como ruido: 719
+Porcentaje de ruido: 2.58%

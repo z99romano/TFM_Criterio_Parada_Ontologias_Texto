@@ -1,0 +1,1497 @@
+Iteración: 1
+Procesando id=2, anyo=1642
+Relaciones acumuladas: 3
+Todavía no hay suficientes registros para ejecutar HDBSCAN
+--------------------------------------------------
+Iteración: 2
+Procesando id=2, anyo=Introducción
+Relaciones acumuladas: 6
+Clusters detectados: 0
+Relaciones clasificadas como ruido: 6
+Porcentaje de ruido: 100.0%
+Relaciones finales KG: 6
+Nuevos clusters: 0
+Delta relaciones KG: nan
+Delta ruido %: nan
+Ruido consolidado: nan
+Ratio consolidación ruido: nan
+--------------------------------------------------
+Iteración: 3
+Procesando id=40, anyo=1678
+Relaciones acumuladas: 9
+Clusters detectados: 0
+Relaciones clasificadas como ruido: 9
+Porcentaje de ruido: 100.0%
+Relaciones finales KG: 9
+Nuevos clusters: 0
+Delta relaciones KG: 0.5
+Delta ruido %: 0.0
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Iteración: 4
+Procesando id=40, anyo=Apostilla
+Relaciones acumuladas: 12
+Clusters detectados: 2
+Relaciones clasificadas como ruido: 4
+Porcentaje de ruido: 33.33%
+Relaciones finales KG: 6
+Nuevos clusters: 2
+Delta relaciones KG: 0.3333333333333333
+Delta ruido %: 66.67
+Ruido consolidado: 7
+Ratio consolidación ruido: 0.7777777777777778
+--------------------------------------------------
+Iteración: 5
+Procesando id=45, anyo=1630
+Relaciones acumuladas: 35
+Clusters detectados: 5
+Relaciones clasificadas como ruido: 10
+Porcentaje de ruido: 28.57%
+Relaciones finales KG: 15
+Nuevos clusters: 3
+Delta relaciones KG: 1.5
+Delta ruido %: 4.759999999999998
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Iteración: 6
+Procesando id=45, anyo=1631
+Relaciones acumuladas: 39
+Clusters detectados: 5
+Relaciones clasificadas como ruido: 11
+Porcentaje de ruido: 28.21%
+Relaciones finales KG: 16
+Nuevos clusters: 0
+Delta relaciones KG: 0.06666666666666667
+Delta ruido %: 0.35999999999999943
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Iteración: 7
+Procesando id=45, anyo=1633
+Relaciones acumuladas: 54
+Clusters detectados: 6
+Relaciones clasificadas como ruido: 9
+Porcentaje de ruido: 16.67%
+Relaciones finales KG: 15
+Nuevos clusters: 1
+Delta relaciones KG: 0.0625
+Delta ruido %: 11.54
+Ruido consolidado: 3
+Ratio consolidación ruido: 0.2727272727272727
+--------------------------------------------------
+Iteración: 8
+Procesando id=45, anyo=1635
+Relaciones acumuladas: 67
+Clusters detectados: 7
+Relaciones clasificadas como ruido: 12
+Porcentaje de ruido: 17.91%
+Relaciones finales KG: 19
+Nuevos clusters: 1
+Delta relaciones KG: 0.26666666666666666
+Delta ruido %: 1.2399999999999984
+Ruido consolidado: 1
+Ratio consolidación ruido: 0.1111111111111111
+--------------------------------------------------
+Iteración: 9
+Procesando id=45, anyo=1638
+Relaciones acumuladas: 82
+Clusters detectados: 8
+Relaciones clasificadas como ruido: 8
+Porcentaje de ruido: 9.76%
+Relaciones finales KG: 16
+Nuevos clusters: 1
+Delta relaciones KG: 0.15789473684210525
+Delta ruido %: 8.15
+Ruido consolidado: 4
+Ratio consolidación ruido: 0.3333333333333333
+--------------------------------------------------
+Iteración: 10
+Procesando id=45, anyo=1640
+Relaciones acumuladas: 85
+Clusters detectados: 9
+Relaciones clasificadas como ruido: 22
+Porcentaje de ruido: 25.88%
+Relaciones finales KG: 31
+Nuevos clusters: 1
+Delta relaciones KG: 0.9375
+Delta ruido %: 16.119999999999997
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Iteración: 11
+Procesando id=45, anyo=1643
+Relaciones acumuladas: 88
+Clusters detectados: 9
+Relaciones clasificadas como ruido: 23
+Porcentaje de ruido: 26.14%
+Relaciones finales KG: 32
+Nuevos clusters: 0
+Delta relaciones KG: 0.03225806451612903
+Delta ruido %: 0.26000000000000156
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Iteración: 12
+Procesando id=45, anyo=1644
+Relaciones acumuladas: 91
+Clusters detectados: 9
+Relaciones clasificadas como ruido: 22
+Porcentaje de ruido: 24.18%
+Relaciones finales KG: 31
+Nuevos clusters: 0
+Delta relaciones KG: 0.03125
+Delta ruido %: 1.9600000000000009
+Ruido consolidado: 1
+Ratio consolidación ruido: 0.043478260869565216
+--------------------------------------------------
+Iteración: 13
+Procesando id=45, anyo=1646
+Relaciones acumuladas: 94
+Clusters detectados: 10
+Relaciones clasificadas como ruido: 24
+Porcentaje de ruido: 25.53%
+Relaciones finales KG: 34
+Nuevos clusters: 1
+Delta relaciones KG: 0.0967741935483871
+Delta ruido %: 1.3500000000000014
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Iteración: 14
+Procesando id=45, anyo=1659
+Relaciones acumuladas: 100
+Clusters detectados: 11
+Relaciones clasificadas como ruido: 22
+Porcentaje de ruido: 22.0%
+Relaciones finales KG: 33
+Nuevos clusters: 1
+Delta relaciones KG: 0.029411764705882353
+Delta ruido %: 3.530000000000001
+Ruido consolidado: 2
+Ratio consolidación ruido: 0.08333333333333333
+--------------------------------------------------
+Iteración: 15
+Procesando id=45, anyo=1662
+Relaciones acumuladas: 103
+Clusters detectados: 11
+Relaciones clasificadas como ruido: 21
+Porcentaje de ruido: 20.39%
+Relaciones finales KG: 32
+Nuevos clusters: 0
+Delta relaciones KG: 0.030303030303030304
+Delta ruido %: 1.6099999999999994
+Ruido consolidado: 1
+Ratio consolidación ruido: 0.045454545454545456
+--------------------------------------------------
+Iteración: 16
+Procesando id=45, anyo=Introducción
+Relaciones acumuladas: 224
+Clusters detectados: 23
+Relaciones clasificadas como ruido: 37
+Porcentaje de ruido: 16.52%
+Relaciones finales KG: 60
+Nuevos clusters: 12
+Delta relaciones KG: 0.875
+Delta ruido %: 3.870000000000001
+Ruido consolidado: 4
+Ratio consolidación ruido: 0.19047619047619047
+--------------------------------------------------
+Iteración: 17
+Procesando id=56, anyo=1671
+Relaciones acumuladas: 227
+Clusters detectados: 23
+Relaciones clasificadas como ruido: 37
+Porcentaje de ruido: 16.3%
+Relaciones finales KG: 60
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.21999999999999886
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Iteración: 18
+Procesando id=56, anyo=1675
+Relaciones acumuladas: 240
+Clusters detectados: 23
+Relaciones clasificadas como ruido: 38
+Porcentaje de ruido: 15.83%
+Relaciones finales KG: 61
+Nuevos clusters: 0
+Delta relaciones KG: 0.016666666666666666
+Delta ruido %: 0.47000000000000064
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Iteración: 19
+Procesando id=56, anyo=1676
+Relaciones acumuladas: 243
+Clusters detectados: 23
+Relaciones clasificadas como ruido: 39
+Porcentaje de ruido: 16.05%
+Relaciones finales KG: 62
+Nuevos clusters: 0
+Delta relaciones KG: 0.01639344262295082
+Delta ruido %: 0.22000000000000064
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Iteración: 20
+Procesando id=56, anyo=1677
+Relaciones acumuladas: 248
+Clusters detectados: 23
+Relaciones clasificadas como ruido: 36
+Porcentaje de ruido: 14.52%
+Relaciones finales KG: 59
+Nuevos clusters: 0
+Delta relaciones KG: 0.04838709677419355
+Delta ruido %: 1.5300000000000011
+Ruido consolidado: 4
+Ratio consolidación ruido: 0.10256410256410256
+--------------------------------------------------
+Iteración: 21
+Procesando id=56, anyo=1678
+Relaciones acumuladas: 251
+Clusters detectados: 23
+Relaciones clasificadas como ruido: 37
+Porcentaje de ruido: 14.74%
+Relaciones finales KG: 60
+Nuevos clusters: 0
+Delta relaciones KG: 0.01694915254237288
+Delta ruido %: 0.22000000000000064
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 248
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 22
+Procesando id=56, anyo=1679
+Relaciones acumuladas: 255
+Clusters detectados: 23
+Relaciones clasificadas como ruido: 38
+Porcentaje de ruido: 14.9%
+Relaciones finales KG: 61
+Nuevos clusters: 0
+Delta relaciones KG: 0.016666666666666666
+Delta ruido %: 0.16000000000000014
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 249
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 23
+Procesando id=56, anyo=1682
+Relaciones acumuladas: 261
+Clusters detectados: 24
+Relaciones clasificadas como ruido: 38
+Porcentaje de ruido: 14.56%
+Relaciones finales KG: 62
+Nuevos clusters: 1
+Delta relaciones KG: 0.01639344262295082
+Delta ruido %: 0.33999999999999986
+Ruido consolidado: 2
+Ratio consolidación ruido: 0.05263157894736842
+--------------------------------------------------
+Embeddings ventana: 252
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 24
+Procesando id=56, anyo=1683
+Relaciones acumuladas: 266
+Clusters detectados: 24
+Relaciones clasificadas como ruido: 38
+Porcentaje de ruido: 14.29%
+Relaciones finales KG: 62
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.27000000000000135
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 254
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 25
+Procesando id=56, anyo=1685
+Relaciones acumuladas: 269
+Clusters detectados: 26
+Relaciones clasificadas como ruido: 38
+Porcentaje de ruido: 14.13%
+Relaciones finales KG: 64
+Nuevos clusters: 2
+Delta relaciones KG: 0.03225806451612903
+Delta ruido %: 0.15999999999999837
+Ruido consolidado: 3
+Ratio consolidación ruido: 0.07894736842105263
+--------------------------------------------------
+Embeddings ventana: 234
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 26
+Procesando id=56, anyo=1686
+Relaciones acumuladas: 271
+Clusters detectados: 26
+Relaciones clasificadas como ruido: 38
+Porcentaje de ruido: 14.02%
+Relaciones finales KG: 64
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.11000000000000121
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 232
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 27
+Procesando id=56, anyo=1689
+Relaciones acumuladas: 274
+Clusters detectados: 27
+Relaciones clasificadas como ruido: 40
+Porcentaje de ruido: 14.6%
+Relaciones finales KG: 67
+Nuevos clusters: 1
+Delta relaciones KG: 0.046875
+Delta ruido %: 0.5800000000000001
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 220
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 28
+Procesando id=56, anyo=1699
+Relaciones acumuladas: 277
+Clusters detectados: 28
+Relaciones clasificadas como ruido: 37
+Porcentaje de ruido: 13.36%
+Relaciones finales KG: 65
+Nuevos clusters: 1
+Delta relaciones KG: 0.029850746268656716
+Delta ruido %: 1.2400000000000002
+Ruido consolidado: 3
+Ratio consolidación ruido: 0.075
+--------------------------------------------------
+Embeddings ventana: 210
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 29
+Procesando id=56, anyo=Introducción
+Relaciones acumuladas: 292
+Clusters detectados: 30
+Relaciones clasificadas como ruido: 35
+Porcentaje de ruido: 11.99%
+Relaciones finales KG: 65
+Nuevos clusters: 2
+Delta relaciones KG: 0.0
+Delta ruido %: 1.3699999999999992
+Ruido consolidado: 2
+Ratio consolidación ruido: 0.05405405405405406
+--------------------------------------------------
+Embeddings ventana: 210
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 30
+Procesando id=62, anyo=1602
+Relaciones acumuladas: 313
+Clusters detectados: 30
+Relaciones clasificadas como ruido: 37
+Porcentaje de ruido: 11.82%
+Relaciones finales KG: 67
+Nuevos clusters: 0
+Delta relaciones KG: 0.03076923076923077
+Delta ruido %: 0.16999999999999993
+Ruido consolidado: 1
+Ratio consolidación ruido: 0.02857142857142857
+--------------------------------------------------
+Embeddings ventana: 228
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 31
+Procesando id=62, anyo=1613
+Relaciones acumuladas: 334
+Clusters detectados: 33
+Relaciones clasificadas como ruido: 43
+Porcentaje de ruido: 12.87%
+Relaciones finales KG: 76
+Nuevos clusters: 3
+Delta relaciones KG: 0.13432835820895522
+Delta ruido %: 1.049999999999999
+Ruido consolidado: 1
+Ratio consolidación ruido: 0.02702702702702703
+--------------------------------------------------
+Embeddings ventana: 246
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 32
+Procesando id=66, anyo=1603
+Relaciones acumuladas: 338
+Clusters detectados: 33
+Relaciones clasificadas como ruido: 44
+Porcentaje de ruido: 13.02%
+Relaciones finales KG: 77
+Nuevos clusters: 0
+Delta relaciones KG: 0.013157894736842105
+Delta ruido %: 0.15000000000000036
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 247
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 33
+Procesando id=66, anyo=1604
+Relaciones acumuladas: 342
+Clusters detectados: 33
+Relaciones clasificadas como ruido: 44
+Porcentaje de ruido: 12.87%
+Relaciones finales KG: 77
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.15000000000000036
+Ruido consolidado: 1
+Ratio consolidación ruido: 0.022727272727272728
+--------------------------------------------------
+Embeddings ventana: 248
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 34
+Procesando id=66, anyo=1607
+Relaciones acumuladas: 348
+Clusters detectados: 33
+Relaciones clasificadas como ruido: 44
+Porcentaje de ruido: 12.64%
+Relaciones finales KG: 77
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.22999999999999865
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 248
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 35
+Procesando id=66, anyo=1618
+Relaciones acumuladas: 354
+Clusters detectados: 35
+Relaciones clasificadas como ruido: 44
+Porcentaje de ruido: 12.43%
+Relaciones finales KG: 79
+Nuevos clusters: 2
+Delta relaciones KG: 0.025974025974025976
+Delta ruido %: 0.21000000000000085
+Ruido consolidado: 1
+Ratio consolidación ruido: 0.022727272727272728
+--------------------------------------------------
+Embeddings ventana: 251
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 36
+Procesando id=66, anyo=Introducción
+Relaciones acumuladas: 357
+Clusters detectados: 34
+Relaciones clasificadas como ruido: 50
+Porcentaje de ruido: 14.01%
+Relaciones finales KG: 84
+Nuevos clusters: 0
+Delta relaciones KG: 0.06329113924050633
+Delta ruido %: 1.58
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 133
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 37
+Procesando id=105, anyo=Introducción
+Relaciones acumuladas: 362
+Clusters detectados: 34
+Relaciones clasificadas como ruido: 54
+Porcentaje de ruido: 14.92%
+Relaciones finales KG: 88
+Nuevos clusters: 0
+Delta relaciones KG: 0.047619047619047616
+Delta ruido %: 0.9100000000000001
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 135
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 38
+Procesando id=119, anyo=1630
+Relaciones acumuladas: 367
+Clusters detectados: 34
+Relaciones clasificadas como ruido: 54
+Porcentaje de ruido: 14.71%
+Relaciones finales KG: 88
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.20999999999999908
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 127
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 39
+Procesando id=119, anyo=1631
+Relaciones acumuladas: 372
+Clusters detectados: 36
+Relaciones clasificadas como ruido: 49
+Porcentaje de ruido: 13.17%
+Relaciones finales KG: 85
+Nuevos clusters: 2
+Delta relaciones KG: 0.03409090909090909
+Delta ruido %: 1.540000000000001
+Ruido consolidado: 6
+Ratio consolidación ruido: 0.1111111111111111
+--------------------------------------------------
+Embeddings ventana: 129
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 40
+Procesando id=119, anyo=1633
+Relaciones acumuladas: 375
+Clusters detectados: 37
+Relaciones clasificadas como ruido: 54
+Porcentaje de ruido: 14.4%
+Relaciones finales KG: 91
+Nuevos clusters: 1
+Delta relaciones KG: 0.07058823529411765
+Delta ruido %: 1.2300000000000004
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 127
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 41
+Procesando id=119, anyo=1635
+Relaciones acumuladas: 379
+Clusters detectados: 37
+Relaciones clasificadas como ruido: 54
+Porcentaje de ruido: 14.25%
+Relaciones finales KG: 91
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.15000000000000036
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 128
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 42
+Procesando id=119, anyo=1639
+Relaciones acumuladas: 489
+Clusters detectados: 42
+Relaciones clasificadas como ruido: 71
+Porcentaje de ruido: 14.52%
+Relaciones finales KG: 113
+Nuevos clusters: 5
+Delta relaciones KG: 0.24175824175824176
+Delta ruido %: 0.2699999999999996
+Ruido consolidado: 2
+Ratio consolidación ruido: 0.037037037037037035
+--------------------------------------------------
+Embeddings ventana: 234
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 43
+Procesando id=119, anyo=1640
+Relaciones acumuladas: 517
+Clusters detectados: 44
+Relaciones clasificadas como ruido: 78
+Porcentaje de ruido: 15.09%
+Relaciones finales KG: 122
+Nuevos clusters: 2
+Delta relaciones KG: 0.07964601769911504
+Delta ruido %: 0.5700000000000003
+Ruido consolidado: 3
+Ratio consolidación ruido: 0.04225352112676056
+--------------------------------------------------
+Embeddings ventana: 256
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 44
+Procesando id=119, anyo=1641
+Relaciones acumuladas: 530
+Clusters detectados: 44
+Relaciones clasificadas como ruido: 79
+Porcentaje de ruido: 14.91%
+Relaciones finales KG: 123
+Nuevos clusters: 0
+Delta relaciones KG: 0.00819672131147541
+Delta ruido %: 0.17999999999999972
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 264
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 45
+Procesando id=119, anyo=1642
+Relaciones acumuladas: 546
+Clusters detectados: 44
+Relaciones clasificadas como ruido: 81
+Porcentaje de ruido: 14.84%
+Relaciones finales KG: 125
+Nuevos clusters: 0
+Delta relaciones KG: 0.016260162601626018
+Delta ruido %: 0.07000000000000028
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 277
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 46
+Procesando id=119, anyo=1643
+Relaciones acumuladas: 571
+Clusters detectados: 47
+Relaciones clasificadas como ruido: 86
+Porcentaje de ruido: 15.06%
+Relaciones finales KG: 133
+Nuevos clusters: 3
+Delta relaciones KG: 0.064
+Delta ruido %: 0.22000000000000064
+Ruido consolidado: 3
+Ratio consolidación ruido: 0.037037037037037035
+--------------------------------------------------
+Embeddings ventana: 300
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 47
+Procesando id=119, anyo=Introducción
+Relaciones acumuladas: 615
+Clusters detectados: 48
+Relaciones clasificadas como ruido: 103
+Porcentaje de ruido: 16.75%
+Relaciones finales KG: 151
+Nuevos clusters: 1
+Delta relaciones KG: 0.13533834586466165
+Delta ruido %: 1.6899999999999995
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 341
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 48
+Procesando id=121, anyo=1636
+Relaciones acumuladas: 620
+Clusters detectados: 48
+Relaciones clasificadas como ruido: 106
+Porcentaje de ruido: 17.1%
+Relaciones finales KG: 154
+Nuevos clusters: 0
+Delta relaciones KG: 0.019867549668874173
+Delta ruido %: 0.3500000000000014
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 343
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 49
+Procesando id=121, anyo=1655
+Relaciones acumuladas: 633
+Clusters detectados: 48
+Relaciones clasificadas como ruido: 111
+Porcentaje de ruido: 17.54%
+Relaciones finales KG: 159
+Nuevos clusters: 0
+Delta relaciones KG: 0.032467532467532464
+Delta ruido %: 0.4399999999999977
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 341
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 50
+Procesando id=121, anyo=1657
+Relaciones acumuladas: 652
+Clusters detectados: 50
+Relaciones clasificadas como ruido: 109
+Porcentaje de ruido: 16.72%
+Relaciones finales KG: 159
+Nuevos clusters: 2
+Delta relaciones KG: 0.0
+Delta ruido %: 0.8200000000000003
+Ruido consolidado: 6
+Ratio consolidación ruido: 0.05405405405405406
+--------------------------------------------------
+Embeddings ventana: 339
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 51
+Procesando id=121, anyo=1658
+Relaciones acumuladas: 655
+Clusters detectados: 50
+Relaciones clasificadas como ruido: 109
+Porcentaje de ruido: 16.64%
+Relaciones finales KG: 159
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.0799999999999983
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 321
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 52
+Procesando id=121, anyo=1659
+Relaciones acumuladas: 690
+Clusters detectados: 56
+Relaciones clasificadas como ruido: 110
+Porcentaje de ruido: 15.94%
+Relaciones finales KG: 166
+Nuevos clusters: 6
+Delta relaciones KG: 0.0440251572327044
+Delta ruido %: 0.7000000000000011
+Ruido consolidado: 8
+Ratio consolidación ruido: 0.07339449541284404
+--------------------------------------------------
+Embeddings ventana: 352
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 53
+Procesando id=121, anyo=1660
+Relaciones acumuladas: 845
+Clusters detectados: 65
+Relaciones clasificadas como ruido: 111
+Porcentaje de ruido: 13.14%
+Relaciones finales KG: 176
+Nuevos clusters: 9
+Delta relaciones KG: 0.060240963855421686
+Delta ruido %: 2.799999999999999
+Ruido consolidado: 15
+Ratio consolidación ruido: 0.13636363636363635
+--------------------------------------------------
+Embeddings ventana: 503
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 54
+Procesando id=121, anyo=1661
+Relaciones acumuladas: 871
+Clusters detectados: 67
+Relaciones clasificadas como ruido: 118
+Porcentaje de ruido: 13.55%
+Relaciones finales KG: 185
+Nuevos clusters: 2
+Delta relaciones KG: 0.05113636363636364
+Delta ruido %: 0.41000000000000014
+Ruido consolidado: 3
+Ratio consolidación ruido: 0.02702702702702703
+--------------------------------------------------
+Embeddings ventana: 523
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 55
+Procesando id=121, anyo=1662
+Relaciones acumuladas: 874
+Clusters detectados: 67
+Relaciones clasificadas como ruido: 118
+Porcentaje de ruido: 13.5%
+Relaciones finales KG: 185
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.05000000000000071
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 520
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 56
+Procesando id=121, anyo=1663
+Relaciones acumuladas: 880
+Clusters detectados: 67
+Relaciones clasificadas como ruido: 118
+Porcentaje de ruido: 13.41%
+Relaciones finales KG: 185
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.08999999999999986
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 523
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 57
+Procesando id=121, anyo=1664
+Relaciones acumuladas: 930
+Clusters detectados: 68
+Relaciones clasificadas como ruido: 135
+Porcentaje de ruido: 14.52%
+Relaciones finales KG: 203
+Nuevos clusters: 1
+Delta relaciones KG: 0.0972972972972973
+Delta ruido %: 1.1099999999999994
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 568
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 58
+Procesando id=121, anyo=1665
+Relaciones acumuladas: 949
+Clusters detectados: 68
+Relaciones clasificadas como ruido: 138
+Porcentaje de ruido: 14.54%
+Relaciones finales KG: 206
+Nuevos clusters: 0
+Delta relaciones KG: 0.014778325123152709
+Delta ruido %: 0.019999999999999574
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 582
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 59
+Procesando id=121, anyo=1667
+Relaciones acumuladas: 978
+Clusters detectados: 70
+Relaciones clasificadas como ruido: 139
+Porcentaje de ruido: 14.21%
+Relaciones finales KG: 209
+Nuevos clusters: 2
+Delta relaciones KG: 0.014563106796116505
+Delta ruido %: 0.3299999999999983
+Ruido consolidado: 4
+Ratio consolidación ruido: 0.028985507246376812
+--------------------------------------------------
+Embeddings ventana: 606
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 60
+Procesando id=121, anyo=1668
+Relaciones acumuladas: 981
+Clusters detectados: 70
+Relaciones clasificadas como ruido: 142
+Porcentaje de ruido: 14.48%
+Relaciones finales KG: 212
+Nuevos clusters: 0
+Delta relaciones KG: 0.014354066985645933
+Delta ruido %: 0.2699999999999996
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 606
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 61
+Procesando id=121, anyo=1670
+Relaciones acumuladas: 990
+Clusters detectados: 70
+Relaciones clasificadas como ruido: 143
+Porcentaje de ruido: 14.44%
+Relaciones finales KG: 213
+Nuevos clusters: 0
+Delta relaciones KG: 0.0047169811320754715
+Delta ruido %: 0.040000000000000924
+Ruido consolidado: 1
+Ratio consolidación ruido: 0.007042253521126761
+--------------------------------------------------
+Embeddings ventana: 611
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 62
+Procesando id=121, anyo=1671
+Relaciones acumuladas: 993
+Clusters detectados: 70
+Relaciones clasificadas como ruido: 143
+Porcentaje de ruido: 14.4%
+Relaciones finales KG: 213
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.03999999999999915
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 504
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 63
+Procesando id=121, anyo=1678
+Relaciones acumuladas: 996
+Clusters detectados: 70
+Relaciones clasificadas como ruido: 144
+Porcentaje de ruido: 14.46%
+Relaciones finales KG: 214
+Nuevos clusters: 0
+Delta relaciones KG: 0.004694835680751174
+Delta ruido %: 0.0600000000000005
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 479
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 64
+Procesando id=121, anyo=1689
+Relaciones acumuladas: 999
+Clusters detectados: 70
+Relaciones clasificadas como ruido: 144
+Porcentaje de ruido: 14.41%
+Relaciones finales KG: 214
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.05000000000000071
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 469
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 65
+Procesando id=121, anyo=Introducción
+Relaciones acumuladas: 1034
+Clusters detectados: 74
+Relaciones clasificadas como ruido: 152
+Porcentaje de ruido: 14.7%
+Relaciones finales KG: 226
+Nuevos clusters: 4
+Delta relaciones KG: 0.056074766355140186
+Delta ruido %: 0.28999999999999915
+Ruido consolidado: 3
+Ratio consolidación ruido: 0.020833333333333332
+--------------------------------------------------
+Embeddings ventana: 488
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 66
+Procesando id=126, anyo=1613
+Relaciones acumuladas: 1038
+Clusters detectados: 74
+Relaciones clasificadas como ruido: 152
+Porcentaje de ruido: 14.64%
+Relaciones finales KG: 226
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.05999999999999872
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 467
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 67
+Procesando id=126, anyo=Introducción
+Relaciones acumuladas: 1041
+Clusters detectados: 74
+Relaciones clasificadas como ruido: 152
+Porcentaje de ruido: 14.6%
+Relaciones finales KG: 226
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.040000000000000924
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 426
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 68
+Procesando id=130, anyo=1686
+Relaciones acumuladas: 1047
+Clusters detectados: 74
+Relaciones clasificadas como ruido: 153
+Porcentaje de ruido: 14.61%
+Relaciones finales KG: 227
+Nuevos clusters: 0
+Delta relaciones KG: 0.004424778761061947
+Delta ruido %: 0.009999999999999787
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 427
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 69
+Procesando id=130, anyo=1692
+Relaciones acumuladas: 1050
+Clusters detectados: 74
+Relaciones clasificadas como ruido: 154
+Porcentaje de ruido: 14.67%
+Relaciones finales KG: 228
+Nuevos clusters: 0
+Delta relaciones KG: 0.004405286343612335
+Delta ruido %: 0.0600000000000005
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 417
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 70
+Procesando id=130, anyo=Introducción
+Relaciones acumuladas: 1067
+Clusters detectados: 75
+Relaciones clasificadas como ruido: 159
+Porcentaje de ruido: 14.9%
+Relaciones finales KG: 234
+Nuevos clusters: 1
+Delta relaciones KG: 0.02631578947368421
+Delta ruido %: 0.23000000000000043
+Ruido consolidado: 1
+Ratio consolidación ruido: 0.006493506493506494
+--------------------------------------------------
+Embeddings ventana: 415
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 71
+Procesando id=136, anyo=1605
+Relaciones acumuladas: 1072
+Clusters detectados: 76
+Relaciones clasificadas como ruido: 159
+Porcentaje de ruido: 14.83%
+Relaciones finales KG: 235
+Nuevos clusters: 1
+Delta relaciones KG: 0.004273504273504274
+Delta ruido %: 0.07000000000000028
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 417
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 72
+Procesando id=136, anyo=1609
+Relaciones acumuladas: 1076
+Clusters detectados: 76
+Relaciones clasificadas como ruido: 160
+Porcentaje de ruido: 14.87%
+Relaciones finales KG: 236
+Nuevos clusters: 0
+Delta relaciones KG: 0.00425531914893617
+Delta ruido %: 0.03999999999999915
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 386
+Relaciones KG estables: False
+Ruido estable: False
+Pocos clusters nuevos: False
+Baja consolidación ruido: False
+--------------------------------------------------
+Iteración: 73
+Procesando id=136, anyo=1610
+Relaciones acumuladas: 1084
+Clusters detectados: 76
+Relaciones clasificadas como ruido: 161
+Porcentaje de ruido: 14.85%
+Relaciones finales KG: 237
+Nuevos clusters: 0
+Delta relaciones KG: 0.00423728813559322
+Delta ruido %: 0.019999999999999574
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 239
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: True
+--------------------------------------------------
+Iteración: 74
+Procesando id=136, anyo=1612
+Relaciones acumuladas: 1092
+Clusters detectados: 76
+Relaciones clasificadas como ruido: 164
+Porcentaje de ruido: 15.02%
+Relaciones finales KG: 240
+Nuevos clusters: 0
+Delta relaciones KG: 0.012658227848101266
+Delta ruido %: 0.16999999999999993
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 221
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: True
+--------------------------------------------------
+Iteración: 75
+Procesando id=136, anyo=1613
+Relaciones acumuladas: 1109
+Clusters detectados: 76
+Relaciones clasificadas como ruido: 167
+Porcentaje de ruido: 15.06%
+Relaciones finales KG: 243
+Nuevos clusters: 0
+Delta relaciones KG: 0.0125
+Delta ruido %: 0.040000000000000924
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 235
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: True
+--------------------------------------------------
+Iteración: 76
+Procesando id=136, anyo=Introducción
+Relaciones acumuladas: 1116
+Clusters detectados: 76
+Relaciones clasificadas como ruido: 167
+Porcentaje de ruido: 14.96%
+Relaciones finales KG: 243
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.09999999999999964
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 236
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: True
+--------------------------------------------------
+Iteración: 77
+Procesando id=146, anyo=Introducción
+Relaciones acumuladas: 1128
+Clusters detectados: 76
+Relaciones clasificadas como ruido: 171
+Porcentaje de ruido: 15.16%
+Relaciones finales KG: 247
+Nuevos clusters: 0
+Delta relaciones KG: 0.01646090534979424
+Delta ruido %: 0.1999999999999993
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 198
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: True
+--------------------------------------------------
+Iteración: 78
+Procesando id=153, anyo=1628
+Relaciones acumuladas: 1137
+Clusters detectados: 77
+Relaciones clasificadas como ruido: 169
+Porcentaje de ruido: 14.86%
+Relaciones finales KG: 246
+Nuevos clusters: 1
+Delta relaciones KG: 0.004048582995951417
+Delta ruido %: 0.3000000000000007
+Ruido consolidado: 3
+Ratio consolidación ruido: 0.017543859649122806
+--------------------------------------------------
+Embeddings ventana: 188
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: True
+--------------------------------------------------
+Iteración: 79
+Procesando id=153, anyo=1631
+Relaciones acumuladas: 1150
+Clusters detectados: 77
+Relaciones clasificadas como ruido: 169
+Porcentaje de ruido: 14.7%
+Relaciones finales KG: 246
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.16000000000000014
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 172
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: True
+--------------------------------------------------
+Iteración: 80
+Procesando id=153, anyo=1632
+Relaciones acumuladas: 1153
+Clusters detectados: 77
+Relaciones clasificadas como ruido: 169
+Porcentaje de ruido: 14.66%
+Relaciones finales KG: 246
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.03999999999999915
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 172
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: True
+--------------------------------------------------
+Iteración: 81
+Procesando id=153, anyo=Apostilla
+Relaciones acumuladas: 1156
+Clusters detectados: 77
+Relaciones clasificadas como ruido: 169
+Porcentaje de ruido: 14.62%
+Relaciones finales KG: 246
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.040000000000000924
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 166
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: True
+--------------------------------------------------
+Iteración: 82
+Procesando id=153, anyo=Introducción
+Relaciones acumuladas: 1165
+Clusters detectados: 78
+Relaciones clasificadas como ruido: 171
+Porcentaje de ruido: 14.68%
+Relaciones finales KG: 249
+Nuevos clusters: 1
+Delta relaciones KG: 0.012195121951219513
+Delta ruido %: 0.0600000000000005
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 172
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: True
+--------------------------------------------------
+Iteración: 83
+Procesando id=156, anyo=1657
+Relaciones acumuladas: 1180
+Clusters detectados: 78
+Relaciones clasificadas como ruido: 174
+Porcentaje de ruido: 14.75%
+Relaciones finales KG: 252
+Nuevos clusters: 0
+Delta relaciones KG: 0.012048192771084338
+Delta ruido %: 0.07000000000000028
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 184
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: True
+--------------------------------------------------
+Iteración: 84
+Procesando id=156, anyo=1659
+Relaciones acumuladas: 1183
+Clusters detectados: 78
+Relaciones clasificadas como ruido: 174
+Porcentaje de ruido: 14.71%
+Relaciones finales KG: 252
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.03999999999999915
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 184
+Relaciones KG estables: False
+Ruido estable: True
+Pocos clusters nuevos: False
+Baja consolidación ruido: True
+--------------------------------------------------
+Iteración: 85
+Procesando id=156, anyo=1660
+Relaciones acumuladas: 1192
+Clusters detectados: 78
+Relaciones clasificadas como ruido: 174
+Porcentaje de ruido: 14.6%
+Relaciones finales KG: 252
+Nuevos clusters: 0
+Delta relaciones KG: 0.0
+Delta ruido %: 0.11000000000000121
+Ruido consolidado: 0
+Ratio consolidación ruido: 0.0
+--------------------------------------------------
+Embeddings ventana: 158
+Relaciones KG estables: True
+Ruido estable: True
+Pocos clusters nuevos: True
+Baja consolidación ruido: True
+--------------------------------------------------
+Criterio de parada alcanzado.
+Motivo: estabilidad cluster-ruido durante la ventana definida.
+Proceso finalizado.
+Log guardado en: ../Output/experiments/log_mrebel_exp09_estabilidad_cluster_ruido_20260602_182135.txt
+Iteraciones ejecutadas: 85
+Relaciones finales acumuladas: 1192
+Clusters detectados: 78
+Relaciones clasificadas como ruido: 174
+Porcentaje de ruido: 14.6%
+Relaciones finales KG: 252

@@ -1,0 +1,7 @@
+normalized_relation,cluster_id,ontology_relation
+morir en,1,nacer en
+nacer en,1,nacer en
+ser hijo de,1,nacer en
+actuar,2,representar
+participar,2,representar
+representar,2,representar

@@ -1,0 +1,1336 @@
+@prefix ex: <http://example.org/dicat/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ex:compania a rdfs:Class ;
+    rdfs:label "Compañía" .
+
+ex:entidad a rdfs:Class ;
+    rdfs:label "Entidad" .
+
+ex:lugar a rdfs:Class ;
+    rdfs:label "Lugar" .
+
+ex:obra a rdfs:Class ;
+    rdfs:label "Obra" .
+
+ex:organizacion a rdfs:Class ;
+    rdfs:label "Organizacion" .
+
+ex:persona a rdfs:Class ;
+    rdfs:label "Persona" .
+
+ex:personaje a rdfs:Class ;
+    rdfs:label "Personaje" .
+
+ex:1 a ex:lugar ;
+    rdfs:label "1",
+        "1)" .
+
+ex:2 a ex:lugar ;
+    rdfs:label "2)" .
+
+ex:5 a ex:lugar ;
+    rdfs:label "5)" .
+
+ex:a_de_la_granja a ex:persona ;
+    rdfs:label "A. de la Granja" .
+
+ex:a_finales_de_noviembre_de_este_ano_se a ex:persona ;
+    rdfs:label "A finales de noviembre de este año se" ;
+    ex:participa_en ex:palacio_el_baile_de_los_juan_ranas_para_celebrar_el_primer_cumpleanos_del_principe_felipe_prospero_que_habia_nacido_el_28_de_noviembre_de_1657 .
+
+ex:aguilar_priego a ex:lugar ;
+    rdfs:label "Aguilar Priego" .
+
+ex:agustin_manuel a ex:persona ;
+    rdfs:label "Agustín Manuel" .
+
+ex:agustin_merlo a ex:persona ;
+    rdfs:label "Agustín Merlo" .
+
+ex:agustin_moreto a ex:persona ;
+    rdfs:label "Agustín Moreto" .
+
+ex:alcalde a ex:persona ;
+    rdfs:label "Alcalde" .
+
+ex:alcayde a ex:persona ;
+    rdfs:label "Alcayde" .
+
+ex:alma a ex:persona ;
+    rdfs:label "Alma" .
+
+ex:alonso_de_olmedo a ex:persona ;
+    rdfs:label "Alonso de Olmedo" .
+
+ex:alonso_de_paz a ex:persona ;
+    rdfs:label "Alonso de Paz" .
+
+ex:amarilis a ex:persona ;
+    rdfs:label "Amarilis" .
+
+ex:ana a ex:persona ;
+    rdfs:label "Ana" .
+
+ex:ana_coronel a ex:persona ;
+    rdfs:label "Ana Coronel" .
+
+ex:andres_de_claramonte a ex:persona ;
+    rdfs:label "Andrés de Claramonte" .
+
+ex:andres_ferrer a ex:persona ;
+    rdfs:label "Andrés Ferrer" .
+
+ex:andromeda a ex:persona ;
+    rdfs:label "Andrómeda" .
+
+ex:antonia_de_santiago a ex:persona ;
+    rdfs:label "Antonia de Santiago" .
+
+ex:antonia_del_pozo a ex:persona ;
+    rdfs:label "Antonia del Pozo" .
+
+ex:antonia_del_pozo_la_patata a ex:persona ;
+    rdfs:label "Antonia del Pozo 'la Patata" .
+
+ex:antonio a ex:persona ;
+    rdfs:label "Antonio" .
+
+ex:antonio_de_escamilla a ex:persona ;
+    rdfs:label "Antonio de Escamilla",
+        "Antonio de] Escamilla" .
+
+ex:antonio_de_la_granja a ex:persona ;
+    rdfs:label "Antonio de la Granja" .
+
+ex:antonio_de_prado a ex:persona ;
+    rdfs:label "Antonio de Prado" .
+
+ex:antonio_de_rueda a ex:persona ;
+    rdfs:label "Antonio de Rueda" .
+
+ex:antonio_de_solis a ex:persona ;
+    rdfs:label "Antonio de Solís" .
+
+ex:antonio_de_solis_triunfos_de_amor a ex:persona ;
+    rdfs:label "Antonio de Solís Triunfos de Amor" .
+
+ex:antonio_de_vitoria a ex:persona ;
+    rdfs:label "Antonio de Vitoria" .
+
+ex:antonio_garcia_de_prado a ex:persona ;
+    rdfs:label "Antonio García de Prado" .
+
+ex:antonio_marin a ex:persona ;
+    rdfs:label "Antonio Marín" .
+
+ex:antonio_mejia a ex:persona ;
+    rdfs:label "Antonio Mejía" .
+
+ex:antonio_ramos a ex:persona ;
+    rdfs:label "Antonio Ramos" .
+
+ex:aragon a ex:lugar ;
+    rdfs:label "Aragón" .
+
+ex:aranjuez a ex:lugar ;
+    rdfs:label "Aranjuez" .
+
+ex:archivo_municipal_de_madrid a ex:lugar ;
+    rdfs:label "Archivo Municipal de Madrid" .
+
+ex:arellano a ex:persona ;
+    rdfs:label "Arellano" .
+
+ex:arte_de_la_pintura a ex:lugar ;
+    rdfs:label "Arte de la pintura" .
+
+ex:avellaneda a ex:persona ;
+    rdfs:label "Avellaneda" .
+
+ex:avisos a ex:lugar ;
+    rdfs:label "Avisos" .
+
+ex:baccio a ex:persona ;
+    rdfs:label "Baccio" .
+
+ex:baccio_del_bianco a ex:persona ;
+    rdfs:label "Baccio del Bianco" .
+
+ex:barbara_coronel a ex:persona ;
+    rdfs:label "Bárbara Coronel" .
+
+ex:barrionuevo a ex:persona ;
+    rdfs:label "Barrionuevo" .
+
+ex:bartola a ex:persona ;
+    rdfs:label "Bartola" .
+
+ex:bato a ex:lugar ;
+    rdfs:label "Bato" .
+
+ex:bello a ex:lugar ;
+    rdfs:label "Bello" .
+
+ex:bergman a ex:persona ;
+    rdfs:label "Bergman" .
+
+ex:bernarda_manuela a ex:persona ;
+    rdfs:label "Bernarda Manuela" .
+
+ex:bernarda_ramirez a ex:persona ;
+    rdfs:label "Bernarda Ramírez" .
+
+ex:bernardilla a ex:persona ;
+    rdfs:label "Bernardilla" .
+
+ex:biblioteca_nacional_de_madrid a ex:lugar ;
+    rdfs:label "Biblioteca Nacional de Madrid" .
+
+ex:borja a ex:persona ;
+    rdfs:label "Borja" .
+
+ex:buen_retiro a ex:lugar ;
+    rdfs:label "Buen Retiro",
+        "Buen) Retiro" .
+
+ex:buffonerias a ex:persona ;
+    rdfs:label "buffonerías" .
+
+ex:cabredo a ex:persona ;
+    rdfs:label "Cabredo" .
+
+ex:calderon a ex:persona ;
+    rdfs:label "Calderón" .
+
+ex:calderon_darlo a ex:persona ;
+    rdfs:label "Calderón Darlo" .
+
+ex:calderon_de_la_barca a ex:persona ;
+    rdfs:label "Calderón de la Barca" .
+
+ex:calderon_fieras a ex:persona ;
+    rdfs:label "Calderón Fieras" .
+
+ex:caliope a ex:persona ;
+    rdfs:label "Calíope" .
+
+ex:calle_de_cantarranas a ex:lugar ;
+    rdfs:label "calle de Cantarranas" .
+
+ex:calle_de_las_comedias a ex:lugar ;
+    rdfs:label "calle de las Comedias" .
+
+ex:calle_del_nino a ex:lugar ;
+    rdfs:label "Calle del Niño" .
+
+ex:cantarranas a ex:lugar ;
+    rdfs:label "Cantarranas" .
+
+ex:capitan_medrano a ex:persona ;
+    rdfs:label "Capitán Medrano" .
+
+ex:carabanchel_de_arriba a ex:lugar ;
+    rdfs:label "Carabanchel de Arriba" .
+
+ex:carlos a ex:persona ;
+    rdfs:label "Carlos" .
+
+ex:carlos_ii a ex:persona ;
+    rdfs:label "Carlos II" .
+
+ex:carnaval a ex:lugar ;
+    rdfs:label "Carnaval" .
+
+ex:carnestolendas a ex:lugar ;
+    rdfs:label "Carnestolendas" .
+
+ex:catalina a ex:persona ;
+    rdfs:label "Catalina" .
+
+ex:catalina_nicolas a ex:persona ;
+    rdfs:label "Catalina Nicolás" .
+
+ex:catalina_ramos a ex:persona ;
+    rdfs:label "Catalina Ramos" .
+
+ex:ceniza a ex:lugar ;
+    rdfs:label "Ceniza" .
+
+ex:christiane_faliu_lacourt a ex:persona ;
+    rdfs:label "Christiane Faliu-Lacourt" .
+
+ex:cid_campeador a ex:persona ;
+    rdfs:label "Cid Campeador" .
+
+ex:cobre a ex:lugar ;
+    rdfs:label "Cobre" .
+
+ex:cofradia a ex:organizacion ;
+    rdfs:label "Cofradía" .
+
+ex:cofradia_de_nuestra_senora_de_la_novena a ex:lugar ;
+    rdfs:label "Cofradía de Nuestra Señora de la Novena" .
+
+ex:cofradia_de_nuestra_senora_del_rosario_de_vicalvaro a ex:lugar ;
+    rdfs:label "Cofradía de Nuestra Señora del Rosario de Vicálvaro" .
+
+ex:coliseo a ex:lugar ;
+    rdfs:label "Coliseo" .
+
+ex:coliseo_del_buen_retiro a ex:lugar ;
+    rdfs:label "Coliseo del Buen Retiro" .
+
+ex:coliseo_del_retiro a ex:lugar ;
+    rdfs:label "Coliseo del Retiro" .
+
+ex:conde_de_altamira a ex:lugar ;
+    rdfs:label "Conde de Altamira" .
+
+ex:conde_de_oropesa a ex:persona ;
+    rdfs:label "Conde de Oropesa" .
+
+ex:condesa_de_paredes_de_nava a ex:persona ;
+    rdfs:label "condesa de Paredes de Nava" .
+
+ex:constantino a ex:persona ;
+    rdfs:label "Constantino" .
+
+ex:convento_de_la_santisima_trinidad_de_madrid a ex:lugar ;
+    rdfs:label "Convento de la Santísima Trinidad de Madrid" .
+
+ex:convento_de_san_jose_de_malagon a ex:lugar ;
+    rdfs:label "Convento de San José de Malagón" .
+
+ex:convento_de_trinitarios_de_madrid a ex:lugar ;
+    rdfs:label "Convento de Trinitarios de Madrid" .
+
+ex:coronela a ex:lugar ;
+    rdfs:label "Coronela" .
+
+ex:corpus a ex:lugar ;
+    rdfs:label "Corpus" .
+
+ex:corte a ex:organizacion ;
+    rdfs:label "Corte" .
+
+ex:cosme a ex:persona ;
+    rdfs:label "Cosme" .
+
+ex:cosme_perez a ex:persona ;
+    rdfs:label "Cosme Pérez",
+        "Cosme [Pérez" ;
+    ex:es_hijo_de ex:damian_perez,
+        ex:isabel_de_basto ;
+    ex:muere_en ex:madrid ;
+    ex:nace_en ex:tudela_de_duero_valladolid .
+
+ex:cosme_perez_juan_rana a ex:persona ;
+    rdfs:label "Cosme Pérez 'Juan Rana" .
+
+ex:cotarelo a ex:persona ;
+    rdfs:label "Cotarelo" .
+
+ex:cotarelo_cosme_perez a ex:persona ;
+    rdfs:label "Cotarelo— Cosme Pérez" .
+
+ex:cruzada_villaamil a ex:persona ;
+    rdfs:label "Cruzada Villaamil" .
+
+ex:cuando_juan_rana a ex:persona ;
+    rdfs:label "cuando Juan Rana" ;
+    ex:participa_en ex:la_representacion_de_la_comedia_de_lope_de_vega_lo_que_ha_de_ser .
+
+ex:cuaresma a ex:persona ;
+    rdfs:label "Cuaresma" .
+
+ex:d_d_miller a ex:persona ;
+    rdfs:label "D. D. Miller" .
+
+ex:davis a ex:persona ;
+    rdfs:label "Davis" .
+
+ex:diego_de_martos a ex:persona ;
+    rdfs:label "Diego de Martos" .
+
+ex:diego_de_osorio a ex:persona ;
+    rdfs:label "Diego de Osorio" .
+
+ex:diego_de_silva a ex:persona ;
+    rdfs:label "Diego de Silva" .
+
+ex:diego_osorio a ex:persona ;
+    rdfs:label "Diego Osorio" .
+
+ex:dios a ex:persona ;
+    rdfs:label "Dios" .
+
+ex:domingo_canejil a ex:persona ;
+    rdfs:label "Domingo Canejil" .
+
+ex:don_andres_ferrer a ex:persona ;
+    rdfs:label "Don Andrés Ferrer" .
+
+ex:duque_de_montalto a ex:persona ;
+    rdfs:label "Duque de Montalto" .
+
+ex:duque_de_najera a ex:persona ;
+    rdfs:label "Duque de Nájera" .
+
+ex:durante_esta_misma_fiesta_se a ex:persona ;
+    rdfs:label "Durante esta misma fiesta se" ;
+    ex:participa_en ex:entremes_las_visiones_en_el_que_intervinieron_juan_rana_en_el_papel_de_juan_rana_y_bernarda_ramirez_representando_el_papel_de_quiteria_mujer_de_juan_rana .
+
+ex:e_h_friedman a ex:persona ;
+    rdfs:label "E. H. Friedman" .
+
+ex:el_entremes_se a ex:persona ;
+    rdfs:label "el entremés se" ;
+    ex:participa_en ex:el_retiro_durante_la_fiesta_de_san_juan_de_ese_ano .
+
+ex:el_martes_de_carnaval_de_este_ano_9_de_febrero_aunque_lobato_por_error_indica_como_fecha_del_representacion_el_ano_1656_se a ex:persona ;
+    rdfs:label "El martes de Carnaval de este año [9 de febrero] —aunque Lobato por error indica como fecha del representación el año 1656— se" ;
+    ex:participa_en ex:comedia_un_bobo_hace_ciento_de_solis_en_cuya_loa_alegorica_juan_rana_hizo_de_tiempo_compartiendo_escenario_con_bernarda_ramirez_luisa_romero_y_mariana_romero_la_patata_antonia_del_pozo_la_patata_o_luciana_la_patata_mariana_de_borja_la_borja_y_poca_ropa .
+
+ex:el_prado a ex:lugar ;
+    rdfs:label "el Prado" .
+
+ex:el_remediador a ex:organizacion ;
+    rdfs:label "El remediador" .
+
+ex:en_el_que_el_actor_cosme_perez a ex:persona ;
+    rdfs:label "en el que el actor Cosme Pérez" ;
+    ex:participa_en ex:graciosidad_en_la_compania_de_pedro_de_la_rosa .
+
+ex:en_la_fiesta_se a ex:persona ;
+    rdfs:label "En la fiesta se" ;
+    ex:participa_en ex:comedia_pico_y_canente_de_luis_de_ulloa_y_pereira_y_rodrigo_de_avila .
+
+ex:en_la_misma_carta_el_escenografo_italiano_da_cuenta_de_que_la_fiesta_se a ex:persona ;
+    rdfs:label "en la misma carta el escenógrafo italiano da cuenta de que la fiesta se" ;
+    ex:participa_en ex:el_coliseo_donde_la_fiesta_se_repitio_durante_cuatro_dias_con_gran_asistencia_de_publico_especialmente_para_la_funcion_que_tuvo_lugar_el_lunes_de_carnaval .
+
+ex:en_la_que a ex:persona ;
+    rdfs:label "en la que" ;
+    ex:participa_en ex:reina_y_al_principito .
+
+ex:en_la_que_cosme_perez a ex:persona ;
+    rdfs:label "en la que Cosme Pérez" ;
+    ex:participa_en ex:papel_de_bato .
+
+ex:en_la_que_se_indica_la_comedia a ex:persona ;
+    rdfs:label "en la que se indica \"La comedia" ;
+    ex:participa_en ex:el_salon_del_buen_retiro_el_dia_de_san_juan_ano_de_1655 .
+
+ex:escorial a ex:lugar ;
+    rdfs:label "Escorial" .
+
+ex:espana a ex:lugar ;
+    rdfs:label "España" .
+
+ex:espinel a ex:lugar ;
+    rdfs:label "Espinel" .
+
+ex:esta_loa_se a ex:persona ;
+    rdfs:label "esta loa se" ;
+    ex:participa_en ex:muerte_de_bernarda_ramirez_mujer_de_sebastian_de_prado_se_habia_producido_el_24_de_octubre_de_1662_y_se_sabe_por_un_testimonio_del_17_de_diciembre_de_1662_que_sebastian_de_prado_estaba_encarcelado_y_por_ello_no_podria_participar_en_la_fiesta_palaciega_que_habia_de_tener_lugar_cinco_dias_despues .
+
+ex:euridice a ex:persona ;
+    rdfs:label "Eurídice" .
+
+ex:f_saez_raposo a ex:persona ;
+    rdfs:label "F. Sáez Raposo" .
+
+ex:f_serralta a ex:persona ;
+    rdfs:label "F. Serralta" .
+
+ex:felipe_ii a ex:persona ;
+    rdfs:label "Felipe II" .
+
+ex:felipe_iv a ex:persona ;
+    rdfs:label "Felipe IV" .
+
+ex:felipe_negro a ex:persona ;
+    rdfs:label "Felipe Negro" .
+
+ex:felipe_prospero a ex:persona ;
+    rdfs:label "Felipe Próspero" .
+
+ex:flora a ex:persona ;
+    rdfs:label "Flora" .
+
+ex:fortuna a ex:persona ;
+    rdfs:label "Fortuna" .
+
+ex:francia a ex:lugar ;
+    rdfs:label "Francia" .
+
+ex:francisca_bezon a ex:persona ;
+    rdfs:label "Francisca Bezón" .
+
+ex:francisca_bezon_la_bezona a ex:persona ;
+    rdfs:label "Francisca Bezón 'la Bezona" .
+
+ex:francisca_bezona a ex:persona ;
+    rdfs:label "Francisca Bezona" .
+
+ex:francisca_de_castro a ex:persona ;
+    rdfs:label "Francisca de Castro" .
+
+ex:francisca_maria_perez a ex:persona ;
+    rdfs:label "Francisca María Pérez" .
+
+ex:francisco_de_diego a ex:persona ;
+    rdfs:label "Francisco de Diego" .
+
+ex:francisco_de_guzman_y_morales a ex:persona ;
+    rdfs:label "Francisco de Guzmán y Morales" .
+
+ex:francisco_de_monteser a ex:persona ;
+    rdfs:label "Francisco de Monteser" .
+
+ex:francisco_de_velasco a ex:persona ;
+    rdfs:label "Francisco de Velasco" .
+
+ex:francisco_garcia a ex:persona ;
+    rdfs:label "Francisco García" .
+
+ex:francisco_garcia_pupilo a ex:persona ;
+    rdfs:label "Francisco García 'Pupilo'" .
+
+ex:francisco_garro_de_alegria a ex:persona ;
+    rdfs:label "Francisco Garro de Alegría" .
+
+ex:francisco_gutierrez a ex:persona ;
+    rdfs:label "Francisco Gutiérrez" .
+
+ex:francisco_ortiz a ex:persona ;
+    rdfs:label "Francisco Ortiz" .
+
+ex:francisco_sardeneta a ex:persona ;
+    rdfs:label "Francisco Sardeneta" .
+
+ex:francisco_velasco a ex:persona ;
+    rdfs:label "Francisco Velasco" .
+
+ex:gongora a ex:persona ;
+    rdfs:label "Góngora" .
+
+ex:grandes a ex:lugar ;
+    rdfs:label "Grandes" .
+
+ex:grazzioso_della_regina a ex:persona ;
+    rdfs:label "Grazzioso della Regina" .
+
+ex:grefier_de_la_reina_simon_de_alcantara a ex:persona ;
+    rdfs:label "grefier de la Reina Simón de Alcántara" .
+
+ex:gregorio_de_la_rosa a ex:persona ;
+    rdfs:label "Gregorio de la Rosa" .
+
+ex:grifona a ex:lugar ;
+    rdfs:label "Grifona" .
+
+ex:guadalajara a ex:lugar ;
+    rdfs:label "Guadalajara" .
+
+ex:h_bergman a ex:persona ;
+    rdfs:label "H. Bergman" .
+
+ex:h_j_manzari a ex:persona ;
+    rdfs:label "H. J. Manzari" .
+
+ex:haciendoles a ex:persona ;
+    rdfs:label "Haciéndoles" .
+
+ex:harta a ex:persona ;
+    rdfs:label "Harta" .
+
+ex:hercules a ex:persona ;
+    rdfs:label "Hércules" .
+
+ex:hierro a ex:lugar ;
+    rdfs:label "Hierro" .
+
+ex:hospital_general_de_valencia a ex:lugar ;
+    rdfs:label "Hospital General de Valencia" .
+
+ex:iglesia_de_nuestra_senora_de_san_lorenzo_de_valladolid a ex:lugar ;
+    rdfs:label "iglesia de Nuestra Señora de San Lorenzo de Valladolid" .
+
+ex:iglesia_de_san_sebastian a ex:lugar ;
+    rdfs:label "iglesia de San Sebastián" .
+
+ex:infanta_margarita a ex:persona ;
+    rdfs:label "infanta Margarita" .
+
+ex:infanta_maria_teresa_de_austria a ex:persona ;
+    rdfs:label "Infanta María Teresa de Austria" .
+
+ex:infantes a ex:lugar ;
+    rdfs:label "Infantes" .
+
+ex:isabel a ex:persona ;
+    rdfs:label "Isabel" .
+
+ex:isabel_de_gongora a ex:persona ;
+    rdfs:label "Isabel de Góngora" .
+
+ex:jacinta a ex:persona ;
+    rdfs:label "Jacinta" .
+
+ex:jacinto_becerril a ex:persona ;
+    rdfs:label "Jacinto Becerril" .
+
+ex:jeronima_de_olmedo a ex:persona ;
+    rdfs:label "Jerónima de Olmedo" .
+
+ex:jeronimo_de_barrionuevo a ex:persona ;
+    rdfs:label "Jerónimo de Barrionuevo" .
+
+ex:jeronimo_de_cancer a ex:persona ;
+    rdfs:label "Jerónimo de Cáncer" .
+
+ex:jeronimo_de_heredia a ex:persona ;
+    rdfs:label "Jerónimo de Heredia" .
+
+ex:jeronimo_de_morales a ex:persona ;
+    rdfs:label "Jerónimo de Morales" .
+
+ex:jeronimo_morales a ex:persona ;
+    rdfs:label "Jerónimo Morales" .
+
+ex:jose_antonio_de_prado a ex:persona ;
+    rdfs:label "José Antonio de Prado" .
+
+ex:jose_antonio_garcia_de_prado a ex:persona ;
+    rdfs:label "José Antonio García de Prado" .
+
+ex:jose_antonio_quevedo a ex:persona ;
+    rdfs:label "José Antonio Quevedo" .
+
+ex:jose_gonzalez a ex:persona ;
+    rdfs:label "José González" .
+
+ex:josefa_lopez a ex:persona ;
+    rdfs:label "Josefa López" .
+
+ex:josefa_roman a ex:persona ;
+    rdfs:label "Josefa Román" .
+
+ex:juan_arana a ex:persona ;
+    rdfs:label "Juan Araña" .
+
+ex:juan_bautista_valenciano a ex:persona ;
+    rdfs:label "Juan Bautista Valenciano" .
+
+ex:juan_caramuel a ex:persona ;
+    rdfs:label "Juan Caramuel" .
+
+ex:juan_de_austria a ex:persona ;
+    rdfs:label "Juan de Austria" .
+
+ex:juan_de_cabanillas a ex:persona ;
+    rdfs:label "Juan de Cabanillas" .
+
+ex:juan_de_tapia a ex:persona ;
+    rdfs:label "Juan de Tapia" .
+
+ex:juan_gonzalez a ex:persona ;
+    rdfs:label "Juan González" .
+
+ex:juan_navarro_de_espinosa a ex:persona ;
+    rdfs:label "Juan Navarro de Espinosa" .
+
+ex:juan_navarro_oliver a ex:persona ;
+    rdfs:label "Juan Navarro Oliver" .
+
+ex:juan_perez_de_montalban a ex:persona ;
+    rdfs:label "Juan Pérez de Montalbán" .
+
+ex:juan_ramos a ex:persona ;
+    rdfs:label "Juan Ramos" .
+
+ex:juan_rana a ex:persona ;
+    rdfs:label "Juan Rana",
+        "Juan Rana'" ;
+    ex:participa_en ex:el_entremes_el_ayo_de_moreto_representado_con_motivo_del_cumpleanos_del_rey_felipe_iv_quiza_este_ano_como_propone_la_citada_investigadora_y_en_el_que_actuaron_tambien_mateo_de_godoy_y_jeronimo_morales .
+
+ex:juan_rana_os a ex:persona ;
+    rdfs:label "Juan Rana os" .
+
+ex:juan_rana_tambien a ex:persona ;
+    rdfs:label "Juan Rana también" ;
+    ex:participa_en ex:el_entremes_el_ayo_de_agustin_moreto_representado_con_motivo_del_cumpleanos_del_rey_felipe_iv_quiza_como_propone_la_citada_investigadora_en_el_ano_1662_en_el_que_actuaron_tambien_mateo_de_godoy_y_jeronimo_morales .
+
+ex:juan_velez a ex:persona ;
+    rdfs:label "Juan Vélez" .
+
+ex:juana_caro a ex:persona ;
+    rdfs:label "Juana Caro" .
+
+ex:junto_a_la_comedia_de_antonio_de_solis_triunfos_de_amor_y_fortuna_se a ex:persona ;
+    rdfs:label "Junto a la comedia de Antonio de Solís Triunfos de Amor y Fortuna se" ;
+    ex:participa_en ex:entremes_del_mismo_solis_titulado_salta_en_banco_en_el_que_intervino_cosme_perez_junto_a_bernarda_ramirez_bernarda_manuela_luisa_y_mariana_romero_francisca_bezon_la_bezona_maria_de_prado_y_maria_de_quinones .
+
+ex:justo_de_lazarraga a ex:persona ;
+    rdfs:label "Justo de Lazárraga" .
+
+ex:kassel a ex:lugar ;
+    rdfs:label "Kassel" .
+
+ex:la_compania_de_pedro_de_la_rosa a ex:persona ;
+    rdfs:label "la compañía de Pedro de la Rosa" ;
+    ex:participa_en ex:madrid_los_autos_del_corpus_4_de_junio_y_en_la_lista_de_actores_presentada_a_las_autoridades_figuraba_cosme_perez_aunque_al_principio_cosme_perez_parece_que_no_queria_representar_segun_se_infiere_de_la_anotacion_hecha_por_pedro_de_la_rosa_al_entregar_la_lista_de_su_compania_esta_indeciso_porque_cosme_perez_no_quiere_representar_pero_se_trata_de_un_error_de_cotarelo_pues_como_se_vera_a_continuacion_esta_noticia_corresponderia_realmente_a_1644 .
+
+ex:la_loa a ex:lugar ;
+    rdfs:label "la Loa" .
+
+ex:la_pieza_se a ex:persona ;
+    rdfs:label "La pieza se" ;
+    ex:participa_en ex:palacio_y_m .
+
+ex:la_reina a ex:persona ;
+    rdfs:label "la Reina" .
+
+ex:la_zarzuela a ex:lugar ;
+    rdfs:label "la Zarzuela" .
+
+ex:leonardo a ex:persona ;
+    rdfs:label "Leonardo" .
+
+ex:lisboa a ex:lugar ;
+    rdfs:label "Lisboa" .
+
+ex:lobato a ex:persona ;
+    rdfs:label "Lobato" .
+
+ex:londres a ex:lugar ;
+    rdfs:label "Londres" .
+
+ex:lope a ex:persona ;
+    rdfs:label "Lope" .
+
+ex:lope_de_vega a ex:persona ;
+    rdfs:label "Lope de Vega" .
+
+ex:los_juan_ranas a ex:lugar ;
+    rdfs:label "Los Juan Ranas" .
+
+ex:los_reyes a ex:lugar ;
+    rdfs:label "los Reyes" .
+
+ex:luciana_la_patata a ex:persona ;
+    rdfs:label "Luciana 'la Patata" .
+
+ex:luciana_leal a ex:persona ;
+    rdfs:label "Luciana Leal" .
+
+ex:luis_de_belmonte a ex:persona ;
+    rdfs:label "Luis de Belmonte" .
+
+ex:luis_de_mendoza a ex:persona ;
+    rdfs:label "Luis de Mendoza" .
+
+ex:luis_de_ulloa a ex:persona ;
+    rdfs:label "Luis de Ulloa" .
+
+ex:luis_lopez a ex:persona ;
+    rdfs:label "Luis López" .
+
+ex:luis_lopez_sustaete a ex:persona ;
+    rdfs:label "Luis López Sustaete" .
+
+ex:luis_quinones a ex:persona ;
+    rdfs:label "Luis Quiñones" .
+
+ex:luis_quinones_de_benavente a ex:persona ;
+    rdfs:label "Luis Quiñones de Benavente" .
+
+ex:luisa a ex:persona ;
+    rdfs:label "Luisa" .
+
+ex:luisa_enriquez_manrique a ex:persona ;
+    rdfs:label "Luisa Enríquez Manrique" .
+
+ex:luisa_enriquez_manrique_de_lara a ex:persona ;
+    rdfs:label "Luisa Enríquez Manrique de Lara" .
+
+ex:luisa_romero a ex:persona ;
+    rdfs:label "Luisa Romero" .
+
+ex:m_l_lobato a ex:persona ;
+    rdfs:label "M. L. Lobato" .
+
+ex:majestades a ex:organizacion ;
+    rdfs:label "Majestades" .
+
+ex:malaga a ex:lugar ;
+    rdfs:label "Málaga" .
+
+ex:manuela a ex:persona ;
+    rdfs:label "Manuela" .
+
+ex:manuela_bernabela a ex:persona ;
+    rdfs:label "Manuela Bernabela" .
+
+ex:manuela_bernarda_la_grifona a ex:persona ;
+    rdfs:label "Manuela Bernarda 'la Grifona" .
+
+ex:manuela_de_bustamante a ex:persona ;
+    rdfs:label "Manuela de Bustamante" .
+
+ex:manuela_escamilla a ex:persona ;
+    rdfs:label "Manuela Escamilla" .
+
+ex:maria a ex:persona ;
+    rdfs:label "María" .
+
+ex:maria_borja a ex:persona ;
+    rdfs:label "María Borja" .
+
+ex:maria_de_acosta a ex:persona ;
+    rdfs:label "María de Acosta" .
+
+ex:maria_de_cordoba a ex:persona ;
+    rdfs:label "María de Córdoba" .
+
+ex:maria_de_diego a ex:persona ;
+    rdfs:label "María de Diego" .
+
+ex:maria_de_prado a ex:persona ;
+    rdfs:label "María de Prado" .
+
+ex:maria_de_quinones a ex:persona ;
+    rdfs:label "María de Quiñones" .
+
+ex:maria_quinones a ex:persona ;
+    rdfs:label "María Quiñones" .
+
+ex:maria_teresa a ex:persona ;
+    rdfs:label "María Teresa" .
+
+ex:maria_teresa_de_austria a ex:persona ;
+    rdfs:label "María Teresa de Austria" .
+
+ex:mariana a ex:persona ;
+    rdfs:label "Mariana" .
+
+ex:mariana_borja a ex:persona ;
+    rdfs:label "Mariana Borja" .
+
+ex:mariana_de_austria a ex:persona ;
+    rdfs:label "Mariana de Austria" .
+
+ex:mariana_de_borja a ex:persona ;
+    rdfs:label "Mariana de Borja" .
+
+ex:mariana_de_borja_la_borja a ex:persona ;
+    rdfs:label "Mariana de Borja 'la Borja" .
+
+ex:mariana_romero a ex:persona ;
+    rdfs:label "Mariana Romero" .
+
+ex:mateo_de_godoy a ex:persona ;
+    rdfs:label "Mateo de Godoy" .
+
+ex:mateo_godoy a ex:persona ;
+    rdfs:label "Mateo Godoy" .
+
+ex:mejia a ex:persona ;
+    rdfs:label "Mejía" .
+
+ex:melia a ex:lugar ;
+    rdfs:label "Melia" .
+
+ex:melito a ex:persona ;
+    rdfs:label "Mélito" .
+
+ex:mendoza a ex:lugar ;
+    rdfs:label "Mendoza" .
+
+ex:micaela_de_borja a ex:persona ;
+    rdfs:label "Micaela de Borja" .
+
+ex:micaela_fernandez a ex:persona ;
+    rdfs:label "Micaela Fernández" .
+
+ex:miguel_de_orozco a ex:persona ;
+    rdfs:label "Miguel de Orozco" .
+
+ex:mira a ex:lugar ;
+    rdfs:label "Mira" .
+
+ex:monteser a ex:lugar ;
+    rdfs:label "Monteser" .
+
+ex:moreto a ex:persona ;
+    rdfs:label "Moreto" .
+
+ex:mori a ex:persona ;
+    rdfs:label "Mori" .
+
+ex:mui_zelebrado a ex:persona ;
+    rdfs:label "mui zelebrado" .
+
+ex:new_orleans a ex:lugar ;
+    rdfs:label "New Orleans" .
+
+ex:nuestra_senora_de_agosto_de_navalagamella a ex:lugar ;
+    rdfs:label "Nuestra Señora de Agosto de Navalagamella" .
+
+ex:nuestra_senora_de_septiembre a ex:lugar ;
+    rdfs:label "Nuestra Señora de Septiembre" .
+
+ex:nuestra_senora_del_amparo a ex:persona ;
+    rdfs:label "Nuestra Señora del Amparo" .
+
+ex:obrar a ex:persona ;
+    rdfs:label "Obrar" .
+
+ex:octavas a ex:persona ;
+    rdfs:label "Octavas" .
+
+ex:olivares a ex:lugar ;
+    rdfs:label "Olivares" .
+
+ex:orfeo a ex:persona ;
+    rdfs:label "Orfeo" .
+
+ex:oro a ex:persona ;
+    rdfs:label "Oro" .
+
+ex:palacio a ex:lugar ;
+    rdfs:label "Palacio" .
+
+ex:palacio_de_la_zarzuela a ex:lugar ;
+    rdfs:label "Palacio de la Zarzuela" .
+
+ex:pamplona a ex:lugar ;
+    rdfs:label "Pamplona" .
+
+ex:parnaso a ex:lugar ;
+    rdfs:label "Parnaso" .
+
+ex:parroquia_de_san_sebastian a ex:lugar ;
+    rdfs:label "Parroquia de San Sebastián" .
+
+ex:parroquia_de_san_sebastian_de_madrid a ex:lugar ;
+    rdfs:label "Parroquia de San Sebastián de Madrid" .
+
+ex:paz a ex:lugar ;
+    rdfs:label "Paz" .
+
+ex:pedro a ex:persona ;
+    rdfs:label "Pedro" .
+
+ex:pedro_ascanio a ex:persona ;
+    rdfs:label "Pedro Ascanio" .
+
+ex:pedro_calderon_de_la_barca a ex:persona ;
+    rdfs:label "Pedro Calderón de la Barca" .
+
+ex:pedro_de_cifuentes a ex:persona ;
+    rdfs:label "Pedro de Cifuentes" .
+
+ex:pedro_de_contreras a ex:persona ;
+    rdfs:label "Pedro de Contreras" .
+
+ex:pedro_de_la_rosa a ex:persona ;
+    rdfs:label "Pedro de la Rosa" .
+
+ex:pedro_ortiz_de_urbina a ex:persona ;
+    rdfs:label "Pedro Ortiz de Urbina" .
+
+ex:pellicer a ex:persona ;
+    rdfs:label "Pellicer" .
+
+ex:pereira a ex:persona ;
+    rdfs:label "Pereira" .
+
+ex:perez_pastor_catalina_de_nicolas a ex:persona ;
+    rdfs:label "Pérez Pastor— Catalina de Nicolás" .
+
+ex:perseo a ex:persona ;
+    rdfs:label "Perseo" .
+
+ex:peter_thompson a ex:persona ;
+    rdfs:label "Peter Thompson" .
+
+ex:plata a ex:lugar ;
+    rdfs:label "Plata" .
+
+ex:pradillos a ex:persona ;
+    rdfs:label "Pradillos" .
+
+ex:prado a ex:persona ;
+    rdfs:label "Prado" .
+
+ex:principe a ex:persona ;
+    rdfs:label "Príncipe" .
+
+ex:principe_de_astillano a ex:lugar ;
+    rdfs:label "Príncipe de Astillano" .
+
+ex:pupilo a ex:persona ;
+    rdfs:label "Pupilo" .
+
+ex:quaresma a ex:lugar ;
+    rdfs:label "Quaresma" .
+
+ex:que_la_compania_de_pedro_de_la_rosa a ex:persona ;
+    rdfs:label "Que la compañía de Pedro de la Rosa" ;
+    ex:participa_en ex:el_corpus_de_sevilla .
+
+ex:que_se a ex:persona ;
+    rdfs:label "que se" ;
+    ex:participa_en ex:el_real_sitio_de_la_zarzuela_por_las_companias_de_diego_osorio_y_pedro_de_la_rosa .
+
+ex:quinones a ex:persona ;
+    rdfs:label "Quiñones" .
+
+ex:quinones_de_benavente a ex:persona ;
+    rdfs:label "Quiñones de Benavente" .
+
+ex:quinones_pipote a ex:persona ;
+    rdfs:label "Quiñones Pipote" .
+
+ex:quiteria a ex:persona ;
+    rdfs:label "Quiteria" .
+
+ex:rana a ex:persona ;
+    rdfs:label "Rana" .
+
+ex:ranilla a ex:lugar ;
+    rdfs:label "Ranilla" .
+
+ex:real_capilla a ex:organizacion ;
+    rdfs:label "Real Capilla" .
+
+ex:real_sitio_de_la_zarzuela a ex:organizacion ;
+    rdfs:label "Real Sitio de la Zarzuela" .
+
+ex:reichenberger a ex:lugar ;
+    rdfs:label "Reichenberger" .
+
+ex:reina a ex:persona ;
+    rdfs:label "Reina" .
+
+ex:reina_madre a ex:persona ;
+    rdfs:label "Reina Madre" .
+
+ex:reina_mariana_de_austria a ex:persona ;
+    rdfs:label "Reina Mariana de Austria" .
+
+ex:reina_nuestra_senora_dona_mariana_de_austria a ex:persona ;
+    rdfs:label "Reina Nuestra Señora Doña Mariana de Austria" .
+
+ex:reino a ex:lugar ;
+    rdfs:label "Reino" .
+
+ex:rennert a ex:persona ;
+    rdfs:label "Rennert" .
+
+ex:retiro a ex:lugar ;
+    rdfs:label "Retiro" .
+
+ex:rey a ex:persona ;
+    rdfs:label "Rey" .
+
+ex:rey_como a ex:persona ;
+    rdfs:label "Rey.- ¿Cómo" .
+
+ex:rey_nuestro_senor a ex:persona ;
+    rdfs:label "Rey Nuestro Señor" .
+
+ex:rey_que a ex:persona ;
+    rdfs:label "Rey.- ¿Qué" .
+
+ex:reyna a ex:persona ;
+    rdfs:label "Reyna" .
+
+ex:rich_greer a ex:persona ;
+    rdfs:label "Rich Greer" .
+
+ex:rodrigo_de_avila a ex:persona ;
+    rdfs:label "Rodrigo de Ávila" .
+
+ex:rodrigo_de_saavedra a ex:persona ;
+    rdfs:label "Rodrigo de Saavedra" .
+
+ex:romerilla a ex:organizacion ;
+    rdfs:label "Romerilla" .
+
+ex:roque_de_figueroa a ex:persona ;
+    rdfs:label "Roque de Figueroa" .
+
+ex:rosa a ex:persona ;
+    rdfs:label "Rosa" .
+
+ex:saez_raposo a ex:persona ;
+    rdfs:label "Sáez Raposo" .
+
+ex:salamanca a ex:lugar ;
+    rdfs:label "Salamanca" .
+
+ex:salas a ex:persona ;
+    rdfs:label "Salas" .
+
+ex:salon a ex:lugar ;
+    rdfs:label "Salón" .
+
+ex:salon_del_buen_retiro a ex:lugar ;
+    rdfs:label "Salón del Buen Retiro" .
+
+ex:salon_del_palacio a ex:lugar ;
+    rdfs:label "Salón del Palacio" .
+
+ex:salon_del_palacio_de_buen_retiro a ex:lugar ;
+    rdfs:label "Salón del Palacio de Buen Retiro" .
+
+ex:salon_del_palacio_del_buen_retiro a ex:lugar ;
+    rdfs:label "Salón del Palacio del Buen Retiro" .
+
+ex:salon_dorado_del_buen_retiro a ex:lugar ;
+    rdfs:label "Salón Dorado del Buen Retiro" .
+
+ex:salta a ex:lugar ;
+    rdfs:label "Salta" .
+
+ex:san_juan a ex:persona ;
+    rdfs:label "San Juan" .
+
+ex:san_lorenzo_de_el_escorial a ex:lugar ;
+    rdfs:label "San Lorenzo de El Escorial" .
+
+ex:sanchez_arjona a ex:persona ;
+    rdfs:label "Sánchez Arjona" .
+
+ex:santa_ana a ex:persona ;
+    rdfs:label "Santa Ana" .
+
+ex:santa_maria a ex:persona ;
+    rdfs:label "Santa María" .
+
+ex:santo a ex:lugar ;
+    rdfs:label "Santo" .
+
+ex:santos_sacramentos a ex:persona ;
+    rdfs:label "Santos Sacramentos" .
+
+ex:se a ex:persona ;
+    rdfs:label "Se",
+        "se" ;
+    ex:participa_en ex:el_retiro_el_dia_de_san_juan_probablemente_el_23_de_junio_noche_de_san_juan_la_obra_la_restauracion_de_espana_tambien_titulada_la_renegada_de_valladolid_segun_lobato,
+        ex:entremes_el_infierno_de_juan_rana_en_el_que_la_actriz_bernarda_ramirez_celebre_por_imitar_la_figura_de_juan_rana_interpreto_el_papel_del_alma_de_este_actor_quien_tambien_intervino_en_la_representacion,
+        ex:familia_real_con_motivo_del_nacimiento_del_principe_carlos_el_futuro_carlos_ii,
+        ex:palacio_la_comedia_de_calderon_darlo_todo_y_no_dar_nada_con_una_loa_de_antonio_de_solis .
+
+ex:se_hizo_en_el_palacio_de_la_zarzuela_con_motivo_de_una_fiesta_que_se a ex:persona ;
+    rdfs:label "se hizo en el Palacio de la Zarzuela con motivo de una \"Fiesta que se" ;
+    ex:participa_en ex:un_dia_de_mucho_frio_segun_se_indica_en_el_primer_verso_del_entremes .
+
+ex:sebastian_de_prado a ex:persona ;
+    rdfs:label "Sebastián de Prado" .
+
+ex:sebastian_garcia_de_prado a ex:persona ;
+    rdfs:label "Sebastián García de Prado" .
+
+ex:sebastiana_fernandez a ex:persona ;
+    rdfs:label "Sebastiana Fernández" .
+
+ex:seneca a ex:persona ;
+    rdfs:label "Séneca" .
+
+ex:senora a ex:lugar ;
+    rdfs:label "Señora" .
+
+ex:senora_santa_librada_de_siguenza a ex:lugar ;
+    rdfs:label "Señora Santa Librada de Sigüenza" .
+
+ex:senoras_grandes a ex:persona ;
+    rdfs:label "Señoras Grandes" .
+
+ex:sevilla a ex:lugar ;
+    rdfs:label "Sevilla" .
+
+ex:shergold a ex:persona ;
+    rdfs:label "Shergold" .
+
+ex:simon_aguado a ex:persona ;
+    rdfs:label "Simón Aguado" .
+
+ex:solis a ex:persona ;
+    rdfs:label "Solís" .
+
+ex:su_majestad a ex:persona ;
+    rdfs:label "Su Majestad" .
+
+ex:subira a ex:lugar ;
+    rdfs:label "Subirá" .
+
+ex:sugiere_que_el_entremes_se a ex:persona ;
+    rdfs:label "sugiere que el entremés se" ;
+    ex:participa_en ex:los_ultimos_versos_se_hace_mencion_del_objeto_de_la_fiesta_que_era_festejar_el_nombre_de_ana .
+
+ex:sus_majestades a ex:organizacion ;
+    rdfs:label "Sus Majestades" .
+
+ex:tambien_se a ex:persona ;
+    rdfs:label "También se" ;
+    ex:participa_en ex:sainete_aguardad_supremos_dioses_del_mismo_solis_en_el_que_intervino_juan_rana_junto_a_bernarda_ramirez_simon_aguado_bernarda_manuela_mariana_borja_pedro_de_la_rosa_mateo_godoy_diego_osorio_y_jeronimo_de_heredia .
+
+ex:toledo a ex:lugar ;
+    rdfs:label "Toledo" .
+
+ex:tomas_de_najera a ex:persona ;
+    rdfs:label "Tomás de Nájera" .
+
+ex:tomas_fernandez a ex:persona ;
+    rdfs:label "Tomás Fernández" .
+
+ex:tomas_fernandez_cabredo a ex:persona ;
+    rdfs:label "Tomás Fernández Cabredo" .
+
+ex:tomas_fernandez_de_cabredo a ex:persona ;
+    rdfs:label "Tomás Fernández de Cabredo" .
+
+ex:tudela_de_duero a ex:lugar ;
+    rdfs:label "Tudela de Duero" .
+
+ex:tudela_del_duero a ex:lugar ;
+    rdfs:label "Tudela del Duero" .
+
+ex:university_press_of_the_south a ex:organizacion ;
+    rdfs:label "University Press of the South" .
+
+ex:urzaiz a ex:persona ;
+    rdfs:label "Urzáiz" .
+
+ex:valdes a ex:persona ;
+    rdfs:label "Valdés" .
+
+ex:valencia a ex:lugar ;
+    rdfs:label "Valencia" .
+
+ex:valladolid a ex:lugar ;
+    rdfs:label "Valladolid" .
+
+ex:varey a ex:persona ;
+    rdfs:label "Varey" .
+
+ex:venus a ex:lugar ;
+    rdfs:label "Venus" .
+
+ex:villa a ex:lugar ;
+    rdfs:label "Villa" .
+
+ex:villa_de_madrid a ex:lugar ;
+    rdfs:label "Villa de Madrid" .
+
+ex:virgen_de_atocha a ex:lugar ;
+    rdfs:label "Virgen de Atocha" .
+
+ex:y_tambien_se a ex:persona ;
+    rdfs:label "y también se" ;
+    ex:participa_en ex:entremes_titulado_el_nino_caballero_del_mismo_solis_en_el_que_actuo_juan_rana_junto_a_bernarda_ramirez_francisca_bezona_mariana_de_borja_la_borja_simon_aguado_mateo_godoy_pedro_de_la_rosa_y_tomas_de_najera .
+
+ex:zaragoza a ex:lugar ;
+    rdfs:label "Zaragoza" .
+
+ex:zid a ex:persona ;
+    rdfs:label "Zid" .
+
+ex:comedia_pico_y_canente_de_luis_de_ulloa_y_pereira_y_rodrigo_de_avila a ex:obra ;
+    rdfs:label "comedia Pico y Canente de Luis de Ulloa y Pereira y Rodrigo de Ávila" .
+
+ex:comedia_un_bobo_hace_ciento_de_solis_en_cuya_loa_alegorica_juan_rana_hizo_de_tiempo_compartiendo_escenario_con_bernarda_ramirez_luisa_romero_y_mariana_romero_la_patata_antonia_del_pozo_la_patata_o_luciana_la_patata_mariana_de_borja_la_borja_y_poca_ropa a ex:obra ;
+    rdfs:label "comedia Un bobo hace ciento, de Solís, en cuya loa alegórica Juan Rana hizo de \"Tiempo\", compartiendo escenario con Bernarda Ramírez, Luisa Romero y Mariana Romero, 'la Patata' [¿Antonia del Pozo 'la Patata' o Luciana 'la Patata'?], Mariana de Borja 'la Borja' y 'Poca Ropa'" .
+
+ex:damian_perez a ex:persona ;
+    rdfs:label "Damián Pérez" .
+
+ex:el_coliseo_donde_la_fiesta_se_repitio_durante_cuatro_dias_con_gran_asistencia_de_publico_especialmente_para_la_funcion_que_tuvo_lugar_el_lunes_de_carnaval a ex:obra ;
+    rdfs:label "el Coliseo, donde la fiesta se repitió durante cuatro días, con gran asistencia de público, especialmente para la función que tuvo lugar el lunes de Carnaval" .
+
+ex:el_corpus_de_sevilla a ex:lugar ;
+    rdfs:label "el Corpus de Sevilla" .
+
+ex:el_entremes_el_ayo_de_agustin_moreto_representado_con_motivo_del_cumpleanos_del_rey_felipe_iv_quiza_como_propone_la_citada_investigadora_en_el_ano_1662_en_el_que_actuaron_tambien_mateo_de_godoy_y_jeronimo_morales a ex:obra ;
+    rdfs:label "el entremés El ayo de Agustín Moreto, representado con motivo del cumpleaños del rey Felipe IV, quizá, como propone la citada investigadora, en el año 1662, en el que actuaron también Mateo de Godoy y Jerónimo Morales" .
+
+ex:el_entremes_el_ayo_de_moreto_representado_con_motivo_del_cumpleanos_del_rey_felipe_iv_quiza_este_ano_como_propone_la_citada_investigadora_y_en_el_que_actuaron_tambien_mateo_de_godoy_y_jeronimo_morales a ex:obra ;
+    rdfs:label "el entremés El ayo de Moreto, representado con motivo del cumpleaños del rey Felipe IV, quizá este año, como propone la citada investigadora, y en el que actuaron también Mateo de Godoy y Jerónimo Morales" .
+
+ex:el_real_sitio_de_la_zarzuela_por_las_companias_de_diego_osorio_y_pedro_de_la_rosa a ex:obra ;
+    rdfs:label "el Real Sitio de la Zarzuela por las compañías de Diego Osorio y Pedro de la Rosa" .
+
+ex:el_retiro_durante_la_fiesta_de_san_juan_de_ese_ano a ex:obra ;
+    rdfs:label "el Retiro durante la fiesta de San Juan de ese año" .
+
+ex:el_retiro_el_dia_de_san_juan_probablemente_el_23_de_junio_noche_de_san_juan_la_obra_la_restauracion_de_espana_tambien_titulada_la_renegada_de_valladolid_segun_lobato a ex:lugar ;
+    rdfs:label "el Retiro el día de San Juan —probablemente el 23 de junio, noche de San Juan— la obra La restauración de España —también titulada La renegada de Valladolid, según Lobato—" .
+
+ex:el_salon_del_buen_retiro_el_dia_de_san_juan_ano_de_1655 a ex:obra ;
+    rdfs:label "el Salón del Buen Retiro el día de San Juan, año de 1655\"" .
+
+ex:entremes_del_mismo_solis_titulado_salta_en_banco_en_el_que_intervino_cosme_perez_junto_a_bernarda_ramirez_bernarda_manuela_luisa_y_mariana_romero_francisca_bezon_la_bezona_maria_de_prado_y_maria_de_quinones a ex:obra ;
+    rdfs:label "entremés del mismo Solís titulado Salta en banco, en el que intervino Cosme Pérez junto a Bernarda Ramírez, Bernarda Manuela, Luisa y Mariana Romero, Francisca Bezón 'la Bezona', María de Prado y María de Quiñones," .
+
+ex:entremes_el_infierno_de_juan_rana_en_el_que_la_actriz_bernarda_ramirez_celebre_por_imitar_la_figura_de_juan_rana_interpreto_el_papel_del_alma_de_este_actor_quien_tambien_intervino_en_la_representacion a ex:obra ;
+    rdfs:label "entremés El infierno de Juan Rana, en el que la actriz Bernarda Ramírez, célebre por imitar la figura de Juan Rana, interpretó el papel del \"Alma\" de este actor, quien también intervino en la representación—" .
+
+ex:entremes_las_visiones_en_el_que_intervinieron_juan_rana_en_el_papel_de_juan_rana_y_bernarda_ramirez_representando_el_papel_de_quiteria_mujer_de_juan_rana a ex:obra ;
+    rdfs:label "entremés Las visiones, en el que intervinieron 'Juan Rana' en el papel de \"Juan Rana\" y Bernarda Ramírez representando el papel de \"Quiteria, mujer de Juan Rana\"" .
+
+ex:entremes_titulado_el_nino_caballero_del_mismo_solis_en_el_que_actuo_juan_rana_junto_a_bernarda_ramirez_francisca_bezona_mariana_de_borja_la_borja_simon_aguado_mateo_godoy_pedro_de_la_rosa_y_tomas_de_najera a ex:obra ;
+    rdfs:label "entremés titulado El niño caballero, del mismo Solís, en el que actuó Juan Rana junto a Bernarda Ramírez, Francisca Bezona, Mariana de Borja 'la Borja', Simón Aguado, Mateo Godoy, Pedro de la Rosa y Tomás de Nájera" .
+
+ex:familia_real_con_motivo_del_nacimiento_del_principe_carlos_el_futuro_carlos_ii a ex:obra ;
+    rdfs:label "familia real con motivo del nacimiento del príncipe Carlos, el futuro Carlos II" .
+
+ex:graciosidad_en_la_compania_de_pedro_de_la_rosa a ex:obra ;
+    rdfs:label "graciosidad\" en la compañía de Pedro de la Rosa" .
+
+ex:isabel_de_basto a ex:persona ;
+    rdfs:label "Isabel de Basto" .
+
+ex:la_representacion_de_la_comedia_de_lope_de_vega_lo_que_ha_de_ser a ex:obra ;
+    rdfs:label "la representación de la comedia de Lope de Vega Lo que ha de ser" .
+
+ex:los_ultimos_versos_se_hace_mencion_del_objeto_de_la_fiesta_que_era_festejar_el_nombre_de_ana a ex:obra ;
+    rdfs:label "los últimos versos se hace mención del objeto de la fiesta, que era festejar el nombre de Ana" .
+
+ex:madrid a ex:lugar ;
+    rdfs:label "Madrid" .
+
+ex:madrid_los_autos_del_corpus_4_de_junio_y_en_la_lista_de_actores_presentada_a_las_autoridades_figuraba_cosme_perez_aunque_al_principio_cosme_perez_parece_que_no_queria_representar_segun_se_infiere_de_la_anotacion_hecha_por_pedro_de_la_rosa_al_entregar_la_lista_de_su_compania_esta_indeciso_porque_cosme_perez_no_quiere_representar_pero_se_trata_de_un_error_de_cotarelo_pues_como_se_vera_a_continuacion_esta_noticia_corresponderia_realmente_a_1644 a ex:lugar ;
+    rdfs:label "Madrid los autos del Corpus [4 de junio] y en la lista de actores presentada a las autoridades figuraba Cosme Pérez, aunque al principio Cosme Pérez parece que no quería representar, según se infiere de la anotación hecha por Pedro de la Rosa al entregar la lista de su compañía: \"Está indeciso, porque Cosme Pérez no quiere representar\" —pero se trata de un error de Cotarelo, pues, como se verá a continuación, esta noticia correspondería realmente a 1644—" .
+
+ex:muerte_de_bernarda_ramirez_mujer_de_sebastian_de_prado_se_habia_producido_el_24_de_octubre_de_1662_y_se_sabe_por_un_testimonio_del_17_de_diciembre_de_1662_que_sebastian_de_prado_estaba_encarcelado_y_por_ello_no_podria_participar_en_la_fiesta_palaciega_que_habia_de_tener_lugar_cinco_dias_despues a ex:obra ;
+    rdfs:label "muerte de Bernarda Ramírez, mujer de Sebastián de Prado, se había producido el 24 de octubre de 1662 y se sabe por un testimonio del 17 de diciembre de 1662 que Sebastián de Prado estaba encarcelado y por ello no podría participar en la fiesta palaciega que había de tener lugar cinco días después" .
+
+ex:palacio_el_baile_de_los_juan_ranas_para_celebrar_el_primer_cumpleanos_del_principe_felipe_prospero_que_habia_nacido_el_28_de_noviembre_de_1657 a ex:obra ;
+    rdfs:label "palacio el baile de Los Juan Ranas para celebrar el primer cumpleaños del príncipe Felipe Próspero, que había nacido el 28 de noviembre de 1657" .
+
+ex:palacio_la_comedia_de_calderon_darlo_todo_y_no_dar_nada_con_una_loa_de_antonio_de_solis a ex:obra ;
+    rdfs:label "palacio la comedia de Calderón Darlo todo y no dar nada, con una loa de Antonio de Solís," .
+
+ex:palacio_y_m a ex:obra ;
+    rdfs:label "palacio y M" .
+
+ex:papel_de_bato a ex:obra ;
+    rdfs:label "papel de \"Bato\"—" .
+
+ex:reina_y_al_principito a ex:obra ;
+    rdfs:label "Reina y al \"Principito\"" .
+
+ex:sainete_aguardad_supremos_dioses_del_mismo_solis_en_el_que_intervino_juan_rana_junto_a_bernarda_ramirez_simon_aguado_bernarda_manuela_mariana_borja_pedro_de_la_rosa_mateo_godoy_diego_osorio_y_jeronimo_de_heredia a ex:obra ;
+    rdfs:label "sainete Aguardad, supremos dioses del mismo Solís, en el que intervino Juan Rana junto a Bernarda Ramírez, Simón Aguado, Bernarda Manuela, Mariana Borja, Pedro de la Rosa, Mateo Godoy, Diego Osorio y Jerónimo de Heredia" .
+
+ex:tudela_de_duero_valladolid a ex:lugar ;
+    rdfs:label "Tudela de Duero (Valladolid)" .
+
+ex:un_dia_de_mucho_frio_segun_se_indica_en_el_primer_verso_del_entremes a ex:obra ;
+    rdfs:label "un día de mucho frío, según se indica en el primer verso del entremés" .
+

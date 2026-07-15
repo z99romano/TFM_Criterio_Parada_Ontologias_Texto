@@ -1,0 +1,5621 @@
+Iteración: 1
+Procesando id=2, anyo=1642
+Relaciones acumuladas: 3
+Todavía no hay suficientes registros para ejecutar HDBSCAN
+--------------------------------------------------
+Iteración: 2
+Procesando id=2, anyo=Introducción
+Relaciones acumuladas: 6
+Clusters detectados: 0
+Relaciones clasificadas como ruido: 6
+Porcentaje de ruido: 100.0%
+Relaciones finales KG: 6
+Nuevo Máximo: False
+--------------------
+Iteración: 3
+Procesando id=40, anyo=1678
+Relaciones acumuladas: 9
+Clusters detectados: 0
+Relaciones clasificadas como ruido: 9
+Porcentaje de ruido: 100.0%
+Relaciones finales KG: 9
+Nuevo Máximo: True
+--------------------
+Iteración: 4
+Procesando id=40, anyo=Apostilla
+Relaciones acumuladas: 12
+Clusters detectados: 2
+Relaciones clasificadas como ruido: 4
+Porcentaje de ruido: 33.33%
+Relaciones finales KG: 6
+Nuevo Máximo: False
+--------------------
+Iteración: 5
+Procesando id=45, anyo=1630
+Relaciones acumuladas: 35
+Clusters detectados: 5
+Relaciones clasificadas como ruido: 10
+Porcentaje de ruido: 28.57%
+Relaciones finales KG: 15
+Nuevo Máximo: True
+--------------------
+Iteración: 6
+Procesando id=45, anyo=1631
+Relaciones acumuladas: 39
+Clusters detectados: 5
+Relaciones clasificadas como ruido: 11
+Porcentaje de ruido: 28.21%
+Relaciones finales KG: 16
+Nuevo Máximo: True
+--------------------
+Iteración: 7
+Procesando id=45, anyo=1633
+Relaciones acumuladas: 54
+Clusters detectados: 6
+Relaciones clasificadas como ruido: 9
+Porcentaje de ruido: 16.67%
+Relaciones finales KG: 15
+Nuevo Máximo: False
+--------------------
+Iteración: 8
+Procesando id=45, anyo=1635
+Relaciones acumuladas: 67
+Clusters detectados: 7
+Relaciones clasificadas como ruido: 12
+Porcentaje de ruido: 17.91%
+Relaciones finales KG: 19
+Nuevo Máximo: True
+--------------------
+Iteración: 9
+Procesando id=45, anyo=1638
+Relaciones acumuladas: 82
+Clusters detectados: 8
+Relaciones clasificadas como ruido: 8
+Porcentaje de ruido: 9.76%
+Relaciones finales KG: 16
+Nuevo Máximo: False
+--------------------
+Iteración: 10
+Procesando id=45, anyo=1640
+Relaciones acumuladas: 85
+Clusters detectados: 9
+Relaciones clasificadas como ruido: 22
+Porcentaje de ruido: 25.88%
+Relaciones finales KG: 31
+Nuevo Máximo: True
+--------------------
+Iteración: 11
+Procesando id=45, anyo=1643
+Relaciones acumuladas: 88
+Clusters detectados: 9
+Relaciones clasificadas como ruido: 23
+Porcentaje de ruido: 26.14%
+Relaciones finales KG: 32
+Nuevo Máximo: True
+--------------------
+Iteración: 12
+Procesando id=45, anyo=1644
+Relaciones acumuladas: 91
+Clusters detectados: 9
+Relaciones clasificadas como ruido: 22
+Porcentaje de ruido: 24.18%
+Relaciones finales KG: 31
+Nuevo Máximo: False
+--------------------
+Iteración: 13
+Procesando id=45, anyo=1646
+Relaciones acumuladas: 94
+Clusters detectados: 10
+Relaciones clasificadas como ruido: 24
+Porcentaje de ruido: 25.53%
+Relaciones finales KG: 34
+Nuevo Máximo: True
+--------------------
+Iteración: 14
+Procesando id=45, anyo=1659
+Relaciones acumuladas: 100
+Clusters detectados: 11
+Relaciones clasificadas como ruido: 22
+Porcentaje de ruido: 22.0%
+Relaciones finales KG: 33
+Nuevo Máximo: False
+--------------------
+Iteración: 15
+Procesando id=45, anyo=1662
+Relaciones acumuladas: 103
+Clusters detectados: 11
+Relaciones clasificadas como ruido: 21
+Porcentaje de ruido: 20.39%
+Relaciones finales KG: 32
+Nuevo Máximo: False
+--------------------
+Iteración: 16
+Procesando id=45, anyo=Introducción
+Relaciones acumuladas: 224
+Clusters detectados: 25
+Relaciones clasificadas como ruido: 39
+Porcentaje de ruido: 17.41%
+Relaciones finales KG: 64
+Nuevo Máximo: True
+--------------------
+Iteración: 17
+Procesando id=56, anyo=1671
+Relaciones acumuladas: 227
+Clusters detectados: 25
+Relaciones clasificadas como ruido: 39
+Porcentaje de ruido: 17.18%
+Relaciones finales KG: 64
+Nuevo Máximo: False
+--------------------
+Iteración: 18
+Procesando id=56, anyo=1675
+Relaciones acumuladas: 240
+Clusters detectados: 25
+Relaciones clasificadas como ruido: 40
+Porcentaje de ruido: 16.67%
+Relaciones finales KG: 65
+Nuevo Máximo: True
+--------------------
+Iteración: 19
+Procesando id=56, anyo=1676
+Relaciones acumuladas: 243
+Clusters detectados: 25
+Relaciones clasificadas como ruido: 41
+Porcentaje de ruido: 16.87%
+Relaciones finales KG: 66
+Nuevo Máximo: True
+--------------------
+Iteración: 20
+Procesando id=56, anyo=1677
+Relaciones acumuladas: 248
+Clusters detectados: 25
+Relaciones clasificadas como ruido: 38
+Porcentaje de ruido: 15.32%
+Relaciones finales KG: 63
+Nuevo Máximo: False
+--------------------
+Iteración: 21
+Procesando id=56, anyo=1678
+Relaciones acumuladas: 251
+Clusters detectados: 25
+Relaciones clasificadas como ruido: 39
+Porcentaje de ruido: 15.54%
+Relaciones finales KG: 64
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 248
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 22
+Procesando id=56, anyo=1679
+Relaciones acumuladas: 255
+Clusters detectados: 25
+Relaciones clasificadas como ruido: 40
+Porcentaje de ruido: 15.69%
+Relaciones finales KG: 65
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 249
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 23
+Procesando id=56, anyo=1682
+Relaciones acumuladas: 261
+Clusters detectados: 26
+Relaciones clasificadas como ruido: 40
+Porcentaje de ruido: 15.33%
+Relaciones finales KG: 66
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 252
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 24
+Procesando id=56, anyo=1683
+Relaciones acumuladas: 266
+Clusters detectados: 26
+Relaciones clasificadas como ruido: 40
+Porcentaje de ruido: 15.04%
+Relaciones finales KG: 66
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 254
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 25
+Procesando id=56, anyo=1685
+Relaciones acumuladas: 269
+Clusters detectados: 27
+Relaciones clasificadas como ruido: 37
+Porcentaje de ruido: 13.75%
+Relaciones finales KG: 64
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 234
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 26
+Procesando id=56, anyo=1686
+Relaciones acumuladas: 271
+Clusters detectados: 27
+Relaciones clasificadas como ruido: 37
+Porcentaje de ruido: 13.65%
+Relaciones finales KG: 64
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 232
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 27
+Procesando id=56, anyo=1689
+Relaciones acumuladas: 274
+Clusters detectados: 27
+Relaciones clasificadas como ruido: 39
+Porcentaje de ruido: 14.23%
+Relaciones finales KG: 66
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 220
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 28
+Procesando id=56, anyo=1699
+Relaciones acumuladas: 277
+Clusters detectados: 28
+Relaciones clasificadas como ruido: 36
+Porcentaje de ruido: 13.0%
+Relaciones finales KG: 64
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 210
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 29
+Procesando id=56, anyo=Introducción
+Relaciones acumuladas: 292
+Clusters detectados: 30
+Relaciones clasificadas como ruido: 34
+Porcentaje de ruido: 11.64%
+Relaciones finales KG: 64
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 210
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 30
+Procesando id=62, anyo=1602
+Relaciones acumuladas: 313
+Clusters detectados: 30
+Relaciones clasificadas como ruido: 35
+Porcentaje de ruido: 11.18%
+Relaciones finales KG: 65
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 228
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 31
+Procesando id=62, anyo=1613
+Relaciones acumuladas: 334
+Clusters detectados: 33
+Relaciones clasificadas como ruido: 44
+Porcentaje de ruido: 13.17%
+Relaciones finales KG: 77
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 246
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 32
+Procesando id=66, anyo=1603
+Relaciones acumuladas: 338
+Clusters detectados: 33
+Relaciones clasificadas como ruido: 45
+Porcentaje de ruido: 13.31%
+Relaciones finales KG: 78
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 247
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 33
+Procesando id=66, anyo=1604
+Relaciones acumuladas: 342
+Clusters detectados: 33
+Relaciones clasificadas como ruido: 45
+Porcentaje de ruido: 13.16%
+Relaciones finales KG: 78
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 248
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 34
+Procesando id=66, anyo=1607
+Relaciones acumuladas: 348
+Clusters detectados: 33
+Relaciones clasificadas como ruido: 44
+Porcentaje de ruido: 12.64%
+Relaciones finales KG: 77
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 248
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 35
+Procesando id=66, anyo=1618
+Relaciones acumuladas: 354
+Clusters detectados: 33
+Relaciones clasificadas como ruido: 45
+Porcentaje de ruido: 12.71%
+Relaciones finales KG: 78
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 251
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 36
+Procesando id=66, anyo=Introducción
+Relaciones acumuladas: 357
+Clusters detectados: 32
+Relaciones clasificadas como ruido: 51
+Porcentaje de ruido: 14.29%
+Relaciones finales KG: 83
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 133
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 37
+Procesando id=105, anyo=Introducción
+Relaciones acumuladas: 362
+Clusters detectados: 32
+Relaciones clasificadas como ruido: 55
+Porcentaje de ruido: 15.19%
+Relaciones finales KG: 87
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 135
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 38
+Procesando id=119, anyo=1630
+Relaciones acumuladas: 367
+Clusters detectados: 32
+Relaciones clasificadas como ruido: 55
+Porcentaje de ruido: 14.99%
+Relaciones finales KG: 87
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 127
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 39
+Procesando id=119, anyo=1631
+Relaciones acumuladas: 372
+Clusters detectados: 34
+Relaciones clasificadas como ruido: 50
+Porcentaje de ruido: 13.44%
+Relaciones finales KG: 84
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 129
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 40
+Procesando id=119, anyo=1633
+Relaciones acumuladas: 375
+Clusters detectados: 34
+Relaciones clasificadas como ruido: 52
+Porcentaje de ruido: 13.87%
+Relaciones finales KG: 86
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 127
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 41
+Procesando id=119, anyo=1635
+Relaciones acumuladas: 379
+Clusters detectados: 34
+Relaciones clasificadas como ruido: 52
+Porcentaje de ruido: 13.72%
+Relaciones finales KG: 86
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 128
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 42
+Procesando id=119, anyo=1639
+Relaciones acumuladas: 489
+Clusters detectados: 39
+Relaciones clasificadas como ruido: 69
+Porcentaje de ruido: 14.11%
+Relaciones finales KG: 108
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 234
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 43
+Procesando id=119, anyo=1640
+Relaciones acumuladas: 517
+Clusters detectados: 40
+Relaciones clasificadas como ruido: 72
+Porcentaje de ruido: 13.93%
+Relaciones finales KG: 112
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 256
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 44
+Procesando id=119, anyo=1641
+Relaciones acumuladas: 530
+Clusters detectados: 40
+Relaciones clasificadas como ruido: 73
+Porcentaje de ruido: 13.77%
+Relaciones finales KG: 113
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 264
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 45
+Procesando id=119, anyo=1642
+Relaciones acumuladas: 546
+Clusters detectados: 40
+Relaciones clasificadas como ruido: 75
+Porcentaje de ruido: 13.74%
+Relaciones finales KG: 115
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 277
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 46
+Procesando id=119, anyo=1643
+Relaciones acumuladas: 571
+Clusters detectados: 43
+Relaciones clasificadas como ruido: 80
+Porcentaje de ruido: 14.01%
+Relaciones finales KG: 123
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 300
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 47
+Procesando id=119, anyo=Introducción
+Relaciones acumuladas: 615
+Clusters detectados: 43
+Relaciones clasificadas como ruido: 97
+Porcentaje de ruido: 15.77%
+Relaciones finales KG: 140
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 341
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 48
+Procesando id=121, anyo=1636
+Relaciones acumuladas: 620
+Clusters detectados: 43
+Relaciones clasificadas como ruido: 100
+Porcentaje de ruido: 16.13%
+Relaciones finales KG: 143
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 343
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 49
+Procesando id=121, anyo=1655
+Relaciones acumuladas: 633
+Clusters detectados: 43
+Relaciones clasificadas como ruido: 104
+Porcentaje de ruido: 16.43%
+Relaciones finales KG: 147
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 341
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 50
+Procesando id=121, anyo=1657
+Relaciones acumuladas: 652
+Clusters detectados: 45
+Relaciones clasificadas como ruido: 102
+Porcentaje de ruido: 15.64%
+Relaciones finales KG: 147
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 339
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 51
+Procesando id=121, anyo=1658
+Relaciones acumuladas: 655
+Clusters detectados: 45
+Relaciones clasificadas como ruido: 102
+Porcentaje de ruido: 15.57%
+Relaciones finales KG: 147
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 321
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 52
+Procesando id=121, anyo=1659
+Relaciones acumuladas: 690
+Clusters detectados: 50
+Relaciones clasificadas como ruido: 100
+Porcentaje de ruido: 14.49%
+Relaciones finales KG: 150
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 352
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 53
+Procesando id=121, anyo=1660
+Relaciones acumuladas: 845
+Clusters detectados: 60
+Relaciones clasificadas como ruido: 101
+Porcentaje de ruido: 11.95%
+Relaciones finales KG: 161
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 503
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 54
+Procesando id=121, anyo=1661
+Relaciones acumuladas: 871
+Clusters detectados: 62
+Relaciones clasificadas como ruido: 110
+Porcentaje de ruido: 12.63%
+Relaciones finales KG: 172
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 523
+Nuevos máximos KG ventana: 13
+--------------------------------------------------
+Iteración: 55
+Procesando id=121, anyo=1662
+Relaciones acumuladas: 874
+Clusters detectados: 62
+Relaciones clasificadas como ruido: 110
+Porcentaje de ruido: 12.59%
+Relaciones finales KG: 172
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 520
+Nuevos máximos KG ventana: 13
+--------------------------------------------------
+Iteración: 56
+Procesando id=121, anyo=1663
+Relaciones acumuladas: 880
+Clusters detectados: 62
+Relaciones clasificadas como ruido: 110
+Porcentaje de ruido: 12.5%
+Relaciones finales KG: 172
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 523
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 57
+Procesando id=121, anyo=1664
+Relaciones acumuladas: 930
+Clusters detectados: 63
+Relaciones clasificadas como ruido: 127
+Porcentaje de ruido: 13.66%
+Relaciones finales KG: 190
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 568
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 58
+Procesando id=121, anyo=1665
+Relaciones acumuladas: 949
+Clusters detectados: 64
+Relaciones clasificadas como ruido: 130
+Porcentaje de ruido: 13.7%
+Relaciones finales KG: 194
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 582
+Nuevos máximos KG ventana: 13
+--------------------------------------------------
+Iteración: 59
+Procesando id=121, anyo=1667
+Relaciones acumuladas: 978
+Clusters detectados: 66
+Relaciones clasificadas como ruido: 130
+Porcentaje de ruido: 13.29%
+Relaciones finales KG: 196
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 606
+Nuevos máximos KG ventana: 14
+--------------------------------------------------
+Iteración: 60
+Procesando id=121, anyo=1668
+Relaciones acumuladas: 981
+Clusters detectados: 66
+Relaciones clasificadas como ruido: 133
+Porcentaje de ruido: 13.56%
+Relaciones finales KG: 199
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 606
+Nuevos máximos KG ventana: 15
+--------------------------------------------------
+Iteración: 61
+Procesando id=121, anyo=1670
+Relaciones acumuladas: 990
+Clusters detectados: 66
+Relaciones clasificadas como ruido: 134
+Porcentaje de ruido: 13.54%
+Relaciones finales KG: 200
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 611
+Nuevos máximos KG ventana: 16
+--------------------------------------------------
+Iteración: 62
+Procesando id=121, anyo=1671
+Relaciones acumuladas: 993
+Clusters detectados: 66
+Relaciones clasificadas como ruido: 134
+Porcentaje de ruido: 13.49%
+Relaciones finales KG: 200
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 504
+Nuevos máximos KG ventana: 15
+--------------------------------------------------
+Iteración: 63
+Procesando id=121, anyo=1678
+Relaciones acumuladas: 996
+Clusters detectados: 66
+Relaciones clasificadas como ruido: 135
+Porcentaje de ruido: 13.55%
+Relaciones finales KG: 201
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 479
+Nuevos máximos KG ventana: 15
+--------------------------------------------------
+Iteración: 64
+Procesando id=121, anyo=1689
+Relaciones acumuladas: 999
+Clusters detectados: 66
+Relaciones clasificadas como ruido: 135
+Porcentaje de ruido: 13.51%
+Relaciones finales KG: 201
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 469
+Nuevos máximos KG ventana: 14
+--------------------------------------------------
+Iteración: 65
+Procesando id=121, anyo=Introducción
+Relaciones acumuladas: 1034
+Clusters detectados: 71
+Relaciones clasificadas como ruido: 143
+Porcentaje de ruido: 13.83%
+Relaciones finales KG: 214
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 488
+Nuevos máximos KG ventana: 14
+--------------------------------------------------
+Iteración: 66
+Procesando id=126, anyo=1613
+Relaciones acumuladas: 1038
+Clusters detectados: 71
+Relaciones clasificadas como ruido: 143
+Porcentaje de ruido: 13.78%
+Relaciones finales KG: 214
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 467
+Nuevos máximos KG ventana: 13
+--------------------------------------------------
+Iteración: 67
+Procesando id=126, anyo=Introducción
+Relaciones acumuladas: 1041
+Clusters detectados: 71
+Relaciones clasificadas como ruido: 143
+Porcentaje de ruido: 13.74%
+Relaciones finales KG: 214
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 426
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 68
+Procesando id=130, anyo=1686
+Relaciones acumuladas: 1047
+Clusters detectados: 72
+Relaciones clasificadas como ruido: 145
+Porcentaje de ruido: 13.85%
+Relaciones finales KG: 217
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 427
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 69
+Procesando id=130, anyo=1692
+Relaciones acumuladas: 1050
+Clusters detectados: 72
+Relaciones clasificadas como ruido: 145
+Porcentaje de ruido: 13.81%
+Relaciones finales KG: 217
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 417
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 70
+Procesando id=130, anyo=Introducción
+Relaciones acumuladas: 1067
+Clusters detectados: 73
+Relaciones clasificadas como ruido: 150
+Porcentaje de ruido: 14.06%
+Relaciones finales KG: 223
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 415
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 71
+Procesando id=136, anyo=1605
+Relaciones acumuladas: 1072
+Clusters detectados: 73
+Relaciones clasificadas como ruido: 150
+Porcentaje de ruido: 13.99%
+Relaciones finales KG: 223
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 417
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 72
+Procesando id=136, anyo=1609
+Relaciones acumuladas: 1076
+Clusters detectados: 73
+Relaciones clasificadas como ruido: 151
+Porcentaje de ruido: 14.03%
+Relaciones finales KG: 224
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 386
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 73
+Procesando id=136, anyo=1610
+Relaciones acumuladas: 1084
+Clusters detectados: 73
+Relaciones clasificadas como ruido: 152
+Porcentaje de ruido: 14.02%
+Relaciones finales KG: 225
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 239
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 74
+Procesando id=136, anyo=1612
+Relaciones acumuladas: 1092
+Clusters detectados: 73
+Relaciones clasificadas como ruido: 155
+Porcentaje de ruido: 14.19%
+Relaciones finales KG: 228
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 221
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 75
+Procesando id=136, anyo=1613
+Relaciones acumuladas: 1109
+Clusters detectados: 73
+Relaciones clasificadas como ruido: 158
+Porcentaje de ruido: 14.25%
+Relaciones finales KG: 231
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 235
+Nuevos máximos KG ventana: 13
+--------------------------------------------------
+Iteración: 76
+Procesando id=136, anyo=Introducción
+Relaciones acumuladas: 1116
+Clusters detectados: 73
+Relaciones clasificadas como ruido: 158
+Porcentaje de ruido: 14.16%
+Relaciones finales KG: 231
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 236
+Nuevos máximos KG ventana: 13
+--------------------------------------------------
+Iteración: 77
+Procesando id=146, anyo=Introducción
+Relaciones acumuladas: 1128
+Clusters detectados: 73
+Relaciones clasificadas como ruido: 162
+Porcentaje de ruido: 14.36%
+Relaciones finales KG: 235
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 198
+Nuevos máximos KG ventana: 13
+--------------------------------------------------
+Iteración: 78
+Procesando id=153, anyo=1628
+Relaciones acumuladas: 1137
+Clusters detectados: 74
+Relaciones clasificadas como ruido: 160
+Porcentaje de ruido: 14.07%
+Relaciones finales KG: 234
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 188
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 79
+Procesando id=153, anyo=1631
+Relaciones acumuladas: 1150
+Clusters detectados: 74
+Relaciones clasificadas como ruido: 160
+Porcentaje de ruido: 13.91%
+Relaciones finales KG: 234
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 172
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 80
+Procesando id=153, anyo=1632
+Relaciones acumuladas: 1153
+Clusters detectados: 74
+Relaciones clasificadas como ruido: 160
+Porcentaje de ruido: 13.88%
+Relaciones finales KG: 234
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 172
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 81
+Procesando id=153, anyo=Apostilla
+Relaciones acumuladas: 1156
+Clusters detectados: 74
+Relaciones clasificadas como ruido: 160
+Porcentaje de ruido: 13.84%
+Relaciones finales KG: 234
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 166
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 82
+Procesando id=153, anyo=Introducción
+Relaciones acumuladas: 1165
+Clusters detectados: 75
+Relaciones clasificadas como ruido: 162
+Porcentaje de ruido: 13.91%
+Relaciones finales KG: 237
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 172
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 83
+Procesando id=156, anyo=1657
+Relaciones acumuladas: 1180
+Clusters detectados: 75
+Relaciones clasificadas como ruido: 165
+Porcentaje de ruido: 13.98%
+Relaciones finales KG: 240
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 184
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 84
+Procesando id=156, anyo=1659
+Relaciones acumuladas: 1183
+Clusters detectados: 75
+Relaciones clasificadas como ruido: 165
+Porcentaje de ruido: 13.95%
+Relaciones finales KG: 240
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 184
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 85
+Procesando id=156, anyo=1660
+Relaciones acumuladas: 1192
+Clusters detectados: 76
+Relaciones clasificadas como ruido: 165
+Porcentaje de ruido: 13.84%
+Relaciones finales KG: 241
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 158
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 86
+Procesando id=156, anyo=1661
+Relaciones acumuladas: 1195
+Clusters detectados: 76
+Relaciones clasificadas como ruido: 165
+Porcentaje de ruido: 13.81%
+Relaciones finales KG: 241
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 157
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 87
+Procesando id=156, anyo=1662
+Relaciones acumuladas: 1200
+Clusters detectados: 76
+Relaciones clasificadas como ruido: 165
+Porcentaje de ruido: 13.75%
+Relaciones finales KG: 241
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 159
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 88
+Procesando id=156, anyo=Apostilla
+Relaciones acumuladas: 1203
+Clusters detectados: 77
+Relaciones clasificadas como ruido: 164
+Porcentaje de ruido: 13.63%
+Relaciones finales KG: 241
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 156
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 89
+Procesando id=156, anyo=Introducción
+Relaciones acumuladas: 1229
+Clusters detectados: 79
+Relaciones clasificadas como ruido: 163
+Porcentaje de ruido: 13.26%
+Relaciones finales KG: 242
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 179
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 90
+Procesando id=180, anyo=1632
+Relaciones acumuladas: 1233
+Clusters detectados: 79
+Relaciones clasificadas como ruido: 163
+Porcentaje de ruido: 13.22%
+Relaciones finales KG: 242
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 166
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 91
+Procesando id=180, anyo=Introducción
+Relaciones acumuladas: 1253
+Clusters detectados: 79
+Relaciones clasificadas como ruido: 164
+Porcentaje de ruido: 13.09%
+Relaciones finales KG: 243
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 181
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 92
+Procesando id=194, anyo=Introducción
+Relaciones acumuladas: 1262
+Clusters detectados: 79
+Relaciones clasificadas como ruido: 167
+Porcentaje de ruido: 13.23%
+Relaciones finales KG: 246
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 186
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 93
+Procesando id=200, anyo=1604
+Relaciones acumuladas: 1268
+Clusters detectados: 79
+Relaciones clasificadas como ruido: 172
+Porcentaje de ruido: 13.56%
+Relaciones finales KG: 251
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 184
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 94
+Procesando id=202, anyo=1607
+Relaciones acumuladas: 1276
+Clusters detectados: 79
+Relaciones clasificadas como ruido: 174
+Porcentaje de ruido: 13.64%
+Relaciones finales KG: 253
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 184
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 95
+Procesando id=202, anyo=1611
+Relaciones acumuladas: 1289
+Clusters detectados: 80
+Relaciones clasificadas como ruido: 179
+Porcentaje de ruido: 13.89%
+Relaciones finales KG: 259
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 180
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 96
+Procesando id=202, anyo=1614
+Relaciones acumuladas: 1298
+Clusters detectados: 80
+Relaciones clasificadas como ruido: 181
+Porcentaje de ruido: 13.94%
+Relaciones finales KG: 261
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 182
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 97
+Procesando id=202, anyo=1615
+Relaciones acumuladas: 1301
+Clusters detectados: 80
+Relaciones clasificadas como ruido: 181
+Porcentaje de ruido: 13.91%
+Relaciones finales KG: 261
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 173
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 98
+Procesando id=202, anyo=1618
+Relaciones acumuladas: 1313
+Clusters detectados: 80
+Relaciones clasificadas como ruido: 182
+Porcentaje de ruido: 13.86%
+Relaciones finales KG: 262
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 176
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 99
+Procesando id=202, anyo=1619
+Relaciones acumuladas: 1316
+Clusters detectados: 80
+Relaciones clasificadas como ruido: 182
+Porcentaje de ruido: 13.83%
+Relaciones finales KG: 262
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 166
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 100
+Procesando id=202, anyo=1621
+Relaciones acumuladas: 1319
+Clusters detectados: 80
+Relaciones clasificadas como ruido: 182
+Porcentaje de ruido: 13.8%
+Relaciones finales KG: 262
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 166
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 101
+Procesando id=202, anyo=1622
+Relaciones acumuladas: 1321
+Clusters detectados: 80
+Relaciones clasificadas como ruido: 183
+Porcentaje de ruido: 13.85%
+Relaciones finales KG: 263
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 165
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 102
+Procesando id=202, anyo=1623
+Relaciones acumuladas: 1328
+Clusters detectados: 80
+Relaciones clasificadas como ruido: 184
+Porcentaje de ruido: 13.86%
+Relaciones finales KG: 264
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 163
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 103
+Procesando id=202, anyo=1625
+Relaciones acumuladas: 1357
+Clusters detectados: 82
+Relaciones clasificadas como ruido: 182
+Porcentaje de ruido: 13.41%
+Relaciones finales KG: 264
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 177
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 104
+Procesando id=202, anyo=1626
+Relaciones acumuladas: 1363
+Clusters detectados: 82
+Relaciones clasificadas como ruido: 183
+Porcentaje de ruido: 13.43%
+Relaciones finales KG: 265
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 180
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 105
+Procesando id=202, anyo=Introducción
+Relaciones acumuladas: 1393
+Clusters detectados: 87
+Relaciones clasificadas como ruido: 183
+Porcentaje de ruido: 13.14%
+Relaciones finales KG: 270
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 201
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 106
+Procesando id=208, anyo=1632
+Relaciones acumuladas: 1396
+Clusters detectados: 87
+Relaciones clasificadas como ruido: 184
+Porcentaje de ruido: 13.18%
+Relaciones finales KG: 271
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 201
+Nuevos máximos KG ventana: 13
+--------------------------------------------------
+Iteración: 107
+Procesando id=219, anyo=1631
+Relaciones acumuladas: 1411
+Clusters detectados: 85
+Relaciones clasificadas como ruido: 183
+Porcentaje de ruido: 12.97%
+Relaciones finales KG: 268
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 211
+Nuevos máximos KG ventana: 13
+--------------------------------------------------
+Iteración: 108
+Procesando id=219, anyo=Introducción
+Relaciones acumuladas: 1423
+Clusters detectados: 88
+Relaciones clasificadas como ruido: 188
+Porcentaje de ruido: 13.21%
+Relaciones finales KG: 276
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 220
+Nuevos máximos KG ventana: 14
+--------------------------------------------------
+Iteración: 109
+Procesando id=220, anyo=1676
+Relaciones acumuladas: 1426
+Clusters detectados: 88
+Relaciones clasificadas como ruido: 188
+Porcentaje de ruido: 13.18%
+Relaciones finales KG: 276
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 197
+Nuevos máximos KG ventana: 13
+--------------------------------------------------
+Iteración: 110
+Procesando id=220, anyo=Introducción
+Relaciones acumuladas: 1429
+Clusters detectados: 89
+Relaciones clasificadas como ruido: 190
+Porcentaje de ruido: 13.3%
+Relaciones finales KG: 279
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 196
+Nuevos máximos KG ventana: 14
+--------------------------------------------------
+Iteración: 111
+Procesando id=232, anyo=1632
+Relaciones acumuladas: 1432
+Clusters detectados: 89
+Relaciones clasificadas como ruido: 190
+Porcentaje de ruido: 13.27%
+Relaciones finales KG: 279
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 179
+Nuevos máximos KG ventana: 13
+--------------------------------------------------
+Iteración: 112
+Procesando id=232, anyo=1633
+Relaciones acumuladas: 1439
+Clusters detectados: 89
+Relaciones clasificadas como ruido: 188
+Porcentaje de ruido: 13.06%
+Relaciones finales KG: 277
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 177
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 113
+Procesando id=232, anyo=Introducción
+Relaciones acumuladas: 1443
+Clusters detectados: 89
+Relaciones clasificadas como ruido: 188
+Porcentaje de ruido: 13.03%
+Relaciones finales KG: 277
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 175
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 114
+Procesando id=254, anyo=1632
+Relaciones acumuladas: 1451
+Clusters detectados: 89
+Relaciones clasificadas como ruido: 188
+Porcentaje de ruido: 12.96%
+Relaciones finales KG: 277
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 175
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 115
+Procesando id=254, anyo=1633
+Relaciones acumuladas: 1454
+Clusters detectados: 89
+Relaciones clasificadas como ruido: 188
+Porcentaje de ruido: 12.93%
+Relaciones finales KG: 277
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 165
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 116
+Procesando id=254, anyo=1635
+Relaciones acumuladas: 1457
+Clusters detectados: 89
+Relaciones clasificadas como ruido: 190
+Porcentaje de ruido: 13.04%
+Relaciones finales KG: 279
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 159
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 117
+Procesando id=254, anyo=Introducción
+Relaciones acumuladas: 1460
+Clusters detectados: 89
+Relaciones clasificadas como ruido: 191
+Porcentaje de ruido: 13.08%
+Relaciones finales KG: 280
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 159
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 118
+Procesando id=287, anyo=1637
+Relaciones acumuladas: 1463
+Clusters detectados: 89
+Relaciones clasificadas como ruido: 190
+Porcentaje de ruido: 12.99%
+Relaciones finales KG: 279
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 150
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 119
+Procesando id=287, anyo=Introducción
+Relaciones acumuladas: 1466
+Clusters detectados: 90
+Relaciones clasificadas como ruido: 192
+Porcentaje de ruido: 13.1%
+Relaciones finales KG: 282
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 150
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 120
+Procesando id=288, anyo=1605
+Relaciones acumuladas: 1480
+Clusters detectados: 90
+Relaciones clasificadas como ruido: 194
+Porcentaje de ruido: 13.11%
+Relaciones finales KG: 284
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 161
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 121
+Procesando id=288, anyo=1616
+Relaciones acumuladas: 1486
+Clusters detectados: 91
+Relaciones clasificadas como ruido: 191
+Porcentaje de ruido: 12.85%
+Relaciones finales KG: 282
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 165
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 122
+Procesando id=288, anyo=Apostilla
+Relaciones acumuladas: 1489
+Clusters detectados: 91
+Relaciones clasificadas como ruido: 191
+Porcentaje de ruido: 12.83%
+Relaciones finales KG: 282
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 161
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 123
+Procesando id=288, anyo=Introducción
+Relaciones acumuladas: 1492
+Clusters detectados: 91
+Relaciones clasificadas como ruido: 193
+Porcentaje de ruido: 12.94%
+Relaciones finales KG: 284
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 135
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 124
+Procesando id=290, anyo=1639
+Relaciones acumuladas: 1495
+Clusters detectados: 91
+Relaciones clasificadas como ruido: 193
+Porcentaje de ruido: 12.91%
+Relaciones finales KG: 284
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 132
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 125
+Procesando id=290, anyo=1640
+Relaciones acumuladas: 1498
+Clusters detectados: 91
+Relaciones clasificadas como ruido: 192
+Porcentaje de ruido: 12.82%
+Relaciones finales KG: 283
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 105
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 126
+Procesando id=290, anyo=Introducción
+Relaciones acumuladas: 1504
+Clusters detectados: 91
+Relaciones clasificadas como ruido: 193
+Porcentaje de ruido: 12.83%
+Relaciones finales KG: 284
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 108
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 127
+Procesando id=300, anyo=1643
+Relaciones acumuladas: 1507
+Clusters detectados: 91
+Relaciones clasificadas como ruido: 194
+Porcentaje de ruido: 12.87%
+Relaciones finales KG: 285
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 96
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 128
+Procesando id=301, anyo=1700
+Relaciones acumuladas: 1513
+Clusters detectados: 92
+Relaciones clasificadas como ruido: 191
+Porcentaje de ruido: 12.62%
+Relaciones finales KG: 283
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 90
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 129
+Procesando id=301, anyo=1701
+Relaciones acumuladas: 1517
+Clusters detectados: 92
+Relaciones clasificadas como ruido: 191
+Porcentaje de ruido: 12.59%
+Relaciones finales KG: 283
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 91
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 130
+Procesando id=301, anyo=1702
+Relaciones acumuladas: 1523
+Clusters detectados: 92
+Relaciones clasificadas como ruido: 191
+Porcentaje de ruido: 12.54%
+Relaciones finales KG: 283
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 94
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 131
+Procesando id=301, anyo=1703
+Relaciones acumuladas: 1526
+Clusters detectados: 92
+Relaciones clasificadas como ruido: 190
+Porcentaje de ruido: 12.45%
+Relaciones finales KG: 282
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 94
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 132
+Procesando id=301, anyo=1704
+Relaciones acumuladas: 1535
+Clusters detectados: 93
+Relaciones clasificadas como ruido: 193
+Porcentaje de ruido: 12.57%
+Relaciones finales KG: 286
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 96
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 133
+Procesando id=301, anyo=1716
+Relaciones acumuladas: 1538
+Clusters detectados: 93
+Relaciones clasificadas como ruido: 195
+Porcentaje de ruido: 12.68%
+Relaciones finales KG: 288
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 95
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 134
+Procesando id=301, anyo=1717
+Relaciones acumuladas: 1541
+Clusters detectados: 93
+Relaciones clasificadas como ruido: 195
+Porcentaje de ruido: 12.65%
+Relaciones finales KG: 288
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 90
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 135
+Procesando id=301, anyo=Introducción
+Relaciones acumuladas: 1553
+Clusters detectados: 94
+Relaciones clasificadas como ruido: 198
+Porcentaje de ruido: 12.75%
+Relaciones finales KG: 292
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 99
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 136
+Procesando id=310, anyo=Introducción
+Relaciones acumuladas: 1556
+Clusters detectados: 95
+Relaciones clasificadas como ruido: 199
+Porcentaje de ruido: 12.79%
+Relaciones finales KG: 294
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 99
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 137
+Procesando id=319, anyo=1608
+Relaciones acumuladas: 1577
+Clusters detectados: 97
+Relaciones clasificadas como ruido: 197
+Porcentaje de ruido: 12.49%
+Relaciones finales KG: 294
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 117
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 138
+Procesando id=319, anyo=1610
+Relaciones acumuladas: 1593
+Clusters detectados: 99
+Relaciones clasificadas como ruido: 191
+Porcentaje de ruido: 11.99%
+Relaciones finales KG: 290
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 130
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 139
+Procesando id=319, anyo=1613
+Relaciones acumuladas: 1599
+Clusters detectados: 99
+Relaciones clasificadas como ruido: 190
+Porcentaje de ruido: 11.88%
+Relaciones finales KG: 289
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 133
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 140
+Procesando id=319, anyo=1614
+Relaciones acumuladas: 1611
+Clusters detectados: 99
+Relaciones clasificadas como ruido: 191
+Porcentaje de ruido: 11.86%
+Relaciones finales KG: 290
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 131
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 141
+Procesando id=319, anyo=1619
+Relaciones acumuladas: 1633
+Clusters detectados: 100
+Relaciones clasificadas como ruido: 189
+Porcentaje de ruido: 11.57%
+Relaciones finales KG: 289
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 147
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 142
+Procesando id=319, anyo=1621
+Relaciones acumuladas: 1639
+Clusters detectados: 100
+Relaciones clasificadas como ruido: 189
+Porcentaje de ruido: 11.53%
+Relaciones finales KG: 289
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 150
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 143
+Procesando id=319, anyo=1626
+Relaciones acumuladas: 1646
+Clusters detectados: 100
+Relaciones clasificadas como ruido: 189
+Porcentaje de ruido: 11.48%
+Relaciones finales KG: 289
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 154
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 144
+Procesando id=319, anyo=1631
+Relaciones acumuladas: 1651
+Clusters detectados: 100
+Relaciones clasificadas como ruido: 190
+Porcentaje de ruido: 11.51%
+Relaciones finales KG: 290
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 156
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 145
+Procesando id=319, anyo=1634
+Relaciones acumuladas: 1663
+Clusters detectados: 100
+Relaciones clasificadas como ruido: 191
+Porcentaje de ruido: 11.49%
+Relaciones finales KG: 291
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 165
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 146
+Procesando id=319, anyo=1637
+Relaciones acumuladas: 1666
+Clusters detectados: 100
+Relaciones clasificadas como ruido: 191
+Porcentaje de ruido: 11.46%
+Relaciones finales KG: 291
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 162
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 147
+Procesando id=319, anyo=1643
+Relaciones acumuladas: 1669
+Clusters detectados: 101
+Relaciones clasificadas como ruido: 190
+Porcentaje de ruido: 11.38%
+Relaciones finales KG: 291
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 162
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 148
+Procesando id=319, anyo=Introducción
+Relaciones acumuladas: 1698
+Clusters detectados: 102
+Relaciones clasificadas como ruido: 188
+Porcentaje de ruido: 11.07%
+Relaciones finales KG: 290
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 185
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 149
+Procesando id=347, anyo=1693
+Relaciones acumuladas: 1700
+Clusters detectados: 102
+Relaciones clasificadas como ruido: 189
+Porcentaje de ruido: 11.12%
+Relaciones finales KG: 291
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 183
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 150
+Procesando id=347, anyo=1694
+Relaciones acumuladas: 1703
+Clusters detectados: 103
+Relaciones clasificadas como ruido: 186
+Porcentaje de ruido: 10.92%
+Relaciones finales KG: 289
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 180
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 151
+Procesando id=347, anyo=1696
+Relaciones acumuladas: 1707
+Clusters detectados: 103
+Relaciones clasificadas como ruido: 187
+Porcentaje de ruido: 10.95%
+Relaciones finales KG: 290
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 181
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 152
+Procesando id=347, anyo=1697
+Relaciones acumuladas: 1710
+Clusters detectados: 104
+Relaciones clasificadas como ruido: 186
+Porcentaje de ruido: 10.88%
+Relaciones finales KG: 290
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 175
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 153
+Procesando id=347, anyo=1698
+Relaciones acumuladas: 1713
+Clusters detectados: 104
+Relaciones clasificadas como ruido: 185
+Porcentaje de ruido: 10.8%
+Relaciones finales KG: 289
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 175
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 154
+Procesando id=347, anyo=1702
+Relaciones acumuladas: 1716
+Clusters detectados: 105
+Relaciones clasificadas como ruido: 189
+Porcentaje de ruido: 11.01%
+Relaciones finales KG: 294
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 175
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 155
+Procesando id=347, anyo=Introducción
+Relaciones acumuladas: 1719
+Clusters detectados: 105
+Relaciones clasificadas como ruido: 190
+Porcentaje de ruido: 11.05%
+Relaciones finales KG: 295
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 166
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 156
+Procesando id=359, anyo=1701
+Relaciones acumuladas: 1722
+Clusters detectados: 106
+Relaciones clasificadas como ruido: 191
+Porcentaje de ruido: 11.09%
+Relaciones finales KG: 297
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 166
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 157
+Procesando id=359, anyo=1714
+Relaciones acumuladas: 1725
+Clusters detectados: 106
+Relaciones clasificadas como ruido: 192
+Porcentaje de ruido: 11.13%
+Relaciones finales KG: 298
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 148
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 158
+Procesando id=359, anyo=Introducción
+Relaciones acumuladas: 1730
+Clusters detectados: 106
+Relaciones clasificadas como ruido: 193
+Porcentaje de ruido: 11.16%
+Relaciones finales KG: 299
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 137
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 159
+Procesando id=365, anyo=1593
+Relaciones acumuladas: 1746
+Clusters detectados: 106
+Relaciones clasificadas como ruido: 194
+Porcentaje de ruido: 11.11%
+Relaciones finales KG: 300
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 147
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 160
+Procesando id=365, anyo=1603
+Relaciones acumuladas: 1749
+Clusters detectados: 106
+Relaciones clasificadas como ruido: 194
+Porcentaje de ruido: 11.09%
+Relaciones finales KG: 300
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 138
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 161
+Procesando id=365, anyo=1610
+Relaciones acumuladas: 1775
+Clusters detectados: 106
+Relaciones clasificadas como ruido: 195
+Porcentaje de ruido: 10.99%
+Relaciones finales KG: 301
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 142
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 162
+Procesando id=365, anyo=1611
+Relaciones acumuladas: 1797
+Clusters detectados: 108
+Relaciones clasificadas como ruido: 198
+Porcentaje de ruido: 11.02%
+Relaciones finales KG: 306
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 158
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 163
+Procesando id=365, anyo=Introducción
+Relaciones acumuladas: 1815
+Clusters detectados: 109
+Relaciones clasificadas como ruido: 200
+Porcentaje de ruido: 11.02%
+Relaciones finales KG: 309
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 169
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 164
+Procesando id=366, anyo=1632
+Relaciones acumuladas: 1819
+Clusters detectados: 109
+Relaciones clasificadas como ruido: 200
+Porcentaje de ruido: 11.0%
+Relaciones finales KG: 309
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 168
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 165
+Procesando id=366, anyo=1633
+Relaciones acumuladas: 1822
+Clusters detectados: 109
+Relaciones clasificadas como ruido: 199
+Porcentaje de ruido: 10.92%
+Relaciones finales KG: 308
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 159
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 166
+Procesando id=366, anyo=Introducción
+Relaciones acumuladas: 1832
+Clusters detectados: 109
+Relaciones clasificadas como ruido: 199
+Porcentaje de ruido: 10.86%
+Relaciones finales KG: 308
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 166
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 167
+Procesando id=378, anyo=1631
+Relaciones acumuladas: 1836
+Clusters detectados: 109
+Relaciones clasificadas como ruido: 201
+Porcentaje de ruido: 10.95%
+Relaciones finales KG: 310
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 167
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 168
+Procesando id=378, anyo=1632
+Relaciones acumuladas: 1840
+Clusters detectados: 109
+Relaciones clasificadas como ruido: 202
+Porcentaje de ruido: 10.98%
+Relaciones finales KG: 311
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 142
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 169
+Procesando id=378, anyo=1635
+Relaciones acumuladas: 1844
+Clusters detectados: 110
+Relaciones clasificadas como ruido: 202
+Porcentaje de ruido: 10.95%
+Relaciones finales KG: 312
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 144
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 170
+Procesando id=378, anyo=1636
+Relaciones acumuladas: 1850
+Clusters detectados: 111
+Relaciones clasificadas como ruido: 200
+Porcentaje de ruido: 10.81%
+Relaciones finales KG: 311
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 147
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 171
+Procesando id=378, anyo=Introducción
+Relaciones acumuladas: 1859
+Clusters detectados: 111
+Relaciones clasificadas como ruido: 201
+Porcentaje de ruido: 10.81%
+Relaciones finales KG: 312
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 152
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 172
+Procesando id=386, anyo=1671
+Relaciones acumuladas: 1862
+Clusters detectados: 111
+Relaciones clasificadas como ruido: 201
+Porcentaje de ruido: 10.79%
+Relaciones finales KG: 312
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 152
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 173
+Procesando id=386, anyo=1684
+Relaciones acumuladas: 1865
+Clusters detectados: 112
+Relaciones clasificadas como ruido: 199
+Porcentaje de ruido: 10.67%
+Relaciones finales KG: 311
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 152
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 174
+Procesando id=407, anyo=1699
+Relaciones acumuladas: 1868
+Clusters detectados: 112
+Relaciones clasificadas como ruido: 200
+Porcentaje de ruido: 10.71%
+Relaciones finales KG: 312
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 152
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 175
+Procesando id=407, anyo=Introducción
+Relaciones acumuladas: 1871
+Clusters detectados: 112
+Relaciones clasificadas como ruido: 200
+Porcentaje de ruido: 10.69%
+Relaciones finales KG: 312
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 152
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 176
+Procesando id=426, anyo=1671
+Relaciones acumuladas: 1874
+Clusters detectados: 112
+Relaciones clasificadas como ruido: 200
+Porcentaje de ruido: 10.67%
+Relaciones finales KG: 312
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 152
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 177
+Procesando id=426, anyo=1673
+Relaciones acumuladas: 1877
+Clusters detectados: 112
+Relaciones clasificadas como ruido: 200
+Porcentaje de ruido: 10.66%
+Relaciones finales KG: 312
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 152
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 178
+Procesando id=426, anyo=1674
+Relaciones acumuladas: 1885
+Clusters detectados: 112
+Relaciones clasificadas como ruido: 200
+Porcentaje de ruido: 10.61%
+Relaciones finales KG: 312
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 155
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 179
+Procesando id=426, anyo=1675
+Relaciones acumuladas: 1903
+Clusters detectados: 112
+Relaciones clasificadas como ruido: 201
+Porcentaje de ruido: 10.56%
+Relaciones finales KG: 313
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 157
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 180
+Procesando id=426, anyo=1676
+Relaciones acumuladas: 1912
+Clusters detectados: 112
+Relaciones clasificadas como ruido: 201
+Porcentaje de ruido: 10.51%
+Relaciones finales KG: 313
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 163
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 181
+Procesando id=426, anyo=1677
+Relaciones acumuladas: 1915
+Clusters detectados: 113
+Relaciones clasificadas como ruido: 198
+Porcentaje de ruido: 10.34%
+Relaciones finales KG: 311
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 140
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 182
+Procesando id=426, anyo=1678
+Relaciones acumuladas: 1921
+Clusters detectados: 113
+Relaciones clasificadas como ruido: 198
+Porcentaje de ruido: 10.31%
+Relaciones finales KG: 311
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 124
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 183
+Procesando id=426, anyo=1680
+Relaciones acumuladas: 1924
+Clusters detectados: 113
+Relaciones clasificadas como ruido: 198
+Porcentaje de ruido: 10.29%
+Relaciones finales KG: 311
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 109
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 184
+Procesando id=426, anyo=Introducción
+Relaciones acumuladas: 1934
+Clusters detectados: 116
+Relaciones clasificadas como ruido: 192
+Porcentaje de ruido: 9.93%
+Relaciones finales KG: 308
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 115
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 185
+Procesando id=431, anyo=1686
+Relaciones acumuladas: 1940
+Clusters detectados: 117
+Relaciones clasificadas como ruido: 189
+Porcentaje de ruido: 9.74%
+Relaciones finales KG: 306
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 118
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 186
+Procesando id=431, anyo=1687
+Relaciones acumuladas: 1943
+Clusters detectados: 117
+Relaciones clasificadas como ruido: 189
+Porcentaje de ruido: 9.73%
+Relaciones finales KG: 306
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 111
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 187
+Procesando id=431, anyo=1688
+Relaciones acumuladas: 1946
+Clusters detectados: 117
+Relaciones clasificadas como ruido: 189
+Porcentaje de ruido: 9.71%
+Relaciones finales KG: 306
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 110
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 188
+Procesando id=431, anyo=1691
+Relaciones acumuladas: 1950
+Clusters detectados: 117
+Relaciones clasificadas como ruido: 189
+Porcentaje de ruido: 9.69%
+Relaciones finales KG: 306
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 110
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 189
+Procesando id=431, anyo=1692
+Relaciones acumuladas: 1953
+Clusters detectados: 118
+Relaciones clasificadas como ruido: 189
+Porcentaje de ruido: 9.68%
+Relaciones finales KG: 307
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 109
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 190
+Procesando id=431, anyo=1700
+Relaciones acumuladas: 1959
+Clusters detectados: 119
+Relaciones clasificadas como ruido: 193
+Porcentaje de ruido: 9.85%
+Relaciones finales KG: 312
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 109
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 191
+Procesando id=431, anyo=1701
+Relaciones acumuladas: 1962
+Clusters detectados: 119
+Relaciones clasificadas como ruido: 193
+Porcentaje de ruido: 9.84%
+Relaciones finales KG: 312
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 103
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 192
+Procesando id=431, anyo=1703
+Relaciones acumuladas: 1965
+Clusters detectados: 120
+Relaciones clasificadas como ruido: 190
+Porcentaje de ruido: 9.67%
+Relaciones finales KG: 310
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 103
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 193
+Procesando id=431, anyo=Introducción
+Relaciones acumuladas: 1972
+Clusters detectados: 120
+Relaciones clasificadas como ruido: 190
+Porcentaje de ruido: 9.63%
+Relaciones finales KG: 310
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 107
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 194
+Procesando id=455, anyo=1641
+Relaciones acumuladas: 1984
+Clusters detectados: 120
+Relaciones clasificadas como ruido: 190
+Porcentaje de ruido: 9.58%
+Relaciones finales KG: 310
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 116
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 195
+Procesando id=455, anyo=1642
+Relaciones acumuladas: 1993
+Clusters detectados: 120
+Relaciones clasificadas como ruido: 190
+Porcentaje de ruido: 9.53%
+Relaciones finales KG: 310
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 122
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 196
+Procesando id=455, anyo=1643
+Relaciones acumuladas: 2020
+Clusters detectados: 122
+Relaciones clasificadas como ruido: 187
+Porcentaje de ruido: 9.26%
+Relaciones finales KG: 309
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 146
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 197
+Procesando id=455, anyo=1644
+Relaciones acumuladas: 2044
+Clusters detectados: 123
+Relaciones clasificadas como ruido: 191
+Porcentaje de ruido: 9.34%
+Relaciones finales KG: 314
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 167
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 198
+Procesando id=455, anyo=1652
+Relaciones acumuladas: 2050
+Clusters detectados: 123
+Relaciones clasificadas como ruido: 191
+Porcentaje de ruido: 9.32%
+Relaciones finales KG: 314
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 165
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 199
+Procesando id=455, anyo=1653
+Relaciones acumuladas: 2062
+Clusters detectados: 123
+Relaciones clasificadas como ruido: 193
+Porcentaje de ruido: 9.36%
+Relaciones finales KG: 316
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 159
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 200
+Procesando id=455, anyo=1656
+Relaciones acumuladas: 2081
+Clusters detectados: 123
+Relaciones clasificadas como ruido: 196
+Porcentaje de ruido: 9.42%
+Relaciones finales KG: 319
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 169
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 201
+Procesando id=455, anyo=1657
+Relaciones acumuladas: 2087
+Clusters detectados: 123
+Relaciones clasificadas como ruido: 196
+Porcentaje de ruido: 9.39%
+Relaciones finales KG: 319
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 172
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 202
+Procesando id=455, anyo=1658
+Relaciones acumuladas: 2100
+Clusters detectados: 123
+Relaciones clasificadas como ruido: 197
+Porcentaje de ruido: 9.38%
+Relaciones finales KG: 320
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 179
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 203
+Procesando id=455, anyo=1659
+Relaciones acumuladas: 2116
+Clusters detectados: 124
+Relaciones clasificadas como ruido: 195
+Porcentaje de ruido: 9.22%
+Relaciones finales KG: 319
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 192
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 204
+Procesando id=455, anyo=1660
+Relaciones acumuladas: 2120
+Clusters detectados: 125
+Relaciones clasificadas como ruido: 192
+Porcentaje de ruido: 9.06%
+Relaciones finales KG: 317
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 186
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 205
+Procesando id=455, anyo=1661
+Relaciones acumuladas: 2122
+Clusters detectados: 125
+Relaciones clasificadas como ruido: 193
+Porcentaje de ruido: 9.1%
+Relaciones finales KG: 318
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 182
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 206
+Procesando id=455, anyo=1664
+Relaciones acumuladas: 2125
+Clusters detectados: 125
+Relaciones clasificadas como ruido: 193
+Porcentaje de ruido: 9.08%
+Relaciones finales KG: 318
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 182
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 207
+Procesando id=455, anyo=Introducción
+Relaciones acumuladas: 2152
+Clusters detectados: 128
+Relaciones clasificadas como ruido: 188
+Porcentaje de ruido: 8.74%
+Relaciones finales KG: 316
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 206
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 208
+Procesando id=477, anyo=1631
+Relaciones acumuladas: 2156
+Clusters detectados: 129
+Relaciones clasificadas como ruido: 190
+Porcentaje de ruido: 8.81%
+Relaciones finales KG: 319
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 206
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 209
+Procesando id=477, anyo=1633
+Relaciones acumuladas: 2174
+Clusters detectados: 132
+Relaciones clasificadas como ruido: 185
+Porcentaje de ruido: 8.51%
+Relaciones finales KG: 317
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 221
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 210
+Procesando id=477, anyo=Introducción
+Relaciones acumuladas: 2181
+Clusters detectados: 132
+Relaciones clasificadas como ruido: 186
+Porcentaje de ruido: 8.53%
+Relaciones finales KG: 318
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 222
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 211
+Procesando id=497, anyo=1632
+Relaciones acumuladas: 2189
+Clusters detectados: 131
+Relaciones clasificadas como ruido: 194
+Porcentaje de ruido: 8.86%
+Relaciones finales KG: 325
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 227
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 212
+Procesando id=497, anyo=1652
+Relaciones acumuladas: 2219
+Clusters detectados: 131
+Relaciones clasificadas como ruido: 195
+Porcentaje de ruido: 8.79%
+Relaciones finales KG: 326
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 254
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 213
+Procesando id=497, anyo=1654
+Relaciones acumuladas: 2229
+Clusters detectados: 131
+Relaciones clasificadas como ruido: 195
+Porcentaje de ruido: 8.75%
+Relaciones finales KG: 326
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 257
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 214
+Procesando id=497, anyo=1655
+Relaciones acumuladas: 2235
+Clusters detectados: 131
+Relaciones clasificadas como ruido: 196
+Porcentaje de ruido: 8.77%
+Relaciones finales KG: 327
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 251
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 215
+Procesando id=497, anyo=1658
+Relaciones acumuladas: 2238
+Clusters detectados: 131
+Relaciones clasificadas como ruido: 197
+Porcentaje de ruido: 8.8%
+Relaciones finales KG: 328
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 245
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 216
+Procesando id=497, anyo=1661
+Relaciones acumuladas: 2241
+Clusters detectados: 131
+Relaciones clasificadas como ruido: 196
+Porcentaje de ruido: 8.75%
+Relaciones finales KG: 327
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 221
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 217
+Procesando id=497, anyo=1662
+Relaciones acumuladas: 2246
+Clusters detectados: 131
+Relaciones clasificadas como ruido: 196
+Porcentaje de ruido: 8.73%
+Relaciones finales KG: 327
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 202
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 218
+Procesando id=497, anyo=1663
+Relaciones acumuladas: 2249
+Clusters detectados: 131
+Relaciones clasificadas como ruido: 195
+Porcentaje de ruido: 8.67%
+Relaciones finales KG: 326
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 199
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 219
+Procesando id=497, anyo=1664
+Relaciones acumuladas: 2255
+Clusters detectados: 132
+Relaciones clasificadas como ruido: 197
+Porcentaje de ruido: 8.74%
+Relaciones finales KG: 329
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 193
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 220
+Procesando id=497, anyo=1668
+Relaciones acumuladas: 2259
+Clusters detectados: 132
+Relaciones clasificadas como ruido: 196
+Porcentaje de ruido: 8.68%
+Relaciones finales KG: 328
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 178
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 221
+Procesando id=497, anyo=1669
+Relaciones acumuladas: 2263
+Clusters detectados: 132
+Relaciones clasificadas como ruido: 197
+Porcentaje de ruido: 8.71%
+Relaciones finales KG: 329
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 176
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 222
+Procesando id=497, anyo=1670
+Relaciones acumuladas: 2269
+Clusters detectados: 132
+Relaciones clasificadas como ruido: 201
+Porcentaje de ruido: 8.86%
+Relaciones finales KG: 333
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 169
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 223
+Procesando id=497, anyo=1671
+Relaciones acumuladas: 2278
+Clusters detectados: 132
+Relaciones clasificadas como ruido: 202
+Porcentaje de ruido: 8.87%
+Relaciones finales KG: 334
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 162
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 224
+Procesando id=497, anyo=1672
+Relaciones acumuladas: 2281
+Clusters detectados: 132
+Relaciones clasificadas como ruido: 203
+Porcentaje de ruido: 8.9%
+Relaciones finales KG: 335
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 161
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 225
+Procesando id=497, anyo=1673
+Relaciones acumuladas: 2291
+Clusters detectados: 132
+Relaciones clasificadas como ruido: 203
+Porcentaje de ruido: 8.86%
+Relaciones finales KG: 335
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 169
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 226
+Procesando id=497, anyo=1674
+Relaciones acumuladas: 2312
+Clusters detectados: 135
+Relaciones clasificadas como ruido: 202
+Porcentaje de ruido: 8.74%
+Relaciones finales KG: 337
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 187
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 227
+Procesando id=497, anyo=1675
+Relaciones acumuladas: 2346
+Clusters detectados: 136
+Relaciones clasificadas como ruido: 206
+Porcentaje de ruido: 8.78%
+Relaciones finales KG: 342
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 194
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 228
+Procesando id=497, anyo=1676
+Relaciones acumuladas: 2361
+Clusters detectados: 138
+Relaciones clasificadas como ruido: 208
+Porcentaje de ruido: 8.81%
+Relaciones finales KG: 346
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 205
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 229
+Procesando id=497, anyo=1678
+Relaciones acumuladas: 2363
+Clusters detectados: 138
+Relaciones clasificadas como ruido: 207
+Porcentaje de ruido: 8.76%
+Relaciones finales KG: 345
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 189
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 230
+Procesando id=497, anyo=1679
+Relaciones acumuladas: 2372
+Clusters detectados: 138
+Relaciones clasificadas como ruido: 208
+Porcentaje de ruido: 8.77%
+Relaciones finales KG: 346
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 191
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 231
+Procesando id=497, anyo=1682
+Relaciones acumuladas: 2422
+Clusters detectados: 139
+Relaciones clasificadas como ruido: 215
+Porcentaje de ruido: 8.88%
+Relaciones finales KG: 354
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 233
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 232
+Procesando id=497, anyo=1683
+Relaciones acumuladas: 2474
+Clusters detectados: 143
+Relaciones clasificadas como ruido: 209
+Porcentaje de ruido: 8.45%
+Relaciones finales KG: 352
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 255
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 233
+Procesando id=497, anyo=1684
+Relaciones acumuladas: 2477
+Clusters detectados: 143
+Relaciones clasificadas como ruido: 212
+Porcentaje de ruido: 8.56%
+Relaciones finales KG: 355
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 248
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 234
+Procesando id=497, anyo=1685
+Relaciones acumuladas: 2495
+Clusters detectados: 144
+Relaciones clasificadas como ruido: 211
+Porcentaje de ruido: 8.46%
+Relaciones finales KG: 355
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 260
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 235
+Procesando id=497, anyo=1686
+Relaciones acumuladas: 2504
+Clusters detectados: 144
+Relaciones clasificadas como ruido: 213
+Porcentaje de ruido: 8.51%
+Relaciones finales KG: 357
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 266
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 236
+Procesando id=497, anyo=1687
+Relaciones acumuladas: 2506
+Clusters detectados: 144
+Relaciones clasificadas como ruido: 212
+Porcentaje de ruido: 8.46%
+Relaciones finales KG: 356
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 265
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 237
+Procesando id=497, anyo=1688
+Relaciones acumuladas: 2526
+Clusters detectados: 145
+Relaciones clasificadas como ruido: 215
+Porcentaje de ruido: 8.51%
+Relaciones finales KG: 360
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 280
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 238
+Procesando id=497, anyo=1689
+Relaciones acumuladas: 2539
+Clusters detectados: 145
+Relaciones clasificadas como ruido: 214
+Porcentaje de ruido: 8.43%
+Relaciones finales KG: 359
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 290
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 239
+Procesando id=497, anyo=1691
+Relaciones acumuladas: 2550
+Clusters detectados: 145
+Relaciones clasificadas como ruido: 217
+Porcentaje de ruido: 8.51%
+Relaciones finales KG: 362
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 295
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 240
+Procesando id=497, anyo=Introducción
+Relaciones acumuladas: 2699
+Clusters detectados: 153
+Relaciones clasificadas como ruido: 214
+Porcentaje de ruido: 7.93%
+Relaciones finales KG: 367
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 440
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 241
+Procesando id=505, anyo=Introducción
+Relaciones acumuladas: 2702
+Clusters detectados: 153
+Relaciones clasificadas como ruido: 215
+Porcentaje de ruido: 7.96%
+Relaciones finales KG: 368
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 439
+Nuevos máximos KG ventana: 13
+--------------------------------------------------
+Iteración: 242
+Procesando id=511, anyo=1691
+Relaciones acumuladas: 2715
+Clusters detectados: 153
+Relaciones clasificadas como ruido: 216
+Porcentaje de ruido: 7.96%
+Relaciones finales KG: 369
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 446
+Nuevos máximos KG ventana: 13
+--------------------------------------------------
+Iteración: 243
+Procesando id=511, anyo=1692
+Relaciones acumuladas: 2718
+Clusters detectados: 153
+Relaciones clasificadas como ruido: 215
+Porcentaje de ruido: 7.91%
+Relaciones finales KG: 368
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 440
+Nuevos máximos KG ventana: 12
+--------------------------------------------------
+Iteración: 244
+Procesando id=511, anyo=1693
+Relaciones acumuladas: 2729
+Clusters detectados: 154
+Relaciones clasificadas como ruido: 213
+Porcentaje de ruido: 7.81%
+Relaciones finales KG: 367
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 448
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 245
+Procesando id=511, anyo=1694
+Relaciones acumuladas: 2735
+Clusters detectados: 154
+Relaciones clasificadas como ruido: 213
+Porcentaje de ruido: 7.79%
+Relaciones finales KG: 367
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 444
+Nuevos máximos KG ventana: 11
+--------------------------------------------------
+Iteración: 246
+Procesando id=511, anyo=1697
+Relaciones acumuladas: 2738
+Clusters detectados: 155
+Relaciones clasificadas como ruido: 211
+Porcentaje de ruido: 7.71%
+Relaciones finales KG: 366
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 426
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 247
+Procesando id=511, anyo=1702
+Relaciones acumuladas: 2741
+Clusters detectados: 155
+Relaciones clasificadas como ruido: 209
+Porcentaje de ruido: 7.62%
+Relaciones finales KG: 364
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 395
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 248
+Procesando id=511, anyo=1704
+Relaciones acumuladas: 2744
+Clusters detectados: 155
+Relaciones clasificadas como ruido: 211
+Porcentaje de ruido: 7.69%
+Relaciones finales KG: 366
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 383
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 249
+Procesando id=511, anyo=1705
+Relaciones acumuladas: 2747
+Clusters detectados: 155
+Relaciones clasificadas como ruido: 212
+Porcentaje de ruido: 7.72%
+Relaciones finales KG: 367
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 384
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 250
+Procesando id=511, anyo=1706
+Relaciones acumuladas: 2750
+Clusters detectados: 155
+Relaciones clasificadas como ruido: 212
+Porcentaje de ruido: 7.71%
+Relaciones finales KG: 367
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 378
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 251
+Procesando id=511, anyo=1707
+Relaciones acumuladas: 2753
+Clusters detectados: 155
+Relaciones clasificadas como ruido: 212
+Porcentaje de ruido: 7.7%
+Relaciones finales KG: 367
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 331
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 252
+Procesando id=511, anyo=1708
+Relaciones acumuladas: 2756
+Clusters detectados: 156
+Relaciones clasificadas como ruido: 210
+Porcentaje de ruido: 7.62%
+Relaciones finales KG: 366
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 282
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 253
+Procesando id=511, anyo=1709
+Relaciones acumuladas: 2759
+Clusters detectados: 156
+Relaciones clasificadas como ruido: 210
+Porcentaje de ruido: 7.61%
+Relaciones finales KG: 366
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 282
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 254
+Procesando id=511, anyo=Introducción
+Relaciones acumuladas: 2781
+Clusters detectados: 155
+Relaciones clasificadas como ruido: 214
+Porcentaje de ruido: 7.7%
+Relaciones finales KG: 369
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 286
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 255
+Procesando id=515, anyo=1682
+Relaciones acumuladas: 2787
+Clusters detectados: 156
+Relaciones clasificadas como ruido: 213
+Porcentaje de ruido: 7.64%
+Relaciones finales KG: 369
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 283
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 256
+Procesando id=515, anyo=1683
+Relaciones acumuladas: 2789
+Clusters detectados: 156
+Relaciones clasificadas como ruido: 212
+Porcentaje de ruido: 7.6%
+Relaciones finales KG: 368
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 283
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 257
+Procesando id=515, anyo=1686
+Relaciones acumuladas: 2791
+Clusters detectados: 156
+Relaciones clasificadas como ruido: 213
+Porcentaje de ruido: 7.63%
+Relaciones finales KG: 369
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 265
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 258
+Procesando id=515, anyo=1687
+Relaciones acumuladas: 2794
+Clusters detectados: 156
+Relaciones clasificadas como ruido: 214
+Porcentaje de ruido: 7.66%
+Relaciones finales KG: 370
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 255
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 259
+Procesando id=515, anyo=1688
+Relaciones acumuladas: 2797
+Clusters detectados: 156
+Relaciones clasificadas como ruido: 213
+Porcentaje de ruido: 7.62%
+Relaciones finales KG: 369
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 247
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 260
+Procesando id=515, anyo=1691
+Relaciones acumuladas: 2812
+Clusters detectados: 157
+Relaciones clasificadas como ruido: 236
+Porcentaje de ruido: 8.39%
+Relaciones finales KG: 393
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 113
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 261
+Procesando id=515, anyo=1692
+Relaciones acumuladas: 2815
+Clusters detectados: 157
+Relaciones clasificadas como ruido: 237
+Porcentaje de ruido: 8.42%
+Relaciones finales KG: 394
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 113
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 262
+Procesando id=515, anyo=1693
+Relaciones acumuladas: 2824
+Clusters detectados: 158
+Relaciones clasificadas como ruido: 240
+Porcentaje de ruido: 8.5%
+Relaciones finales KG: 398
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 109
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 263
+Procesando id=515, anyo=1694
+Relaciones acumuladas: 2852
+Clusters detectados: 159
+Relaciones clasificadas como ruido: 244
+Porcentaje de ruido: 8.56%
+Relaciones finales KG: 403
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 134
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 264
+Procesando id=515, anyo=1695
+Relaciones acumuladas: 2879
+Clusters detectados: 160
+Relaciones clasificadas como ruido: 250
+Porcentaje de ruido: 8.68%
+Relaciones finales KG: 410
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 150
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 265
+Procesando id=515, anyo=1696
+Relaciones acumuladas: 2882
+Clusters detectados: 161
+Relaciones clasificadas como ruido: 250
+Porcentaje de ruido: 8.67%
+Relaciones finales KG: 411
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 147
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 266
+Procesando id=515, anyo=1698
+Relaciones acumuladas: 2888
+Clusters detectados: 161
+Relaciones clasificadas como ruido: 250
+Porcentaje de ruido: 8.66%
+Relaciones finales KG: 411
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 150
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 267
+Procesando id=515, anyo=1701
+Relaciones acumuladas: 2891
+Clusters detectados: 161
+Relaciones clasificadas como ruido: 250
+Porcentaje de ruido: 8.65%
+Relaciones finales KG: 411
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 150
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 268
+Procesando id=515, anyo=1702
+Relaciones acumuladas: 2894
+Clusters detectados: 161
+Relaciones clasificadas como ruido: 250
+Porcentaje de ruido: 8.64%
+Relaciones finales KG: 411
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 150
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 269
+Procesando id=515, anyo=1703
+Relaciones acumuladas: 2897
+Clusters detectados: 161
+Relaciones clasificadas como ruido: 250
+Porcentaje de ruido: 8.63%
+Relaciones finales KG: 411
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 150
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 270
+Procesando id=515, anyo=1704
+Relaciones acumuladas: 2900
+Clusters detectados: 161
+Relaciones clasificadas como ruido: 250
+Porcentaje de ruido: 8.62%
+Relaciones finales KG: 411
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 150
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 271
+Procesando id=515, anyo=1705
+Relaciones acumuladas: 2903
+Clusters detectados: 161
+Relaciones clasificadas como ruido: 250
+Porcentaje de ruido: 8.61%
+Relaciones finales KG: 411
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 150
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 272
+Procesando id=515, anyo=1706
+Relaciones acumuladas: 2906
+Clusters detectados: 161
+Relaciones clasificadas como ruido: 250
+Porcentaje de ruido: 8.6%
+Relaciones finales KG: 411
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 150
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 273
+Procesando id=515, anyo=1710
+Relaciones acumuladas: 2909
+Clusters detectados: 161
+Relaciones clasificadas como ruido: 250
+Porcentaje de ruido: 8.59%
+Relaciones finales KG: 411
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 150
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 274
+Procesando id=515, anyo=Introducción
+Relaciones acumuladas: 2933
+Clusters detectados: 165
+Relaciones clasificadas como ruido: 261
+Porcentaje de ruido: 8.9%
+Relaciones finales KG: 426
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 152
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 275
+Procesando id=518, anyo=1697
+Relaciones acumuladas: 2936
+Clusters detectados: 165
+Relaciones clasificadas como ruido: 261
+Porcentaje de ruido: 8.89%
+Relaciones finales KG: 426
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 149
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 276
+Procesando id=518, anyo=1699
+Relaciones acumuladas: 2939
+Clusters detectados: 165
+Relaciones clasificadas como ruido: 260
+Porcentaje de ruido: 8.85%
+Relaciones finales KG: 425
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 150
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 277
+Procesando id=518, anyo=Introducción
+Relaciones acumuladas: 2948
+Clusters detectados: 165
+Relaciones clasificadas como ruido: 261
+Porcentaje de ruido: 8.85%
+Relaciones finales KG: 426
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 157
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 278
+Procesando id=526, anyo=1695
+Relaciones acumuladas: 2953
+Clusters detectados: 165
+Relaciones clasificadas como ruido: 261
+Porcentaje de ruido: 8.84%
+Relaciones finales KG: 426
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 159
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 279
+Procesando id=526, anyo=1700
+Relaciones acumuladas: 2956
+Clusters detectados: 165
+Relaciones clasificadas como ruido: 262
+Porcentaje de ruido: 8.86%
+Relaciones finales KG: 427
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 159
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 280
+Procesando id=526, anyo=1701
+Relaciones acumuladas: 2959
+Clusters detectados: 165
+Relaciones clasificadas como ruido: 262
+Porcentaje de ruido: 8.85%
+Relaciones finales KG: 427
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 147
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 281
+Procesando id=526, anyo=1702
+Relaciones acumuladas: 2962
+Clusters detectados: 165
+Relaciones clasificadas como ruido: 261
+Porcentaje de ruido: 8.81%
+Relaciones finales KG: 426
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 147
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 282
+Procesando id=526, anyo=1704
+Relaciones acumuladas: 2965
+Clusters detectados: 166
+Relaciones clasificadas como ruido: 262
+Porcentaje de ruido: 8.84%
+Relaciones finales KG: 428
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 141
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 283
+Procesando id=526, anyo=Introducción
+Relaciones acumuladas: 2974
+Clusters detectados: 166
+Relaciones clasificadas como ruido: 264
+Porcentaje de ruido: 8.88%
+Relaciones finales KG: 430
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 122
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 284
+Procesando id=527, anyo=1681
+Relaciones acumuladas: 2977
+Clusters detectados: 166
+Relaciones clasificadas como ruido: 264
+Porcentaje de ruido: 8.87%
+Relaciones finales KG: 430
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 98
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 285
+Procesando id=527, anyo=Apostilla
+Relaciones acumuladas: 2981
+Clusters detectados: 166
+Relaciones clasificadas como ruido: 263
+Porcentaje de ruido: 8.82%
+Relaciones finales KG: 429
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 99
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 286
+Procesando id=559, anyo=1623
+Relaciones acumuladas: 2987
+Clusters detectados: 166
+Relaciones clasificadas como ruido: 263
+Porcentaje de ruido: 8.8%
+Relaciones finales KG: 429
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 99
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 287
+Procesando id=559, anyo=Apostilla
+Relaciones acumuladas: 2990
+Clusters detectados: 166
+Relaciones clasificadas como ruido: 263
+Porcentaje de ruido: 8.8%
+Relaciones finales KG: 429
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 99
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 288
+Procesando id=559, anyo=Introducción
+Relaciones acumuladas: 2997
+Clusters detectados: 166
+Relaciones clasificadas como ruido: 263
+Porcentaje de ruido: 8.78%
+Relaciones finales KG: 429
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 103
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 289
+Procesando id=565, anyo=1702
+Relaciones acumuladas: 3000
+Clusters detectados: 167
+Relaciones clasificadas como ruido: 264
+Porcentaje de ruido: 8.8%
+Relaciones finales KG: 431
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 103
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 290
+Procesando id=565, anyo=1703
+Relaciones acumuladas: 3003
+Clusters detectados: 167
+Relaciones clasificadas como ruido: 265
+Porcentaje de ruido: 8.82%
+Relaciones finales KG: 432
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 103
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 291
+Procesando id=565, anyo=Introducción
+Relaciones acumuladas: 3019
+Clusters detectados: 168
+Relaciones clasificadas como ruido: 267
+Porcentaje de ruido: 8.84%
+Relaciones finales KG: 435
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 116
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 292
+Procesando id=568, anyo=1676
+Relaciones acumuladas: 3022
+Clusters detectados: 168
+Relaciones clasificadas como ruido: 267
+Porcentaje de ruido: 8.84%
+Relaciones finales KG: 435
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 116
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 293
+Procesando id=568, anyo=1679
+Relaciones acumuladas: 3046
+Clusters detectados: 169
+Relaciones clasificadas como ruido: 264
+Porcentaje de ruido: 8.67%
+Relaciones finales KG: 433
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 137
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 294
+Procesando id=568, anyo=1680
+Relaciones acumuladas: 3049
+Clusters detectados: 170
+Relaciones clasificadas como ruido: 265
+Porcentaje de ruido: 8.69%
+Relaciones finales KG: 435
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 116
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 295
+Procesando id=568, anyo=Introducción
+Relaciones acumuladas: 3058
+Clusters detectados: 170
+Relaciones clasificadas como ruido: 266
+Porcentaje de ruido: 8.7%
+Relaciones finales KG: 436
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 122
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 296
+Procesando id=569, anyo=1675
+Relaciones acumuladas: 3060
+Clusters detectados: 170
+Relaciones clasificadas como ruido: 267
+Porcentaje de ruido: 8.73%
+Relaciones finales KG: 437
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 121
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 297
+Procesando id=569, anyo=1677
+Relaciones acumuladas: 3068
+Clusters detectados: 170
+Relaciones clasificadas como ruido: 267
+Porcentaje de ruido: 8.7%
+Relaciones finales KG: 437
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 120
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 298
+Procesando id=569, anyo=1678
+Relaciones acumuladas: 3071
+Clusters detectados: 171
+Relaciones clasificadas como ruido: 263
+Porcentaje de ruido: 8.56%
+Relaciones finales KG: 434
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 118
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 299
+Procesando id=569, anyo=1679
+Relaciones acumuladas: 3077
+Clusters detectados: 172
+Relaciones clasificadas como ruido: 260
+Porcentaje de ruido: 8.45%
+Relaciones finales KG: 432
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 121
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 300
+Procesando id=569, anyo=1682
+Relaciones acumuladas: 3080
+Clusters detectados: 172
+Relaciones clasificadas como ruido: 260
+Porcentaje de ruido: 8.44%
+Relaciones finales KG: 432
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 121
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 301
+Procesando id=569, anyo=1689
+Relaciones acumuladas: 3083
+Clusters detectados: 172
+Relaciones clasificadas como ruido: 261
+Porcentaje de ruido: 8.47%
+Relaciones finales KG: 433
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 121
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 302
+Procesando id=569, anyo=1699
+Relaciones acumuladas: 3086
+Clusters detectados: 172
+Relaciones clasificadas como ruido: 261
+Porcentaje de ruido: 8.46%
+Relaciones finales KG: 433
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 121
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 303
+Procesando id=569, anyo=1703
+Relaciones acumuladas: 3092
+Clusters detectados: 172
+Relaciones clasificadas como ruido: 261
+Porcentaje de ruido: 8.44%
+Relaciones finales KG: 433
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 118
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 304
+Procesando id=569, anyo=Introducción
+Relaciones acumuladas: 3106
+Clusters detectados: 172
+Relaciones clasificadas como ruido: 262
+Porcentaje de ruido: 8.44%
+Relaciones finales KG: 434
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 129
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 305
+Procesando id=584, anyo=1668
+Relaciones acumuladas: 3109
+Clusters detectados: 172
+Relaciones clasificadas como ruido: 262
+Porcentaje de ruido: 8.43%
+Relaciones finales KG: 434
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 128
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 306
+Procesando id=584, anyo=1669
+Relaciones acumuladas: 3112
+Clusters detectados: 173
+Relaciones clasificadas como ruido: 258
+Porcentaje de ruido: 8.29%
+Relaciones finales KG: 431
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 125
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 307
+Procesando id=584, anyo=1670
+Relaciones acumuladas: 3121
+Clusters detectados: 173
+Relaciones clasificadas como ruido: 260
+Porcentaje de ruido: 8.33%
+Relaciones finales KG: 433
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 131
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 308
+Procesando id=584, anyo=1671
+Relaciones acumuladas: 3124
+Clusters detectados: 174
+Relaciones clasificadas como ruido: 258
+Porcentaje de ruido: 8.26%
+Relaciones finales KG: 432
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 127
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 309
+Procesando id=584, anyo=1672
+Relaciones acumuladas: 3127
+Clusters detectados: 174
+Relaciones clasificadas como ruido: 258
+Porcentaje de ruido: 8.25%
+Relaciones finales KG: 432
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 127
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 310
+Procesando id=584, anyo=1677
+Relaciones acumuladas: 3137
+Clusters detectados: 174
+Relaciones clasificadas como ruido: 258
+Porcentaje de ruido: 8.22%
+Relaciones finales KG: 432
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 134
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 311
+Procesando id=584, anyo=1678
+Relaciones acumuladas: 3148
+Clusters detectados: 174
+Relaciones clasificadas como ruido: 259
+Porcentaje de ruido: 8.23%
+Relaciones finales KG: 433
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 129
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 312
+Procesando id=584, anyo=1679
+Relaciones acumuladas: 3167
+Clusters detectados: 174
+Relaciones clasificadas como ruido: 262
+Porcentaje de ruido: 8.27%
+Relaciones finales KG: 436
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 145
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 313
+Procesando id=584, anyo=1680
+Relaciones acumuladas: 3183
+Clusters detectados: 175
+Relaciones clasificadas como ruido: 260
+Porcentaje de ruido: 8.17%
+Relaciones finales KG: 435
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 137
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 314
+Procesando id=584, anyo=1681
+Relaciones acumuladas: 3189
+Clusters detectados: 176
+Relaciones clasificadas como ruido: 262
+Porcentaje de ruido: 8.22%
+Relaciones finales KG: 438
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 140
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 315
+Procesando id=584, anyo=1682
+Relaciones acumuladas: 3192
+Clusters detectados: 176
+Relaciones clasificadas como ruido: 261
+Porcentaje de ruido: 8.18%
+Relaciones finales KG: 437
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 134
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 316
+Procesando id=584, anyo=1683
+Relaciones acumuladas: 3195
+Clusters detectados: 177
+Relaciones clasificadas como ruido: 260
+Porcentaje de ruido: 8.14%
+Relaciones finales KG: 437
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 135
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 317
+Procesando id=584, anyo=1684
+Relaciones acumuladas: 3198
+Clusters detectados: 177
+Relaciones clasificadas como ruido: 261
+Porcentaje de ruido: 8.16%
+Relaciones finales KG: 438
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 130
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 318
+Procesando id=584, anyo=1685
+Relaciones acumuladas: 3217
+Clusters detectados: 178
+Relaciones clasificadas como ruido: 257
+Porcentaje de ruido: 7.99%
+Relaciones finales KG: 435
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 146
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 319
+Procesando id=584, anyo=1686
+Relaciones acumuladas: 3220
+Clusters detectados: 178
+Relaciones clasificadas como ruido: 257
+Porcentaje de ruido: 7.98%
+Relaciones finales KG: 435
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 143
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 320
+Procesando id=584, anyo=1687
+Relaciones acumuladas: 3224
+Clusters detectados: 178
+Relaciones clasificadas como ruido: 258
+Porcentaje de ruido: 8.0%
+Relaciones finales KG: 436
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 144
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 321
+Procesando id=584, anyo=1688
+Relaciones acumuladas: 3227
+Clusters detectados: 178
+Relaciones clasificadas como ruido: 258
+Porcentaje de ruido: 8.0%
+Relaciones finales KG: 436
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 144
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 322
+Procesando id=584, anyo=1693
+Relaciones acumuladas: 3233
+Clusters detectados: 178
+Relaciones clasificadas como ruido: 259
+Porcentaje de ruido: 8.01%
+Relaciones finales KG: 437
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 147
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 323
+Procesando id=584, anyo=1695
+Relaciones acumuladas: 3236
+Clusters detectados: 178
+Relaciones clasificadas como ruido: 258
+Porcentaje de ruido: 7.97%
+Relaciones finales KG: 436
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 144
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 324
+Procesando id=584, anyo=1696
+Relaciones acumuladas: 3239
+Clusters detectados: 178
+Relaciones clasificadas como ruido: 258
+Porcentaje de ruido: 7.97%
+Relaciones finales KG: 436
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 133
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 325
+Procesando id=584, anyo=1717
+Relaciones acumuladas: 3242
+Clusters detectados: 178
+Relaciones clasificadas como ruido: 258
+Porcentaje de ruido: 7.96%
+Relaciones finales KG: 436
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 133
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 326
+Procesando id=584, anyo=1720
+Relaciones acumuladas: 3245
+Clusters detectados: 178
+Relaciones clasificadas como ruido: 258
+Porcentaje de ruido: 7.95%
+Relaciones finales KG: 436
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 133
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 327
+Procesando id=584, anyo=Introducción
+Relaciones acumuladas: 3327
+Clusters detectados: 178
+Relaciones clasificadas como ruido: 269
+Porcentaje de ruido: 8.09%
+Relaciones finales KG: 447
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 206
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 328
+Procesando id=585, anyo=1619
+Relaciones acumuladas: 3335
+Clusters detectados: 178
+Relaciones clasificadas como ruido: 270
+Porcentaje de ruido: 8.1%
+Relaciones finales KG: 448
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 211
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 329
+Procesando id=585, anyo=Introducción
+Relaciones acumuladas: 3381
+Clusters detectados: 182
+Relaciones clasificadas como ruido: 268
+Porcentaje de ruido: 7.93%
+Relaciones finales KG: 450
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 254
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 330
+Procesando id=591, anyo=1631
+Relaciones acumuladas: 3399
+Clusters detectados: 181
+Relaciones clasificadas como ruido: 275
+Porcentaje de ruido: 8.09%
+Relaciones finales KG: 456
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 262
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 331
+Procesando id=591, anyo=1638
+Relaciones acumuladas: 3403
+Clusters detectados: 182
+Relaciones clasificadas como ruido: 271
+Porcentaje de ruido: 7.96%
+Relaciones finales KG: 453
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 255
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 332
+Procesando id=591, anyo=1639
+Relaciones acumuladas: 3494
+Clusters detectados: 186
+Relaciones clasificadas como ruido: 271
+Porcentaje de ruido: 7.76%
+Relaciones finales KG: 457
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 327
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 333
+Procesando id=591, anyo=1640
+Relaciones acumuladas: 3503
+Clusters detectados: 186
+Relaciones clasificadas como ruido: 271
+Porcentaje de ruido: 7.74%
+Relaciones finales KG: 457
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 320
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 334
+Procesando id=591, anyo=1641
+Relaciones acumuladas: 3508
+Clusters detectados: 186
+Relaciones clasificadas como ruido: 272
+Porcentaje de ruido: 7.75%
+Relaciones finales KG: 458
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 319
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 335
+Procesando id=591, anyo=1642
+Relaciones acumuladas: 3514
+Clusters detectados: 186
+Relaciones clasificadas como ruido: 273
+Porcentaje de ruido: 7.77%
+Relaciones finales KG: 459
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 322
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 336
+Procesando id=591, anyo=Introducción
+Relaciones acumuladas: 3529
+Clusters detectados: 186
+Relaciones clasificadas como ruido: 275
+Porcentaje de ruido: 7.79%
+Relaciones finales KG: 461
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 334
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 337
+Procesando id=597, anyo=Apostilla
+Relaciones acumuladas: 3532
+Clusters detectados: 186
+Relaciones clasificadas como ruido: 272
+Porcentaje de ruido: 7.7%
+Relaciones finales KG: 458
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 334
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 338
+Procesando id=597, anyo=Introducción
+Relaciones acumuladas: 3535
+Clusters detectados: 186
+Relaciones clasificadas como ruido: 275
+Porcentaje de ruido: 7.78%
+Relaciones finales KG: 461
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 318
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 339
+Procesando id=601, anyo=1673
+Relaciones acumuladas: 3547
+Clusters detectados: 186
+Relaciones clasificadas como ruido: 275
+Porcentaje de ruido: 7.75%
+Relaciones finales KG: 461
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 327
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 340
+Procesando id=601, anyo=1674
+Relaciones acumuladas: 3550
+Clusters detectados: 186
+Relaciones clasificadas como ruido: 274
+Porcentaje de ruido: 7.72%
+Relaciones finales KG: 460
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 326
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 341
+Procesando id=601, anyo=1685
+Relaciones acumuladas: 3553
+Clusters detectados: 186
+Relaciones clasificadas como ruido: 275
+Porcentaje de ruido: 7.74%
+Relaciones finales KG: 461
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 326
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 342
+Procesando id=605, anyo=1605
+Relaciones acumuladas: 3556
+Clusters detectados: 186
+Relaciones clasificadas como ruido: 276
+Porcentaje de ruido: 7.76%
+Relaciones finales KG: 462
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 323
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 343
+Procesando id=605, anyo=1606
+Relaciones acumuladas: 3559
+Clusters detectados: 186
+Relaciones clasificadas como ruido: 276
+Porcentaje de ruido: 7.75%
+Relaciones finales KG: 462
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 323
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 344
+Procesando id=605, anyo=1607
+Relaciones acumuladas: 3568
+Clusters detectados: 186
+Relaciones clasificadas como ruido: 275
+Porcentaje de ruido: 7.71%
+Relaciones finales KG: 461
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 329
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 345
+Procesando id=605, anyo=1614
+Relaciones acumuladas: 3584
+Clusters detectados: 186
+Relaciones clasificadas como ruido: 281
+Porcentaje de ruido: 7.84%
+Relaciones finales KG: 467
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 342
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 346
+Procesando id=605, anyo=1615
+Relaciones acumuladas: 3592
+Clusters detectados: 186
+Relaciones clasificadas como ruido: 281
+Porcentaje de ruido: 7.82%
+Relaciones finales KG: 467
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 347
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 347
+Procesando id=605, anyo=1620
+Relaciones acumuladas: 3602
+Clusters detectados: 187
+Relaciones clasificadas como ruido: 284
+Porcentaje de ruido: 7.88%
+Relaciones finales KG: 471
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 275
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 348
+Procesando id=605, anyo=Introducción
+Relaciones acumuladas: 3688
+Clusters detectados: 195
+Relaciones clasificadas como ruido: 287
+Porcentaje de ruido: 7.78%
+Relaciones finales KG: 482
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 353
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 349
+Procesando id=634, anyo=Introducción
+Relaciones acumuladas: 3711
+Clusters detectados: 195
+Relaciones clasificadas como ruido: 289
+Porcentaje de ruido: 7.79%
+Relaciones finales KG: 484
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 330
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 350
+Procesando id=642, anyo=1658
+Relaciones acumuladas: 3719
+Clusters detectados: 195
+Relaciones clasificadas como ruido: 289
+Porcentaje de ruido: 7.77%
+Relaciones finales KG: 484
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 320
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 351
+Procesando id=642, anyo=1660
+Relaciones acumuladas: 3728
+Clusters detectados: 195
+Relaciones clasificadas como ruido: 292
+Porcentaje de ruido: 7.83%
+Relaciones finales KG: 487
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 325
+Nuevos máximos KG ventana: 10
+--------------------------------------------------
+Iteración: 352
+Procesando id=642, anyo=1662
+Relaciones acumuladas: 3751
+Clusters detectados: 195
+Relaciones clasificadas como ruido: 290
+Porcentaje de ruido: 7.73%
+Relaciones finales KG: 485
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 257
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 353
+Procesando id=642, anyo=1663
+Relaciones acumuladas: 3756
+Clusters detectados: 195
+Relaciones clasificadas como ruido: 288
+Porcentaje de ruido: 7.67%
+Relaciones finales KG: 483
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 253
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 354
+Procesando id=642, anyo=1667
+Relaciones acumuladas: 3760
+Clusters detectados: 196
+Relaciones clasificadas como ruido: 288
+Porcentaje de ruido: 7.66%
+Relaciones finales KG: 484
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 252
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 355
+Procesando id=642, anyo=1668
+Relaciones acumuladas: 3763
+Clusters detectados: 196
+Relaciones clasificadas como ruido: 290
+Porcentaje de ruido: 7.71%
+Relaciones finales KG: 486
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 249
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 356
+Procesando id=642, anyo=1678
+Relaciones acumuladas: 3768
+Clusters detectados: 196
+Relaciones clasificadas como ruido: 287
+Porcentaje de ruido: 7.62%
+Relaciones finales KG: 483
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 239
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 357
+Procesando id=642, anyo=Introducción
+Relaciones acumuladas: 3786
+Clusters detectados: 197
+Relaciones clasificadas como ruido: 291
+Porcentaje de ruido: 7.69%
+Relaciones finales KG: 488
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 254
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 358
+Procesando id=650, anyo=1673
+Relaciones acumuladas: 3789
+Clusters detectados: 197
+Relaciones clasificadas como ruido: 290
+Porcentaje de ruido: 7.65%
+Relaciones finales KG: 487
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 254
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 359
+Procesando id=650, anyo=Introducción
+Relaciones acumuladas: 3792
+Clusters detectados: 198
+Relaciones clasificadas como ruido: 290
+Porcentaje de ruido: 7.65%
+Relaciones finales KG: 488
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 245
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 360
+Procesando id=659, anyo=1671
+Relaciones acumuladas: 3795
+Clusters detectados: 198
+Relaciones clasificadas como ruido: 287
+Porcentaje de ruido: 7.56%
+Relaciones finales KG: 485
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 245
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 361
+Procesando id=659, anyo=1672
+Relaciones acumuladas: 3798
+Clusters detectados: 198
+Relaciones clasificadas como ruido: 290
+Porcentaje de ruido: 7.64%
+Relaciones finales KG: 488
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 245
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 362
+Procesando id=659, anyo=Introducción
+Relaciones acumuladas: 3808
+Clusters detectados: 198
+Relaciones clasificadas como ruido: 290
+Porcentaje de ruido: 7.62%
+Relaciones finales KG: 488
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 252
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 363
+Procesando id=661, anyo=1635
+Relaciones acumuladas: 3814
+Clusters detectados: 198
+Relaciones clasificadas como ruido: 292
+Porcentaje de ruido: 7.66%
+Relaciones finales KG: 490
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 255
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 364
+Procesando id=661, anyo=1642
+Relaciones acumuladas: 3817
+Clusters detectados: 199
+Relaciones clasificadas como ruido: 288
+Porcentaje de ruido: 7.55%
+Relaciones finales KG: 487
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 249
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 365
+Procesando id=661, anyo=Introducción
+Relaciones acumuladas: 3822
+Clusters detectados: 198
+Relaciones clasificadas como ruido: 290
+Porcentaje de ruido: 7.59%
+Relaciones finales KG: 488
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 238
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 366
+Procesando id=667, anyo=1607
+Relaciones acumuladas: 3825
+Clusters detectados: 198
+Relaciones clasificadas como ruido: 293
+Porcentaje de ruido: 7.66%
+Relaciones finales KG: 491
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 233
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 367
+Procesando id=667, anyo=1614
+Relaciones acumuladas: 3845
+Clusters detectados: 199
+Relaciones clasificadas como ruido: 287
+Porcentaje de ruido: 7.46%
+Relaciones finales KG: 486
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 243
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 368
+Procesando id=667, anyo=Introducción
+Relaciones acumuladas: 3848
+Clusters detectados: 198
+Relaciones clasificadas como ruido: 293
+Porcentaje de ruido: 7.61%
+Relaciones finales KG: 491
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 160
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 369
+Procesando id=683, anyo=1639
+Relaciones acumuladas: 3857
+Clusters detectados: 198
+Relaciones clasificadas como ruido: 294
+Porcentaje de ruido: 7.62%
+Relaciones finales KG: 492
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 146
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 370
+Procesando id=691, anyo=1630
+Relaciones acumuladas: 3873
+Clusters detectados: 199
+Relaciones clasificadas como ruido: 289
+Porcentaje de ruido: 7.46%
+Relaciones finales KG: 488
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 154
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 371
+Procesando id=691, anyo=1631
+Relaciones acumuladas: 3876
+Clusters detectados: 199
+Relaciones clasificadas como ruido: 290
+Porcentaje de ruido: 7.48%
+Relaciones finales KG: 489
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 148
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 372
+Procesando id=691, anyo=1635
+Relaciones acumuladas: 3892
+Clusters detectados: 199
+Relaciones clasificadas como ruido: 291
+Porcentaje de ruido: 7.48%
+Relaciones finales KG: 490
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 141
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 373
+Procesando id=691, anyo=1636
+Relaciones acumuladas: 3910
+Clusters detectados: 199
+Relaciones clasificadas como ruido: 291
+Porcentaje de ruido: 7.44%
+Relaciones finales KG: 490
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 154
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 374
+Procesando id=691, anyo=1638
+Relaciones acumuladas: 3919
+Clusters detectados: 199
+Relaciones clasificadas como ruido: 293
+Porcentaje de ruido: 7.48%
+Relaciones finales KG: 492
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 159
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 375
+Procesando id=691, anyo=1640
+Relaciones acumuladas: 3931
+Clusters detectados: 200
+Relaciones clasificadas como ruido: 293
+Porcentaje de ruido: 7.45%
+Relaciones finales KG: 493
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 168
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 376
+Procesando id=691, anyo=1641
+Relaciones acumuladas: 3955
+Clusters detectados: 201
+Relaciones clasificadas como ruido: 295
+Porcentaje de ruido: 7.46%
+Relaciones finales KG: 496
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 187
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 377
+Procesando id=691, anyo=1642
+Relaciones acumuladas: 3964
+Clusters detectados: 201
+Relaciones clasificadas como ruido: 294
+Porcentaje de ruido: 7.42%
+Relaciones finales KG: 495
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 178
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 378
+Procesando id=691, anyo=1644
+Relaciones acumuladas: 3974
+Clusters detectados: 201
+Relaciones clasificadas como ruido: 295
+Porcentaje de ruido: 7.42%
+Relaciones finales KG: 496
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 185
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 379
+Procesando id=691, anyo=1645
+Relaciones acumuladas: 3986
+Clusters detectados: 202
+Relaciones clasificadas como ruido: 295
+Porcentaje de ruido: 7.4%
+Relaciones finales KG: 497
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 194
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 380
+Procesando id=691, anyo=1647
+Relaciones acumuladas: 3998
+Clusters detectados: 201
+Relaciones clasificadas como ruido: 301
+Porcentaje de ruido: 7.53%
+Relaciones finales KG: 502
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 203
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 381
+Procesando id=691, anyo=1648
+Relaciones acumuladas: 4009
+Clusters detectados: 201
+Relaciones clasificadas como ruido: 301
+Porcentaje de ruido: 7.51%
+Relaciones finales KG: 502
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 211
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 382
+Procesando id=691, anyo=1651
+Relaciones acumuladas: 4024
+Clusters detectados: 203
+Relaciones clasificadas como ruido: 304
+Porcentaje de ruido: 7.55%
+Relaciones finales KG: 507
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 216
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 383
+Procesando id=691, anyo=1653
+Relaciones acumuladas: 4069
+Clusters detectados: 206
+Relaciones clasificadas como ruido: 299
+Porcentaje de ruido: 7.35%
+Relaciones finales KG: 505
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 255
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 384
+Procesando id=691, anyo=1654
+Relaciones acumuladas: 4127
+Clusters detectados: 206
+Relaciones clasificadas como ruido: 304
+Porcentaje de ruido: 7.37%
+Relaciones finales KG: 510
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 310
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 385
+Procesando id=691, anyo=1655
+Relaciones acumuladas: 4168
+Clusters detectados: 207
+Relaciones clasificadas como ruido: 300
+Porcentaje de ruido: 7.2%
+Relaciones finales KG: 507
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 346
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 386
+Procesando id=691, anyo=Introducción
+Relaciones acumuladas: 4182
+Clusters detectados: 206
+Relaciones clasificadas como ruido: 308
+Porcentaje de ruido: 7.36%
+Relaciones finales KG: 514
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 357
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 387
+Procesando id=693, anyo=1608
+Relaciones acumuladas: 4188
+Clusters detectados: 207
+Relaciones clasificadas como ruido: 303
+Porcentaje de ruido: 7.23%
+Relaciones finales KG: 510
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 343
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 388
+Procesando id=693, anyo=1614
+Relaciones acumuladas: 4212
+Clusters detectados: 207
+Relaciones clasificadas como ruido: 308
+Porcentaje de ruido: 7.31%
+Relaciones finales KG: 515
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 364
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 389
+Procesando id=693, anyo=1631
+Relaciones acumuladas: 4215
+Clusters detectados: 207
+Relaciones clasificadas como ruido: 308
+Porcentaje de ruido: 7.31%
+Relaciones finales KG: 515
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 358
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 390
+Procesando id=693, anyo=1639
+Relaciones acumuladas: 4221
+Clusters detectados: 207
+Relaciones clasificadas como ruido: 307
+Porcentaje de ruido: 7.27%
+Relaciones finales KG: 514
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 348
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 391
+Procesando id=693, anyo=1640
+Relaciones acumuladas: 4224
+Clusters detectados: 207
+Relaciones clasificadas como ruido: 308
+Porcentaje de ruido: 7.29%
+Relaciones finales KG: 515
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 348
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 392
+Procesando id=693, anyo=1642
+Relaciones acumuladas: 4227
+Clusters detectados: 207
+Relaciones clasificadas como ruido: 308
+Porcentaje de ruido: 7.29%
+Relaciones finales KG: 515
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 335
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 393
+Procesando id=693, anyo=1643
+Relaciones acumuladas: 4230
+Clusters detectados: 208
+Relaciones clasificadas como ruido: 305
+Porcentaje de ruido: 7.21%
+Relaciones finales KG: 513
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 320
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 394
+Procesando id=693, anyo=Apostilla
+Relaciones acumuladas: 4233
+Clusters detectados: 208
+Relaciones clasificadas como ruido: 305
+Porcentaje de ruido: 7.21%
+Relaciones finales KG: 513
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 314
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 395
+Procesando id=693, anyo=Introducción
+Relaciones acumuladas: 4239
+Clusters detectados: 208
+Relaciones clasificadas como ruido: 308
+Porcentaje de ruido: 7.27%
+Relaciones finales KG: 516
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 308
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 396
+Procesando id=696, anyo=1640
+Relaciones acumuladas: 4273
+Clusters detectados: 210
+Relaciones clasificadas como ruido: 303
+Porcentaje de ruido: 7.09%
+Relaciones finales KG: 513
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 318
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 397
+Procesando id=696, anyo=1641
+Relaciones acumuladas: 4293
+Clusters detectados: 209
+Relaciones clasificadas como ruido: 308
+Porcentaje de ruido: 7.17%
+Relaciones finales KG: 517
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 329
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 398
+Procesando id=696, anyo=1642
+Relaciones acumuladas: 4336
+Clusters detectados: 209
+Relaciones clasificadas como ruido: 316
+Porcentaje de ruido: 7.29%
+Relaciones finales KG: 525
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 362
+Nuevos máximos KG ventana: 9
+--------------------------------------------------
+Iteración: 399
+Procesando id=696, anyo=1643
+Relaciones acumuladas: 4352
+Clusters detectados: 210
+Relaciones clasificadas como ruido: 312
+Porcentaje de ruido: 7.17%
+Relaciones finales KG: 522
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 366
+Nuevos máximos KG ventana: 8
+--------------------------------------------------
+Iteración: 400
+Procesando id=696, anyo=1644
+Relaciones acumuladas: 4355
+Clusters detectados: 210
+Relaciones clasificadas como ruido: 312
+Porcentaje de ruido: 7.16%
+Relaciones finales KG: 522
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 357
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 401
+Procesando id=696, anyo=1645
+Relaciones acumuladas: 4358
+Clusters detectados: 211
+Relaciones clasificadas como ruido: 309
+Porcentaje de ruido: 7.09%
+Relaciones finales KG: 520
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 349
+Nuevos máximos KG ventana: 7
+--------------------------------------------------
+Iteración: 402
+Procesando id=696, anyo=Introducción
+Relaciones acumuladas: 4364
+Clusters detectados: 210
+Relaciones clasificadas como ruido: 314
+Porcentaje de ruido: 7.2%
+Relaciones finales KG: 524
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 340
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 403
+Procesando id=707, anyo=1678
+Relaciones acumuladas: 4367
+Clusters detectados: 211
+Relaciones clasificadas como ruido: 310
+Porcentaje de ruido: 7.1%
+Relaciones finales KG: 521
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 298
+Nuevos máximos KG ventana: 6
+--------------------------------------------------
+Iteración: 404
+Procesando id=707, anyo=1684
+Relaciones acumuladas: 4381
+Clusters detectados: 212
+Relaciones clasificadas como ruido: 306
+Porcentaje de ruido: 6.98%
+Relaciones finales KG: 518
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 254
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 405
+Procesando id=707, anyo=Introducción
+Relaciones acumuladas: 4386
+Clusters detectados: 212
+Relaciones clasificadas como ruido: 306
+Porcentaje de ruido: 6.98%
+Relaciones finales KG: 518
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 218
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 406
+Procesando id=733, anyo=1700
+Relaciones acumuladas: 4389
+Clusters detectados: 212
+Relaciones clasificadas como ruido: 306
+Porcentaje de ruido: 6.97%
+Relaciones finales KG: 518
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 207
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 407
+Procesando id=735, anyo=1679
+Relaciones acumuladas: 4395
+Clusters detectados: 212
+Relaciones clasificadas como ruido: 308
+Porcentaje de ruido: 7.01%
+Relaciones finales KG: 520
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 207
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 408
+Procesando id=735, anyo=1680
+Relaciones acumuladas: 4403
+Clusters detectados: 211
+Relaciones clasificadas como ruido: 313
+Porcentaje de ruido: 7.11%
+Relaciones finales KG: 524
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 191
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 409
+Procesando id=735, anyo=1682
+Relaciones acumuladas: 4412
+Clusters detectados: 212
+Relaciones clasificadas como ruido: 309
+Porcentaje de ruido: 7.0%
+Relaciones finales KG: 521
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 197
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 410
+Procesando id=735, anyo=1684
+Relaciones acumuladas: 4415
+Clusters detectados: 212
+Relaciones clasificadas como ruido: 310
+Porcentaje de ruido: 7.02%
+Relaciones finales KG: 522
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 194
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 411
+Procesando id=735, anyo=1686
+Relaciones acumuladas: 4418
+Clusters detectados: 213
+Relaciones clasificadas como ruido: 306
+Porcentaje de ruido: 6.93%
+Relaciones finales KG: 519
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 194
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 412
+Procesando id=735, anyo=1690
+Relaciones acumuladas: 4434
+Clusters detectados: 211
+Relaciones clasificadas como ruido: 313
+Porcentaje de ruido: 7.06%
+Relaciones finales KG: 524
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 207
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 413
+Procesando id=735, anyo=1699
+Relaciones acumuladas: 4437
+Clusters detectados: 213
+Relaciones clasificadas como ruido: 305
+Porcentaje de ruido: 6.87%
+Relaciones finales KG: 518
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 207
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 414
+Procesando id=735, anyo=1700
+Relaciones acumuladas: 4440
+Clusters detectados: 211
+Relaciones clasificadas como ruido: 313
+Porcentaje de ruido: 7.05%
+Relaciones finales KG: 524
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 207
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 415
+Procesando id=735, anyo=1703
+Relaciones acumuladas: 4451
+Clusters detectados: 213
+Relaciones clasificadas como ruido: 304
+Porcentaje de ruido: 6.83%
+Relaciones finales KG: 517
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 212
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 416
+Procesando id=735, anyo=1704
+Relaciones acumuladas: 4472
+Clusters detectados: 214
+Relaciones clasificadas como ruido: 301
+Porcentaje de ruido: 6.73%
+Relaciones finales KG: 515
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 199
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 417
+Procesando id=735, anyo=1707
+Relaciones acumuladas: 4505
+Clusters detectados: 214
+Relaciones clasificadas como ruido: 305
+Porcentaje de ruido: 6.77%
+Relaciones finales KG: 519
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 212
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 418
+Procesando id=735, anyo=1715
+Relaciones acumuladas: 4508
+Clusters detectados: 213
+Relaciones clasificadas como ruido: 314
+Porcentaje de ruido: 6.97%
+Relaciones finales KG: 527
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 172
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 419
+Procesando id=735, anyo=Introducción
+Relaciones acumuladas: 4528
+Clusters detectados: 214
+Relaciones clasificadas como ruido: 311
+Porcentaje de ruido: 6.87%
+Relaciones finales KG: 525
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 176
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 420
+Procesando id=752, anyo=1693
+Relaciones acumuladas: 4536
+Clusters detectados: 214
+Relaciones clasificadas como ruido: 311
+Porcentaje de ruido: 6.86%
+Relaciones finales KG: 525
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 181
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 421
+Procesando id=752, anyo=1694
+Relaciones acumuladas: 4542
+Clusters detectados: 215
+Relaciones clasificadas como ruido: 308
+Porcentaje de ruido: 6.78%
+Relaciones finales KG: 523
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 184
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 422
+Procesando id=752, anyo=1702
+Relaciones acumuladas: 4545
+Clusters detectados: 216
+Relaciones clasificadas como ruido: 304
+Porcentaje de ruido: 6.69%
+Relaciones finales KG: 520
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 181
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 423
+Procesando id=752, anyo=1703
+Relaciones acumuladas: 4548
+Clusters detectados: 214
+Relaciones clasificadas como ruido: 314
+Porcentaje de ruido: 6.9%
+Relaciones finales KG: 528
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 181
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 424
+Procesando id=752, anyo=Introducción
+Relaciones acumuladas: 4557
+Clusters detectados: 217
+Relaciones clasificadas como ruido: 303
+Porcentaje de ruido: 6.65%
+Relaciones finales KG: 520
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 176
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 425
+Procesando id=766, anyo=1647
+Relaciones acumuladas: 4570
+Clusters detectados: 215
+Relaciones clasificadas como ruido: 312
+Porcentaje de ruido: 6.83%
+Relaciones finales KG: 527
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 184
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 426
+Procesando id=766, anyo=1649
+Relaciones acumuladas: 4573
+Clusters detectados: 217
+Relaciones clasificadas como ruido: 303
+Porcentaje de ruido: 6.63%
+Relaciones finales KG: 520
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 184
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 427
+Procesando id=766, anyo=1652
+Relaciones acumuladas: 4600
+Clusters detectados: 216
+Relaciones clasificadas como ruido: 307
+Porcentaje de ruido: 6.67%
+Relaciones finales KG: 523
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 205
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 428
+Procesando id=766, anyo=1654
+Relaciones acumuladas: 4606
+Clusters detectados: 217
+Relaciones clasificadas como ruido: 309
+Porcentaje de ruido: 6.71%
+Relaciones finales KG: 526
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 203
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 429
+Procesando id=766, anyo=1655
+Relaciones acumuladas: 4614
+Clusters detectados: 216
+Relaciones clasificadas como ruido: 317
+Porcentaje de ruido: 6.87%
+Relaciones finales KG: 533
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 202
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 430
+Procesando id=766, anyo=1656
+Relaciones acumuladas: 4623
+Clusters detectados: 215
+Relaciones clasificadas como ruido: 321
+Porcentaje de ruido: 6.94%
+Relaciones finales KG: 536
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 208
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 431
+Procesando id=766, anyo=1657
+Relaciones acumuladas: 4637
+Clusters detectados: 218
+Relaciones clasificadas como ruido: 313
+Porcentaje de ruido: 6.75%
+Relaciones finales KG: 531
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 219
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 432
+Procesando id=766, anyo=1658
+Relaciones acumuladas: 4643
+Clusters detectados: 218
+Relaciones clasificadas como ruido: 314
+Porcentaje de ruido: 6.76%
+Relaciones finales KG: 532
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 209
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 433
+Procesando id=766, anyo=1660
+Relaciones acumuladas: 4654
+Clusters detectados: 217
+Relaciones clasificadas como ruido: 318
+Porcentaje de ruido: 6.83%
+Relaciones finales KG: 535
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 217
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 434
+Procesando id=766, anyo=Introducción
+Relaciones acumuladas: 4666
+Clusters detectados: 218
+Relaciones clasificadas como ruido: 316
+Porcentaje de ruido: 6.77%
+Relaciones finales KG: 534
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 226
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 435
+Procesando id=769, anyo=1606
+Relaciones acumuladas: 4675
+Clusters detectados: 218
+Relaciones clasificadas como ruido: 316
+Porcentaje de ruido: 6.76%
+Relaciones finales KG: 534
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 224
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 436
+Procesando id=769, anyo=1607
+Relaciones acumuladas: 4681
+Clusters detectados: 217
+Relaciones clasificadas como ruido: 320
+Porcentaje de ruido: 6.84%
+Relaciones finales KG: 537
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 209
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 437
+Procesando id=769, anyo=1608
+Relaciones acumuladas: 4687
+Clusters detectados: 219
+Relaciones clasificadas como ruido: 313
+Porcentaje de ruido: 6.68%
+Relaciones finales KG: 532
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 182
+Nuevos máximos KG ventana: 5
+--------------------------------------------------
+Iteración: 438
+Procesando id=769, anyo=Introducción
+Relaciones acumuladas: 4711
+Clusters detectados: 220
+Relaciones clasificadas como ruido: 313
+Porcentaje de ruido: 6.64%
+Relaciones finales KG: 533
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 203
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 439
+Procesando id=785, anyo=Apostilla
+Relaciones acumuladas: 4714
+Clusters detectados: 220
+Relaciones clasificadas como ruido: 313
+Porcentaje de ruido: 6.64%
+Relaciones finales KG: 533
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 186
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 440
+Procesando id=785, anyo=Introducción
+Relaciones acumuladas: 4720
+Clusters detectados: 221
+Relaciones clasificadas como ruido: 311
+Porcentaje de ruido: 6.59%
+Relaciones finales KG: 532
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 184
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 441
+Procesando id=797, anyo=1603
+Relaciones acumuladas: 4723
+Clusters detectados: 224
+Relaciones clasificadas como ruido: 303
+Porcentaje de ruido: 6.42%
+Relaciones finales KG: 527
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 181
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 442
+Procesando id=797, anyo=1604
+Relaciones acumuladas: 4729
+Clusters detectados: 222
+Relaciones clasificadas como ruido: 311
+Porcentaje de ruido: 6.58%
+Relaciones finales KG: 533
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 184
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 443
+Procesando id=797, anyo=Introducción
+Relaciones acumuladas: 4738
+Clusters detectados: 224
+Relaciones clasificadas como ruido: 307
+Porcentaje de ruido: 6.48%
+Relaciones finales KG: 531
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 190
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 444
+Procesando id=799, anyo=1664
+Relaciones acumuladas: 4741
+Clusters detectados: 223
+Relaciones clasificadas como ruido: 311
+Porcentaje de ruido: 6.56%
+Relaciones finales KG: 534
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 184
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 445
+Procesando id=799, anyo=1669
+Relaciones acumuladas: 4744
+Clusters detectados: 224
+Relaciones clasificadas como ruido: 307
+Porcentaje de ruido: 6.47%
+Relaciones finales KG: 531
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 174
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 446
+Procesando id=799, anyo=1670
+Relaciones acumuladas: 4746
+Clusters detectados: 222
+Relaciones clasificadas como ruido: 315
+Porcentaje de ruido: 6.64%
+Relaciones finales KG: 537
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 173
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 447
+Procesando id=799, anyo=1671
+Relaciones acumuladas: 4749
+Clusters detectados: 224
+Relaciones clasificadas como ruido: 307
+Porcentaje de ruido: 6.46%
+Relaciones finales KG: 531
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 149
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 448
+Procesando id=799, anyo=1672
+Relaciones acumuladas: 4800
+Clusters detectados: 225
+Relaciones clasificadas como ruido: 312
+Porcentaje de ruido: 6.5%
+Relaciones finales KG: 537
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 194
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 449
+Procesando id=799, anyo=1673
+Relaciones acumuladas: 4806
+Clusters detectados: 223
+Relaciones clasificadas como ruido: 320
+Porcentaje de ruido: 6.66%
+Relaciones finales KG: 543
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 192
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 450
+Procesando id=799, anyo=1675
+Relaciones acumuladas: 4829
+Clusters detectados: 224
+Relaciones clasificadas como ruido: 318
+Porcentaje de ruido: 6.59%
+Relaciones finales KG: 542
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 206
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 451
+Procesando id=799, anyo=1676
+Relaciones acumuladas: 4832
+Clusters detectados: 225
+Relaciones clasificadas como ruido: 315
+Porcentaje de ruido: 6.52%
+Relaciones finales KG: 540
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 195
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 452
+Procesando id=799, anyo=1677
+Relaciones acumuladas: 4840
+Clusters detectados: 228
+Relaciones clasificadas como ruido: 318
+Porcentaje de ruido: 6.57%
+Relaciones finales KG: 546
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 197
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 453
+Procesando id=799, anyo=1679
+Relaciones acumuladas: 4855
+Clusters detectados: 227
+Relaciones clasificadas como ruido: 323
+Porcentaje de ruido: 6.65%
+Relaciones finales KG: 550
+Nuevo Máximo: True
+--------------------
+Embeddings ventana: 201
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 454
+Procesando id=799, anyo=1680
+Relaciones acumuladas: 4858
+Clusters detectados: 227
+Relaciones clasificadas como ruido: 323
+Porcentaje de ruido: 6.65%
+Relaciones finales KG: 550
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 192
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 455
+Procesando id=799, anyo=1682
+Relaciones acumuladas: 4861
+Clusters detectados: 227
+Relaciones clasificadas como ruido: 323
+Porcentaje de ruido: 6.64%
+Relaciones finales KG: 550
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 186
+Nuevos máximos KG ventana: 4
+--------------------------------------------------
+Iteración: 456
+Procesando id=799, anyo=1700
+Relaciones acumuladas: 4863
+Clusters detectados: 228
+Relaciones clasificadas como ruido: 319
+Porcentaje de ruido: 6.56%
+Relaciones finales KG: 547
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 182
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 457
+Procesando id=799, anyo=1702
+Relaciones acumuladas: 4866
+Clusters detectados: 228
+Relaciones clasificadas como ruido: 319
+Porcentaje de ruido: 6.56%
+Relaciones finales KG: 547
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 179
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 458
+Procesando id=799, anyo=Introducción
+Relaciones acumuladas: 4889
+Clusters detectados: 232
+Relaciones clasificadas como ruido: 312
+Porcentaje de ruido: 6.38%
+Relaciones finales KG: 544
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 178
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 459
+Procesando id=807, anyo=1642
+Relaciones acumuladas: 4893
+Clusters detectados: 231
+Relaciones clasificadas como ruido: 317
+Porcentaje de ruido: 6.48%
+Relaciones finales KG: 548
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 179
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 460
+Procesando id=807, anyo=1649
+Relaciones acumuladas: 4896
+Clusters detectados: 231
+Relaciones clasificadas como ruido: 317
+Porcentaje de ruido: 6.47%
+Relaciones finales KG: 548
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 176
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 461
+Procesando id=807, anyo=Introducción
+Relaciones acumuladas: 4903
+Clusters detectados: 231
+Relaciones clasificadas como ruido: 318
+Porcentaje de ruido: 6.49%
+Relaciones finales KG: 549
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 180
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 462
+Procesando id=823, anyo=1665
+Relaciones acumuladas: 4906
+Clusters detectados: 231
+Relaciones clasificadas como ruido: 318
+Porcentaje de ruido: 6.48%
+Relaciones finales KG: 549
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 177
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 463
+Procesando id=823, anyo=Introducción
+Relaciones acumuladas: 4917
+Clusters detectados: 232
+Relaciones clasificadas como ruido: 314
+Porcentaje de ruido: 6.39%
+Relaciones finales KG: 546
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 179
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 464
+Procesando id=840, anyo=1684
+Relaciones acumuladas: 4926
+Clusters detectados: 232
+Relaciones clasificadas como ruido: 314
+Porcentaje de ruido: 6.37%
+Relaciones finales KG: 546
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 185
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 465
+Procesando id=840, anyo=Introducción
+Relaciones acumuladas: 4929
+Clusters detectados: 231
+Relaciones clasificadas como ruido: 318
+Porcentaje de ruido: 6.45%
+Relaciones finales KG: 549
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 185
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 466
+Procesando id=854, anyo=1644
+Relaciones acumuladas: 4932
+Clusters detectados: 232
+Relaciones clasificadas como ruido: 314
+Porcentaje de ruido: 6.37%
+Relaciones finales KG: 546
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 186
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 467
+Procesando id=868, anyo=1669
+Relaciones acumuladas: 4935
+Clusters detectados: 232
+Relaciones clasificadas como ruido: 314
+Porcentaje de ruido: 6.36%
+Relaciones finales KG: 546
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 186
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 468
+Procesando id=868, anyo=1672
+Relaciones acumuladas: 4938
+Clusters detectados: 232
+Relaciones clasificadas como ruido: 314
+Porcentaje de ruido: 6.36%
+Relaciones finales KG: 546
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 138
+Nuevos máximos KG ventana: 3
+--------------------------------------------------
+Iteración: 469
+Procesando id=868, anyo=1673
+Relaciones acumuladas: 4941
+Clusters detectados: 231
+Relaciones clasificadas como ruido: 318
+Porcentaje de ruido: 6.44%
+Relaciones finales KG: 549
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 135
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 470
+Procesando id=868, anyo=1674
+Relaciones acumuladas: 4947
+Clusters detectados: 232
+Relaciones clasificadas como ruido: 316
+Porcentaje de ruido: 6.39%
+Relaciones finales KG: 548
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 118
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 471
+Procesando id=868, anyo=1676
+Relaciones acumuladas: 4950
+Clusters detectados: 233
+Relaciones clasificadas como ruido: 312
+Porcentaje de ruido: 6.3%
+Relaciones finales KG: 545
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 118
+Nuevos máximos KG ventana: 2
+--------------------------------------------------
+Iteración: 472
+Procesando id=868, anyo=1677
+Relaciones acumuladas: 4953
+Clusters detectados: 232
+Relaciones clasificadas como ruido: 316
+Porcentaje de ruido: 6.38%
+Relaciones finales KG: 548
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 113
+Nuevos máximos KG ventana: 1
+--------------------------------------------------
+Iteración: 473
+Procesando id=868, anyo=1678
+Relaciones acumuladas: 4956
+Clusters detectados: 233
+Relaciones clasificadas como ruido: 312
+Porcentaje de ruido: 6.3%
+Relaciones finales KG: 545
+Nuevo Máximo: False
+--------------------
+Embeddings ventana: 101
+Nuevos máximos KG ventana: 0
+--------------------------------------------------
+Criterio de parada alcanzado.
+Proceso finalizado.
+Log guardado en: ../Output/experiments/log_mrebel_exp08_max_historico20260622_013816.txt
+Iteraciones ejecutadas: 473
+Relaciones finales acumuladas: 4956
+Clusters detectados: 233
+Relaciones clasificadas como ruido: 312
+Porcentaje de ruido: 6.3%
+Relaciones finales KG: 545

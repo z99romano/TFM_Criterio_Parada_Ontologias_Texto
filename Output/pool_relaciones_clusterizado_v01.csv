@@ -1,0 +1,280 @@
+﻿verbo_lema,frecuencia,tipo,relacion_canonica,cluster
+representar,58,nueva_relacion,representar,0
+constar,32,nueva_verbalizacion,representar,0
+figurar,28,nueva_verbalizacion,representar,0
+actuar,19,nueva_verbalizacion,representar,0
+recibir,16,nueva_verbalizacion,representar,0
+intervenir,14,nueva_verbalizacion,representar,0
+escribir,13,nueva_relacion,escribir,-1
+recoger,12,nueva_relacion,recoger,-1
+aparecer,11,nueva_verbalizacion,representar,0
+vea él,11,nueva_verbalizacion,representar,0
+participar,11,nueva_verbalizacion,representar,0
+salir,11,nueva_verbalizacion,representar,0
+indicar,10,nueva_verbalizacion,representar,0
+referir,9,nueva_verbalizacion,representar,0
+pagar,9,nueva_relacion,pagar,-1
+corresponder,8,nueva_relacion,corresponder,-1
+llevar,7,nueva_verbalizacion,representar,0
+acudir,7,nueva_verbalizacion,representar,0
+vivir,7,nueva_relacion,vivir,-1
+suponer,7,nueva_verbalizacion,representar,0
+incluir,6,nueva_verbalizacion,representar,0
+ver,6,nueva_verbalizacion,representar,0
+conservar,6,nueva_verbalizacion,representar,0
+entregar,6,nueva_verbalizacion,representar,0
+dejar,6,nueva_verbalizacion,representar,0
+señalar,5,nueva_verbalizacion,representar,0
+enviar,5,nueva_verbalizacion,representar,0
+creer,5,nueva_relacion,creer,-1
+reír,5,nueva_relacion,reír,-1
+pedir,5,nueva_verbalizacion,representar,0
+poner,5,nueva_verbalizacion,representar,0
+morir,5,nueva_relacion,morir,-1
+apuntar,5,nueva_verbalizacion,representar,0
+observar,5,nueva_verbalizacion,representar,0
+formar,5,nueva_verbalizacion,representar,0
+deducir,4,nueva_verbalizacion,representar,0
+gozar,4,nueva_verbalizacion,representar,0
+aludir,4,nueva_verbalizacion,representar,0
+afirmar,4,nueva_verbalizacion,representar,0
+notificar,4,nueva_verbalizacion,representar,0
+pasar,4,nueva_verbalizacion,representar,0
+llamar,4,nueva_relacion,llamar,-1
+cumplir,4,nueva_verbalizacion,representar,0
+ordenar,4,nueva_verbalizacion,representar,0
+llegar,4,nueva_verbalizacion,representar,0
+encontrar,4,nueva_relacion,encontrar,-1
+acusar,4,nueva_relacion,acusar,-1
+identificar,4,nueva_verbalizacion,representar,0
+cantar,4,nueva_relacion,cantar,-1
+nacer,4,nueva_relacion,nacer,-1
+concertar,4,nueva_relacion,concertar,-1
+volver,4,nueva_relacion,volver,1
+pertenecer,4,nueva_verbalizacion,representar,0
+relatar,4,nueva_verbalizacion,representar,0
+dar,4,nueva_verbalizacion,representar,0
+acabar,4,nueva_verbalizacion,representar,0
+solicitar,4,nueva_verbalizacion,representar,0
+deber,3,nueva_relacion,deber,-1
+declarar,3,nueva_verbalizacion,representar,0
+repetir,3,nueva_relacion,repetir,-1
+documentar,3,nueva_relacion,documentar,-1
+describir,3,nueva_verbalizacion,representar,0
+firmar,3,nueva_relacion,firmar,-1
+mencionar,3,nueva_verbalizacion,representar,0
+ocupar,3,nueva_verbalizacion,representar,0
+imitar,3,nueva_relacion,imitar,-1
+asistir,3,nueva_verbalizacion,representar,0
+celebrar,3,nueva_relacion,celebrar,-1
+festejar,3,nueva_relacion,festejar,-1
+comprometer,3,nueva_verbalizacion,representar,0
+proponer,3,nueva_relacion,proponer,-1
+inferir,3,nueva_verbalizacion,representar,0
+trabajar,3,nueva_relacion,trabajar,-1
+obtener,3,nueva_verbalizacion,representar,0
+mandar,3,nueva_relacion,mandar,-1
+saber,3,nueva_verbalizacion,representar,0
+servir,3,nueva_verbalizacion,representar,0
+establecer,3,nueva_verbalizacion,representar,0
+presentar,3,nueva_verbalizacion,representar,0
+bautizar,2,nueva_relacion,bautizar,-1
+destacar,2,nueva_verbalizacion,representar,0
+anunciar,2,nueva_verbalizacion,representar,0
+soler,2,nueva_relacion,soler,-1
+hablar,2,nueva_verbalizacion,representar,0
+enterrar,2,nueva_relacion,enterrar,-1
+vender,2,nueva_verbalizacion,representar,0
+publicar,2,nueva_verbalizacion,representar,0
+estrenar,2,nueva_verbalizacion,representar,0
+mirar,2,nueva_verbalizacion,representar,0
+contar,2,nueva_verbalizacion,representar,0
+aludir él,2,nueva_verbalizacion,representar,0
+manejar,2,nueva_verbalizacion,representar,0
+nefar,2,nueva_verbalizacion,representar,0
+conceder,2,nueva_verbalizacion,representar,0
+sacar,2,nueva_verbalizacion,representar,0
+producir,2,nueva_verbalizacion,representar,0
+contener,2,nueva_verbalizacion,representar,0
+vengar,2,nueva_verbalizacion,representar,0
+citar,2,nueva_verbalizacion,representar,0
+sepultar,2,nueva_verbalizacion,representar,0
+interpretar,2,nueva_verbalizacion,representar,0
+consultar,2,nueva_verbalizacion,representar,0
+sugerir,2,nueva_verbalizacion,representar,0
+querer,2,nueva_verbalizacion,representar,0
+cobrar,2,nueva_relacion,cobrar,-1
+tomar,2,nueva_verbalizacion,representar,0
+hallar,2,nueva_verbalizacion,representar,0
+dar él,2,nueva_verbalizacion,representar,0
+terminar,2,nueva_verbalizacion,representar,0
+permitir,2,nueva_verbalizacion,representar,0
+continuar,2,nueva_verbalizacion,representar,0
+hacer él,2,nueva_verbalizacion,representar,0
+perder,2,nueva_relacion,perder,-1
+volver él,2,nueva_verbalizacion,volver,1
+sentar,2,nueva_relacion,sentar,-1
+empezar,2,nueva_verbalizacion,representar,0
+recordar,2,nueva_relacion,recordar,-1
+testimoniar,2,nueva_relacion,testimoniar,-1
+véar,2,nueva_verbalizacion,representar,0
+compartir,2,nueva_verbalizacion,representar,0
+haer,2,nueva_relacion,haer,-1
+costar,2,nueva_verbalizacion,representar,0
+conocer,2,nueva_verbalizacion,representar,0
+vestir,2,nueva_verbalizacion,representar,0
+aventurar,2,nueva_relacion,aventurar,-1
+anotar,2,nueva_verbalizacion,representar,0
+recibir él,2,nueva_verbalizacion,representar,0
+acompañar,2,nueva_verbalizacion,representar,0
+embargar,2,nueva_verbalizacion,representar,0
+aplazar,1,nueva_relacion,aplazar,-1
+venir,1,nueva_verbalizacion,representar,0
+aconsejar,1,nueva_verbalizacion,representar,0
+fundar él,1,nueva_verbalizacion,representar,0
+provocar,1,nueva_verbalizacion,representar,0
+evocar,1,nueva_verbalizacion,representar,0
+bajar,1,nueva_relacion,bajar,-1
+dirigir él,1,nueva_relacion,dirigir él,-1
+haciendo él,1,nueva_verbalizacion,representar,0
+regresar,1,nueva_verbalizacion,volver,1
+considerar,1,nueva_verbalizacion,representar,0
+ceder,1,nueva_verbalizacion,representar,0
+disfrutar,1,nueva_verbalizacion,representar,0
+fundar,1,nueva_verbalizacion,representar,0
+lanzar,1,nueva_verbalizacion,representar,0
+caracterizar,1,nueva_verbalizacion,representar,0
+desligar,1,nueva_verbalizacion,representar,0
+zelebrar,1,nueva_verbalizacion,representar,0
+exceder,1,nueva_verbalizacion,representar,0
+responder,1,nueva_verbalizacion,representar,0
+abarcar,1,nueva_verbalizacion,representar,0
+corregir,1,nueva_verbalizacion,representar,0
+insistir,1,nueva_relacion,insistir,-1
+analizar,1,nueva_verbalizacion,representar,0
+omitiesir,1,nueva_verbalizacion,representar,0
+relacionar él,1,nueva_verbalizacion,representar,0
+estubir,1,nueva_verbalizacion,representar,0
+pintar,1,nueva_relacion,pintar,-1
+faltar,1,nueva_verbalizacion,representar,0
+relacionar,1,nueva_verbalizacion,representar,0
+sobrar,1,nueva_verbalizacion,representar,0
+perpetuar,1,nueva_relacion,perpetuar,-1
+untar,1,nueva_verbalizacion,representar,0
+caer,1,nueva_verbalizacion,representar,0
+juntar,1,nueva_relacion,juntar,-1
+bromear,1,nueva_relacion,bromear,-1
+componer,1,nueva_verbalizacion,representar,0
+disputar,1,nueva_verbalizacion,representar,0
+aprender,1,nueva_relacion,aprender,-1
+tratar,1,nueva_verbalizacion,representar,0
+persigáis,1,nueva_verbalizacion,representar,0
+incorporar,1,nueva_verbalizacion,representar,0
+omitir,1,nueva_verbalizacion,representar,0
+hallar él,1,nueva_verbalizacion,representar,0
+obligar,1,nueva_verbalizacion,representar,0
+ganar,1,nueva_relacion,ganar,-1
+elegir,1,nueva_verbalizacion,representar,0
+deber él,1,nueva_verbalizacion,representar,0
+haber él,1,nueva_verbalizacion,representar,0
+efectuar,1,nueva_verbalizacion,representar,0
+liberar,1,nueva_verbalizacion,representar,0
+requerir,1,nueva_verbalizacion,representar,0
+traer,1,nueva_verbalizacion,representar,0
+notar,1,nueva_verbalizacion,representar,0
+explicitar,1,nueva_relacion,explicitar,-1
+detener,1,nueva_verbalizacion,representar,0
+seguir,1,nueva_verbalizacion,representar,0
+atribuir,1,nueva_verbalizacion,representar,0
+traducir,1,nueva_verbalizacion,representar,0
+mostrar,1,nueva_verbalizacion,representar,0
+ver él,1,nueva_verbalizacion,representar,0
+mostrar él,1,nueva_verbalizacion,representar,0
+mantener,1,nueva_verbalizacion,representar,0
+tramar,1,nueva_verbalizacion,representar,0
+quitar,1,nueva_verbalizacion,representar,0
+leer,1,nueva_verbalizacion,representar,0
+bailar,1,nueva_verbalizacion,representar,0
+encargar,1,nueva_verbalizacion,representar,0
+contratar,1,nueva_verbalizacion,representar,0
+prestar,1,nueva_verbalizacion,representar,0
+decidir,1,nueva_verbalizacion,representar,0
+marchar él,1,nueva_verbalizacion,representar,0
+permanecer,1,nueva_verbalizacion,representar,0
+descontar él,1,nueva_verbalizacion,representar,0
+huvierar,1,nueva_verbalizacion,representar,0
+prorrogar,1,nueva_verbalizacion,representar,0
+eliminar,1,nueva_verbalizacion,representar,0
+consentir,1,nueva_verbalizacion,representar,0
+actualizar,1,nueva_verbalizacion,representar,0
+ofrecer,1,nueva_verbalizacion,representar,0
+añadir,1,nueva_verbalizacion,representar,0
+impedir,1,nueva_verbalizacion,representar,0
+bastar,1,nueva_relacion,bastar,-1
+proceder,1,nueva_verbalizacion,representar,0
+extender,1,nueva_relacion,extender,-1
+repasar,1,nueva_verbalizacion,representar,0
+dejastar,1,nueva_verbalizacion,representar,0
+paliar,1,nueva_relacion,paliar,-1
+aumentar,1,nueva_verbalizacion,representar,0
+contraer,1,nueva_verbalizacion,representar,0
+divertir,1,nueva_verbalizacion,representar,0
+presenciar,1,nueva_verbalizacion,representar,0
+desplazar,1,nueva_verbalizacion,representar,0
+llevar él,1,nueva_verbalizacion,representar,0
+pagar él,1,nueva_relacion,pagar él,-1
+refundir,1,nueva_relacion,refundir,-1
+andar,1,nueva_verbalizacion,representar,0
+estubo,1,nueva_verbalizacion,representar,0
+referir él,1,nueva_verbalizacion,representar,0
+acordar,1,nueva_relacion,acordar,-1
+ingresar,1,nueva_relacion,ingresar,-1
+visitar,1,nueva_verbalizacion,representar,0
+reunir,1,nueva_verbalizacion,representar,0
+sobrevenir,1,nueva_relacion,sobrevenir,-1
+guardar,1,nueva_verbalizacion,representar,0
+reflejar,1,nueva_relacion,reflejar,-1
+obrar,1,nueva_verbalizacion,representar,0
+preparar,1,nueva_verbalizacion,representar,0
+comprometer él,1,nueva_verbalizacion,representar,0
+informar,1,nueva_verbalizacion,representar,0
+informar él,1,nueva_verbalizacion,representar,0
+estair,1,nueva_verbalizacion,representar,0
+huvir,1,nueva_verbalizacion,representar,0
+entretener,1,nueva_verbalizacion,representar,0
+inquietar,1,nueva_relacion,inquietar,-1
+atreveír,1,nueva_relacion,atreveír,-1
+necesitar,1,nueva_verbalizacion,representar,0
+descuidar,1,nueva_verbalizacion,representar,0
+saber él,1,nueva_verbalizacion,representar,0
+denominar,1,nueva_verbalizacion,representar,0
+datar,1,nueva_verbalizacion,representar,0
+alabar,1,nueva_relacion,alabar,-1
+arrimar,1,nueva_verbalizacion,representar,0
+represento él,1,nueva_verbalizacion,representar,0
+emplear,1,nueva_verbalizacion,representar,0
+fallecer,1,nueva_verbalizacion,representar,0
+quar,1,nueva_verbalizacion,representar,0
+exemplar,1,nueva_verbalizacion,representar,0
+encubrir,1,nueva_verbalizacion,representar,0
+ocasionar,1,nueva_verbalizacion,representar,0
+encontrar él,1,nueva_relacion,encontrar él,-1
+deducir él,1,nueva_verbalizacion,representar,0
+güelir,1,nueva_verbalizacion,representar,0
+nombrar él,1,nueva_verbalizacion,representar,0
+entrar,1,nueva_verbalizacion,representar,0
+tirar,1,nueva_verbalizacion,representar,0
+guiar,1,nueva_verbalizacion,representar,0
+subir él,1,nueva_verbalizacion,representar,0
+estimar,1,nueva_verbalizacion,representar,0
+remedar,1,nueva_relacion,remedar,-1
+manifestar,1,nueva_verbalizacion,representar,0
+rondar,1,nueva_verbalizacion,representar,0
+destar,1,nueva_relacion,destar,-1
+otorgar,1,nueva_verbalizacion,representar,0
+rematar,1,nueva_verbalizacion,representar,0
+invalidar,1,nueva_verbalizacion,representar,0
+especificar,1,nueva_verbalizacion,representar,0
+situar,1,nueva_verbalizacion,representar,0
+confirmar,1,nueva_verbalizacion,representar,0
+aplicar,1,nueva_verbalizacion,representar,0

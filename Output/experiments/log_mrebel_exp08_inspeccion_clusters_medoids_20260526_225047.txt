@@ -1,0 +1,2330 @@
+============================================================
+CLUSTER 0
+============================================================
+
+Relación elegida:
+- concept -- unemployment rate -- num 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 1
+============================================================
+
+Relación elegida:
+- person -- languages spoken, written or signed -- concept 
+
+Número de relaciones: 22
+
+
+============================================================
+CLUSTER 2
+============================================================
+
+Relación elegida:
+- person -- partner in business or sport -- person 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 3
+============================================================
+
+Relación elegida:
+- media -- number of episodes -- num 
+
+Número de relaciones: 11
+
+
+============================================================
+CLUSTER 4
+============================================================
+
+Relación elegida:
+- person -- country of citizenship -- location 
+
+Número de relaciones: 11
+
+
+============================================================
+CLUSTER 5
+============================================================
+
+Relación elegida:
+- person -- archives at -- location 
+
+Número de relaciones: 10
+
+
+============================================================
+CLUSTER 6
+============================================================
+
+Relación elegida:
+- person -- date of death -- date 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 7
+============================================================
+
+Relación elegida:
+- person -- date of birth -- date 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 8
+============================================================
+
+Relación elegida:
+- person -- date of birth -- date 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 9
+============================================================
+
+Relación elegida:
+- person -- currency -- concept 
+
+Número de relaciones: 11
+
+
+============================================================
+CLUSTER 10
+============================================================
+
+Relación elegida:
+- concept -- has quality -- concept 
+
+Número de relaciones: 8
+
+
+============================================================
+CLUSTER 11
+============================================================
+
+Relación elegida:
+- concept -- duration -- num 
+
+Número de relaciones: 9
+
+
+============================================================
+CLUSTER 12
+============================================================
+
+Relación elegida:
+- concept -- quantity -- num 
+
+Número de relaciones: 41
+
+
+============================================================
+CLUSTER 13
+============================================================
+
+Relación elegida:
+- concept -- population -- num 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 14
+============================================================
+
+Relación elegida:
+- location -- shares border with -- location 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 15
+============================================================
+
+Relación elegida:
+- person -- mass -- num 
+
+Número de relaciones: 8
+
+
+============================================================
+CLUSTER 16
+============================================================
+
+Relación elegida:
+- unk -- occupation -- concept 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 17
+============================================================
+
+Relación elegida:
+- concept -- mass -- num 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 18
+============================================================
+
+Relación elegida:
+- concept -- mass -- num 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 19
+============================================================
+
+Relación elegida:
+- organization -- number of parts of this work -- num 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 20
+============================================================
+
+Relación elegida:
+- concept -- number of parts of this work -- num 
+
+Número de relaciones: 17
+
+
+============================================================
+CLUSTER 21
+============================================================
+
+Relación elegida:
+- person -- work period (start) -- date 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 22
+============================================================
+
+Relación elegida:
+- eve -- located in the administrative territorial entity -- location 
+
+Número de relaciones: 10
+
+
+============================================================
+CLUSTER 23
+============================================================
+
+Relación elegida:
+- eve -- location -- location 
+
+Número de relaciones: 11
+
+
+============================================================
+CLUSTER 24
+============================================================
+
+Relación elegida:
+- person -- unmarried partner -- person 
+
+Número de relaciones: 23
+
+
+============================================================
+CLUSTER 25
+============================================================
+
+Relación elegida:
+- person -- unmarried partner -- person 
+
+Número de relaciones: 9
+
+
+============================================================
+CLUSTER 26
+============================================================
+
+Relación elegida:
+- person -- position held -- concept 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 27
+============================================================
+
+Relación elegida:
+- person -- position held -- person 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 28
+============================================================
+
+Relación elegida:
+- concept -- event distance -- num 
+
+Número de relaciones: 12
+
+
+============================================================
+CLUSTER 29
+============================================================
+
+Relación elegida:
+- location -- twinned administrative body -- location 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 30
+============================================================
+
+Relación elegida:
+- eve -- participant -- person 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 31
+============================================================
+
+Relación elegida:
+- eve -- organizer -- person 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 32
+============================================================
+
+Relación elegida:
+- concept -- manufacturer -- concept 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 33
+============================================================
+
+Relación elegida:
+- person -- genre -- concept 
+
+Número de relaciones: 25
+
+
+============================================================
+CLUSTER 34
+============================================================
+
+Relación elegida:
+- concept -- replaces -- concept 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 35
+============================================================
+
+Relación elegida:
+- concept -- replaces -- concept 
+
+Número de relaciones: 14
+
+
+============================================================
+CLUSTER 36
+============================================================
+
+Relación elegida:
+- concept -- performer -- person 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 37
+============================================================
+
+Relación elegida:
+- person -- place of birth <per> Madrid <loc> place of birth -- location 
+
+Número de relaciones: 10
+
+
+============================================================
+CLUSTER 38
+============================================================
+
+Relación elegida:
+- eve -- follows -- eve 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 39
+============================================================
+
+Relación elegida:
+- media -- composer -- person 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 40
+============================================================
+
+Relación elegida:
+- concept -- composer -- person 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 41
+============================================================
+
+Relación elegida:
+- person -- place of birth -- concept 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 42
+============================================================
+
+Relación elegida:
+- concept -- place of birth -- location 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 43
+============================================================
+
+Relación elegida:
+- person -- place of death -- location 
+
+Número de relaciones: 38
+
+
+============================================================
+CLUSTER 44
+============================================================
+
+Relación elegida:
+- time -- location -- location 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 45
+============================================================
+
+Relación elegida:
+- person -- place of birth -- location 
+
+Número de relaciones: 91
+
+
+============================================================
+CLUSTER 46
+============================================================
+
+Relación elegida:
+- person -- place of death -- location 
+
+Número de relaciones: 19
+
+
+============================================================
+CLUSTER 47
+============================================================
+
+Relación elegida:
+- person -- place of death -- location 
+
+Número de relaciones: 24
+
+
+============================================================
+CLUSTER 48
+============================================================
+
+Relación elegida:
+- person -- place of birth -- location 
+
+Número de relaciones: 9
+
+
+============================================================
+CLUSTER 49
+============================================================
+
+Relación elegida:
+- person -- place of birth -- location 
+
+Número de relaciones: 35
+
+
+============================================================
+CLUSTER 50
+============================================================
+
+Relación elegida:
+- person -- place of birth -- location 
+
+Número de relaciones: 51
+
+
+============================================================
+CLUSTER 51
+============================================================
+
+Relación elegida:
+- person -- said to be the same as -- person 
+
+Número de relaciones: 12
+
+
+============================================================
+CLUSTER 52
+============================================================
+
+Relación elegida:
+- person -- award received -- organization 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 53
+============================================================
+
+Relación elegida:
+- concept -- genre -- concept 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 54
+============================================================
+
+Relación elegida:
+- concept -- author <concept> 22 de abril de 1624 <date> publication date -- person 
+
+Número de relaciones: 9
+
+
+============================================================
+CLUSTER 55
+============================================================
+
+Relación elegida:
+- concept -- publication date -- date 
+
+Número de relaciones: 10
+
+
+============================================================
+CLUSTER 56
+============================================================
+
+Relación elegida:
+- media -- located in the administrative territorial entity -- location 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 57
+============================================================
+
+Relación elegida:
+- person -- instrument -- concept 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 58
+============================================================
+
+Relación elegida:
+- person -- instrument -- concept 
+
+Número de relaciones: 15
+
+
+============================================================
+CLUSTER 59
+============================================================
+
+Relación elegida:
+- concept -- said to be the same as -- concept 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 60
+============================================================
+
+Relación elegida:
+- time -- located in the administrative territorial entity -- location 
+
+Número de relaciones: 8
+
+
+============================================================
+CLUSTER 61
+============================================================
+
+Relación elegida:
+- person -- described by source -- media 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 62
+============================================================
+
+Relación elegida:
+- person -- described by source -- organization 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 63
+============================================================
+
+Relación elegida:
+- concept -- place of publication -- location 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 64
+============================================================
+
+Relación elegida:
+- organization -- place of publication -- location 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 65
+============================================================
+
+Relación elegida:
+- concept -- described by source -- organization 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 66
+============================================================
+
+Relación elegida:
+- eve -- point in time -- date 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 67
+============================================================
+
+Relación elegida:
+- miscellaneous -- collection -- location 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 68
+============================================================
+
+Relación elegida:
+- location -- occupant -- person 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 69
+============================================================
+
+Relación elegida:
+- concept -- has cause -- concept 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 70
+============================================================
+
+Relación elegida:
+- location -- located on terrain feature -- location 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 71
+============================================================
+
+Relación elegida:
+- location -- contains settlement -- location 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 72
+============================================================
+
+Relación elegida:
+- organization -- located in the administrative territorial entity -- location 
+
+Número de relaciones: 19
+
+
+============================================================
+CLUSTER 73
+============================================================
+
+Relación elegida:
+- miscellaneous -- child -- miscellaneous 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 74
+============================================================
+
+Relación elegida:
+- concept -- collection -- location 
+
+Número de relaciones: 17
+
+
+============================================================
+CLUSTER 75
+============================================================
+
+Relación elegida:
+- concept -- collection -- location 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 76
+============================================================
+
+Relación elegida:
+- media -- performer -- person 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 77
+============================================================
+
+Relación elegida:
+- person -- child -- unk 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 78
+============================================================
+
+Relación elegida:
+- location -- located in the administrative territorial entity <loc> Valladolid <loc> located in the administrative territorial entity -- location 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 79
+============================================================
+
+Relación elegida:
+- media -- follows -- media 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 80
+============================================================
+
+Relación elegida:
+- person -- child -- person 
+
+Número de relaciones: 193
+
+
+============================================================
+CLUSTER 81
+============================================================
+
+Relación elegida:
+- location -- located in the administrative territorial entity <loc> Valencia <loc> located in the administrative territorial entity -- location 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 82
+============================================================
+
+Relación elegida:
+- person -- child -- concept 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 83
+============================================================
+
+Relación elegida:
+- concept -- child -- person 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 84
+============================================================
+
+Relación elegida:
+- concept -- located in the administrative territorial entity <concept> Madrid <loc> located in the administrative territorial entity -- location 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 85
+============================================================
+
+Relación elegida:
+- location -- located in the administrative territorial entity <loc> Madrid <loc> located in the administrative territorial entity -- location 
+
+Número de relaciones: 17
+
+
+============================================================
+CLUSTER 86
+============================================================
+
+Relación elegida:
+- location -- located in the administrative territorial entity <loc> Madrid <loc> located in the administrative territorial entity <loc> Madrid <loc> located in the administrative territorial entity -- location 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 87
+============================================================
+
+Relación elegida:
+- person -- spouse -- person 
+
+Número de relaciones: 419
+
+
+============================================================
+CLUSTER 88
+============================================================
+
+Relación elegida:
+- person -- residence -- location 
+
+Número de relaciones: 22
+
+
+============================================================
+CLUSTER 89
+============================================================
+
+Relación elegida:
+- person -- residence -- location 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 90
+============================================================
+
+Relación elegida:
+- concept -- inception -- date 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 91
+============================================================
+
+Relación elegida:
+- concept -- spouse -- concept 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 92
+============================================================
+
+Relación elegida:
+- person -- work location -- location 
+
+Número de relaciones: 59
+
+
+============================================================
+CLUSTER 93
+============================================================
+
+Relación elegida:
+- concept -- spouse -- person 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 94
+============================================================
+
+Relación elegida:
+- person -- spouse -- concept 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 95
+============================================================
+
+Relación elegida:
+- person -- spouse -- unk 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 96
+============================================================
+
+Relación elegida:
+- unk -- spouse -- person 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 97
+============================================================
+
+Relación elegida:
+- media -- narrative location -- location 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 98
+============================================================
+
+Relación elegida:
+- media -- cast member -- person 
+
+Número de relaciones: 8
+
+
+============================================================
+CLUSTER 99
+============================================================
+
+Relación elegida:
+- location -- located in the administrative territorial entity -- concept 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 100
+============================================================
+
+Relación elegida:
+- concept -- located in the administrative territorial entity -- location 
+
+Número de relaciones: 104
+
+
+============================================================
+CLUSTER 101
+============================================================
+
+Relación elegida:
+- concept -- located in the administrative territorial entity -- location 
+
+Número de relaciones: 25
+
+
+============================================================
+CLUSTER 102
+============================================================
+
+Relación elegida:
+- organization -- headquarters location -- location 
+
+Número de relaciones: 23
+
+
+============================================================
+CLUSTER 103
+============================================================
+
+Relación elegida:
+- location -- located in the administrative territorial entity -- location 
+
+Número de relaciones: 129
+
+
+============================================================
+CLUSTER 104
+============================================================
+
+Relación elegida:
+- location -- located in the administrative territorial entity -- location 
+
+Número de relaciones: 116
+
+
+============================================================
+CLUSTER 105
+============================================================
+
+Relación elegida:
+- concept -- narrative location -- location 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 106
+============================================================
+
+Relación elegida:
+- location -- discoverer or inventor -- person 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 107
+============================================================
+
+Relación elegida:
+- concept -- significant person -- person 
+
+Número de relaciones: 8
+
+
+============================================================
+CLUSTER 108
+============================================================
+
+Relación elegida:
+- concept -- named after -- person 
+
+Número de relaciones: 8
+
+
+============================================================
+CLUSTER 109
+============================================================
+
+Relación elegida:
+- person -- significant person -- person 
+
+Número de relaciones: 38
+
+
+============================================================
+CLUSTER 110
+============================================================
+
+Relación elegida:
+- person -- significant event -- concept 
+
+Número de relaciones: 23
+
+
+============================================================
+CLUSTER 111
+============================================================
+
+Relación elegida:
+- person -- significant event -- concept 
+
+Número de relaciones: 21
+
+
+============================================================
+CLUSTER 112
+============================================================
+
+Relación elegida:
+- location -- country -- location 
+
+Número de relaciones: 12
+
+
+============================================================
+CLUSTER 113
+============================================================
+
+Relación elegida:
+- concept -- follows -- concept 
+
+Número de relaciones: 85
+
+
+============================================================
+CLUSTER 114
+============================================================
+
+Relación elegida:
+- person -- significant person -- person 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 115
+============================================================
+
+Relación elegida:
+- person -- significant person -- person 
+
+Número de relaciones: 28
+
+
+============================================================
+CLUSTER 116
+============================================================
+
+Relación elegida:
+- concept -- sibling -- person 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 117
+============================================================
+
+Relación elegida:
+- location -- part of -- location 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 118
+============================================================
+
+Relación elegida:
+- person -- sibling -- person 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 119
+============================================================
+
+Relación elegida:
+- person -- sibling -- person 
+
+Número de relaciones: 101
+
+
+============================================================
+CLUSTER 120
+============================================================
+
+Relación elegida:
+- organization -- characters -- miscellaneous 
+
+Número de relaciones: 14
+
+
+============================================================
+CLUSTER 121
+============================================================
+
+Relación elegida:
+- person -- different from -- person 
+
+Número de relaciones: 31
+
+
+============================================================
+CLUSTER 122
+============================================================
+
+Relación elegida:
+- media -- creator -- person 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 123
+============================================================
+
+Relación elegida:
+- organization -- part of -- media 
+
+Número de relaciones: 17
+
+
+============================================================
+CLUSTER 124
+============================================================
+
+Relación elegida:
+- person -- notable work -- media 
+
+Número de relaciones: 17
+
+
+============================================================
+CLUSTER 125
+============================================================
+
+Relación elegida:
+- organization -- characters -- concept 
+
+Número de relaciones: 10
+
+
+============================================================
+CLUSTER 126
+============================================================
+
+Relación elegida:
+- person -- different from -- person 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 127
+============================================================
+
+Relación elegida:
+- person -- different from -- person 
+
+Número de relaciones: 20
+
+
+============================================================
+CLUSTER 128
+============================================================
+
+Relación elegida:
+- time -- follows <time> 1644 <time> follows -- time 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 129
+============================================================
+
+Relación elegida:
+- concept -- point in time -- date 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 130
+============================================================
+
+Relación elegida:
+- concept -- point in time -- date 
+
+Número de relaciones: 12
+
+
+============================================================
+CLUSTER 131
+============================================================
+
+Relación elegida:
+- organization -- characters -- person 
+
+Número de relaciones: 11
+
+
+============================================================
+CLUSTER 132
+============================================================
+
+Relación elegida:
+- media -- author -- person 
+
+Número de relaciones: 51
+
+
+============================================================
+CLUSTER 133
+============================================================
+
+Relación elegida:
+- concept -- follows -- time 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 134
+============================================================
+
+Relación elegida:
+- time -- follows -- time 
+
+Número de relaciones: 115
+
+
+============================================================
+CLUSTER 135
+============================================================
+
+Relación elegida:
+- person -- part of -- media 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 136
+============================================================
+
+Relación elegida:
+- organization -- characters -- person 
+
+Número de relaciones: 11
+
+
+============================================================
+CLUSTER 137
+============================================================
+
+Relación elegida:
+- organization -- characters -- person 
+
+Número de relaciones: 11
+
+
+============================================================
+CLUSTER 138
+============================================================
+
+Relación elegida:
+- concept -- discoverer or inventor -- person 
+
+Número de relaciones: 10
+
+
+============================================================
+CLUSTER 139
+============================================================
+
+Relación elegida:
+- time -- part of -- concept 
+
+Número de relaciones: 17
+
+
+============================================================
+CLUSTER 140
+============================================================
+
+Relación elegida:
+- time -- part of -- time 
+
+Número de relaciones: 10
+
+
+============================================================
+CLUSTER 141
+============================================================
+
+Relación elegida:
+- time -- point in time -- date 
+
+Número de relaciones: 40
+
+
+============================================================
+CLUSTER 142
+============================================================
+
+Relación elegida:
+- miscellaneous -- point in time -- date 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 143
+============================================================
+
+Relación elegida:
+- media -- characters -- media 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 144
+============================================================
+
+Relación elegida:
+- organization -- characters -- media 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 145
+============================================================
+
+Relación elegida:
+- concept -- destination point -- location 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 146
+============================================================
+
+Relación elegida:
+- concept -- location -- location 
+
+Número de relaciones: 17
+
+
+============================================================
+CLUSTER 147
+============================================================
+
+Relación elegida:
+- organization -- follows -- organization 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 148
+============================================================
+
+Relación elegida:
+- organization -- follows -- organization 
+
+Número de relaciones: 10
+
+
+============================================================
+CLUSTER 149
+============================================================
+
+Relación elegida:
+- location -- contains -- concept 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 150
+============================================================
+
+Relación elegida:
+- person -- employer -- concept 
+
+Número de relaciones: 8
+
+
+============================================================
+CLUSTER 151
+============================================================
+
+Relación elegida:
+- media -- instance of -- concept 
+
+Número de relaciones: 8
+
+
+============================================================
+CLUSTER 152
+============================================================
+
+Relación elegida:
+- location -- instance of -- concept 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 153
+============================================================
+
+Relación elegida:
+- location -- instance of -- concept 
+
+Número de relaciones: 12
+
+
+============================================================
+CLUSTER 154
+============================================================
+
+Relación elegida:
+- media -- part of -- concept 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 155
+============================================================
+
+Relación elegida:
+- concept -- part of -- media 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 156
+============================================================
+
+Relación elegida:
+- concept -- main subject -- concept 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 157
+============================================================
+
+Relación elegida:
+- concept -- occupation -- concept 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 158
+============================================================
+
+Relación elegida:
+- concept -- field of this occupation -- concept 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 159
+============================================================
+
+Relación elegida:
+- person -- relative -- person 
+
+Número de relaciones: 48
+
+
+============================================================
+CLUSTER 160
+============================================================
+
+Relación elegida:
+- person -- relative -- person 
+
+Número de relaciones: 48
+
+
+============================================================
+CLUSTER 161
+============================================================
+
+Relación elegida:
+- person -- field of work -- concept 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 162
+============================================================
+
+Relación elegida:
+- concept -- participant -- person 
+
+Número de relaciones: 10
+
+
+============================================================
+CLUSTER 163
+============================================================
+
+Relación elegida:
+- person -- spouse <per> Antonio de Rueda <per> spouse -- person 
+
+Número de relaciones: 9
+
+
+============================================================
+CLUSTER 164
+============================================================
+
+Relación elegida:
+- organization -- author <org> Nicolás Moro <per> author <org> Juan Marín <per> author -- person 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 165
+============================================================
+
+Relación elegida:
+- person -- notable work -- concept 
+
+Número de relaciones: 10
+
+
+============================================================
+CLUSTER 166
+============================================================
+
+Relación elegida:
+- person -- notable work -- concept 
+
+Número de relaciones: 43
+
+
+============================================================
+CLUSTER 167
+============================================================
+
+Relación elegida:
+- person -- occupation -- concept 
+
+Número de relaciones: 23
+
+
+============================================================
+CLUSTER 168
+============================================================
+
+Relación elegida:
+- person -- occupation -- concept 
+
+Número de relaciones: 157
+
+
+============================================================
+CLUSTER 169
+============================================================
+
+Relación elegida:
+- concept -- creator -- person 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 170
+============================================================
+
+Relación elegida:
+- concept -- founded by -- person 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 171
+============================================================
+
+Relación elegida:
+- person -- member of <per> PP <org> member of -- organization 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 172
+============================================================
+
+Relación elegida:
+- person -- sibling <per> Francisco de Chaves <per> sibling <per> Juan de Chaves <per> sibling <per> Diego de Chaves <per> sibling -- person 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 173
+============================================================
+
+Relación elegida:
+- person -- part of -- organization 
+
+Número de relaciones: 12
+
+
+============================================================
+CLUSTER 174
+============================================================
+
+Relación elegida:
+- person -- member of -- organization 
+
+Número de relaciones: 40
+
+
+============================================================
+CLUSTER 175
+============================================================
+
+Relación elegida:
+- person -- sibling <per> Francisca <per> sibling <per> Ana <per> sibling <per> Juan <per> sibling <per> Francisco <per> sibling <per> Diego <per> sibling -- person 
+
+Número de relaciones: 12
+
+
+============================================================
+CLUSTER 176
+============================================================
+
+Relación elegida:
+- person -- sibling <per> Damián <per> sibling <per> María <per> sibling <per> Fernando <per> sibling <per> Francisco <per> sibling <per> Pedro de Castro <per> sibling -- person 
+
+Número de relaciones: 10
+
+
+============================================================
+CLUSTER 177
+============================================================
+
+Relación elegida:
+- miscellaneous -- follows -- miscellaneous 
+
+Número de relaciones: 10
+
+
+============================================================
+CLUSTER 178
+============================================================
+
+Relación elegida:
+- person -- spouse <per> Antonio de Prado <per> child -- person 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 179
+============================================================
+
+Relación elegida:
+- concept -- author <concept> José de Prado <per> author -- person 
+
+Número de relaciones: 8
+
+
+============================================================
+CLUSTER 180
+============================================================
+
+Relación elegida:
+- person -- child <per> María de Castro <per> child <per> Ángela de Castro <per> child <per> Isabel de Castro <per> child <per> Francisco de Castro <per> child <per> Pedro Ventura de Castro <per> child <per> Juan de Castro <per> child <per> Pedro Antonio de Castro <per> child <per> José de Castro <per> child <per> Catalina de Castro <per> child <per> Luis de Castro <per> child <per> Pedro José de Castro <per> child <per> Teresa de Castro <per> child -- person 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 181
+============================================================
+
+Relación elegida:
+- organization -- genre -- concept 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 182
+============================================================
+
+Relación elegida:
+- concept -- opposite of -- concept 
+
+Número de relaciones: 19
+
+
+============================================================
+CLUSTER 183
+============================================================
+
+Relación elegida:
+- concept -- subclass of -- concept 
+
+Número de relaciones: 83
+
+
+============================================================
+CLUSTER 184
+============================================================
+
+Relación elegida:
+- concept -- subclass of -- concept 
+
+Número de relaciones: 13
+
+
+============================================================
+CLUSTER 185
+============================================================
+
+Relación elegida:
+- concept -- subclass of -- concept 
+
+Número de relaciones: 12
+
+
+============================================================
+CLUSTER 186
+============================================================
+
+Relación elegida:
+- person -- child <per> Isabel de Vitoria <per> child -- person 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 187
+============================================================
+
+Relación elegida:
+- person -- author -- person 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 188
+============================================================
+
+Relación elegida:
+- person -- child <per> Francisco Arias <per> child <per> Luisa <per> child -- person 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 189
+============================================================
+
+Relación elegida:
+- person -- spouse <per> Luisa [Arias] de Peñafiel <per> child <per> Damiana [Arias] de Peñafiel <per> child <per> Gabriela de Valdés <per> child -- person 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 190
+============================================================
+
+Relación elegida:
+- organization -- language of work or name -- concept 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 191
+============================================================
+
+Relación elegida:
+- concept -- language of work or name -- concept 
+
+Número de relaciones: 10
+
+
+============================================================
+CLUSTER 192
+============================================================
+
+Relación elegida:
+- concept -- author -- person 
+
+Número de relaciones: 158
+
+
+============================================================
+CLUSTER 193
+============================================================
+
+Relación elegida:
+- miscellaneous -- part of -- miscellaneous 
+
+Número de relaciones: 13
+
+
+============================================================
+CLUSTER 194
+============================================================
+
+Relación elegida:
+- concept -- facet of -- person 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 195
+============================================================
+
+Relación elegida:
+- organization -- notable work -- concept 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 196
+============================================================
+
+Relación elegida:
+- concept -- author -- concept 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 197
+============================================================
+
+Relación elegida:
+- concept -- author -- concept 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 198
+============================================================
+
+Relación elegida:
+- organization -- author -- person 
+
+Número de relaciones: 32
+
+
+============================================================
+CLUSTER 199
+============================================================
+
+Relación elegida:
+- concept -- facet of -- concept 
+
+Número de relaciones: 23
+
+
+============================================================
+CLUSTER 200
+============================================================
+
+Relación elegida:
+- concept -- facet of -- concept 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 201
+============================================================
+
+Relación elegida:
+- person -- notable work -- organization 
+
+Número de relaciones: 17
+
+
+============================================================
+CLUSTER 202
+============================================================
+
+Relación elegida:
+- organization -- author -- person 
+
+Número de relaciones: 28
+
+
+============================================================
+CLUSTER 203
+============================================================
+
+Relación elegida:
+- organization -- author -- person 
+
+Número de relaciones: 27
+
+
+============================================================
+CLUSTER 204
+============================================================
+
+Relación elegida:
+- concept -- part of -- concept 
+
+Número de relaciones: 350
+
+
+============================================================
+CLUSTER 205
+============================================================
+
+Relación elegida:
+- person -- notable work -- organization 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 206
+============================================================
+
+Relación elegida:
+- person -- notable work -- organization 
+
+Número de relaciones: 25
+
+
+============================================================
+CLUSTER 207
+============================================================
+
+Relación elegida:
+- person -- part of -- concept 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 208
+============================================================
+
+Relación elegida:
+- concept -- published in -- organization 
+
+Número de relaciones: 9
+
+
+============================================================
+CLUSTER 209
+============================================================
+
+Relación elegida:
+- person -- member of -- concept 
+
+Número de relaciones: 32
+
+
+============================================================
+CLUSTER 210
+============================================================
+
+Relación elegida:
+- person -- member of -- concept 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 211
+============================================================
+
+Relación elegida:
+- person -- sibling <per> Ángela de Castro <per> sibling <per> Isabel de Castro <per> sibling <per> Francisco de Castro <per> sibling <per> Pedro Ventura de Castro <per> sibling <per> Juan de Castro <per> sibling <per> Pedro Antonio de Castro <per> sibling <per> José de Castro <per> sibling <per> Catalina de Castro <per> sibling <per> Luis de Castro <per> sibling <per> Pedro José de Castro <per> sibling <per> Teresa de Castro <per> sibling -- person 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 212
+============================================================
+
+Relación elegida:
+- organization -- part of -- miscellaneous 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 213
+============================================================
+
+Relación elegida:
+- organization -- main subject -- concept 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 214
+============================================================
+
+Relación elegida:
+- concept -- part of -- miscellaneous 
+
+Número de relaciones: 18
+
+
+============================================================
+CLUSTER 215
+============================================================
+
+Relación elegida:
+- miscellaneous -- instance of -- concept 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 216
+============================================================
+
+Relación elegida:
+- concept -- instance of -- concept 
+
+Número de relaciones: 10
+
+
+============================================================
+CLUSTER 217
+============================================================
+
+Relación elegida:
+- concept -- used by -- concept 
+
+Número de relaciones: 8
+
+
+============================================================
+CLUSTER 218
+============================================================
+
+Relación elegida:
+- concept -- use -- concept 
+
+Número de relaciones: 7
+
+
+============================================================
+CLUSTER 219
+============================================================
+
+Relación elegida:
+- organization -- depicts -- concept 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 220
+============================================================
+
+Relación elegida:
+- organization -- main subject -- concept 
+
+Número de relaciones: 22
+
+
+============================================================
+CLUSTER 221
+============================================================
+
+Relación elegida:
+- organization -- main subject -- concept 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 222
+============================================================
+
+Relación elegida:
+- concept -- instance of -- concept 
+
+Número de relaciones: 76
+
+
+============================================================
+CLUSTER 223
+============================================================
+
+Relación elegida:
+- concept -- instance of -- concept 
+
+Número de relaciones: 20
+
+
+============================================================
+CLUSTER 224
+============================================================
+
+Relación elegida:
+- person -- sibling <per> María de Castro <per> sibling <per> Francisco de Castro <per> sibling <per> Fernando de Castro <per> sibling -- person 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 225
+============================================================
+
+Relación elegida:
+- person -- sibling <per> Damián de Castro <per> sibling <per> Juana de Castro <per> sibling <per> Isabel de Castro <per> sibling <per> Catalina de Castro <per> sibling <per> Francisco de Castro <per> sibling <per> Pedro de Castro <per> sibling -- person 
+
+Número de relaciones: 15
+
+
+============================================================
+CLUSTER 226
+============================================================
+
+Relación elegida:
+- organization -- part of -- organization 
+
+Número de relaciones: 25
+
+
+============================================================
+CLUSTER 227
+============================================================
+
+Relación elegida:
+- organization -- part of -- concept 
+
+Número de relaciones: 6
+
+
+============================================================
+CLUSTER 228
+============================================================
+
+Relación elegida:
+- concept -- part of -- organization 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 229
+============================================================
+
+Relación elegida:
+- organization -- instance of -- concept 
+
+Número de relaciones: 4
+
+
+============================================================
+CLUSTER 230
+============================================================
+
+Relación elegida:
+- organization -- instance of -- concept 
+
+Número de relaciones: 5
+
+
+============================================================
+CLUSTER 231
+============================================================
+
+Relación elegida:
+- organization -- part of -- organization 
+
+Número de relaciones: 10
+
+
+============================================================
+CLUSTER 232
+============================================================
+
+Relación elegida:
+- organization -- part of -- organization 
+
+Número de relaciones: 6
+
+
